@@ -1,0 +1,8 @@
+# OS settings
+*.lnk
+[Dd]esktop.ini
+
+# IDE settings
+.buildpath
+.project
+.settings/
