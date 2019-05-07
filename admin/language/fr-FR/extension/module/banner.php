@@ -13,11 +13,11 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Bannière';
+$_['heading_title'] = 'Bannières';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Vous venez de modifier le module de bannière !';
-$_['text_edit'] = 'Modifier le module de bannière';
+$_['text_success'] = 'Le module des bannières a été modifié avec succès !';
+$_['text_edit'] = 'Modifier le module des bannières';
 // Entry
 $_['entry_name'] = 'Nom du module';
 $_['entry_banner'] = 'Bannière';
@@ -26,7 +26,7 @@ $_['entry_width'] = 'Largeur';
 $_['entry_height'] = 'Hauteur';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de bannière !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des bannières !';
 $_['error_name'] = 'Le nom du module doit contenir entre 3 et 64 caractères !';
 $_['error_width'] = 'La largeur est requise !';
 $_['error_height'] = 'La hauteur est requise !';
