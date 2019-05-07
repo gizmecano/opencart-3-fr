@@ -20,12 +20,12 @@ $_['text_list'] = 'Liste des unités de longueur';
 $_['text_add'] = 'Ajouter une unité de longueur';
 $_['text_edit'] = 'Modifier une unité de longueur';
 // Column
-$_['column_title'] = 'Nom de l’unité de longueur';
+$_['column_title'] = 'Nom de l’unité';
 $_['column_unit'] = 'Unité de longueur';
 $_['column_value'] = 'Valeur';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_title'] = 'Nom de la longueur';
+$_['entry_title'] = 'Nom de l’unité';
 $_['entry_unit'] = 'Unité de la longueur';
 $_['entry_value'] = 'Valeur';
 // Help

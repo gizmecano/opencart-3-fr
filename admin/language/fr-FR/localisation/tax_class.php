@@ -25,10 +25,10 @@ $_['text_shipping'] = 'Adresse de livraison';
 $_['text_payment'] = 'Adresse de facturation';
 $_['text_store'] = 'Adresse de la boutique';
 // Column
-$_['column_title'] = 'Classe de taxes';
+$_['column_title'] = 'Nom de la classe';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_title'] = 'Nom de la classe de taxes';
+$_['entry_title'] = 'Nom de la classe';
 $_['entry_description'] = 'Description';
 $_['entry_rate'] = 'Taux de taxe';
 $_['entry_based'] = 'Basé sur';

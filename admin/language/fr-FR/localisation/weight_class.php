@@ -20,12 +20,12 @@ $_['text_list'] = 'Liste des unités de poids';
 $_['text_add'] = 'Ajouter une unité de poids';
 $_['text_edit'] = 'Modifier une unité de poids';
 // Column
-$_['column_title'] = 'Nom de l’unité de poids';
+$_['column_title'] = 'Nom de l’unité';
 $_['column_unit'] = 'Unité de poids';
 $_['column_value'] = 'Valeur';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_title'] = 'Nom de l’unité de poids';
+$_['entry_title'] = 'Nom de l’unité';
 $_['entry_unit'] = 'Unité de poids';
 $_['entry_value'] = 'Valeur';
 // Help
