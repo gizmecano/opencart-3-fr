@@ -94,7 +94,7 @@ $_['entry_ip'] = 'IP';
 $_['entry_date_added'] = 'Date d’ajout';
 // Help
 $_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système antifraude';
-$_['help_affiliate'] = 'Activer ou désactiver la possibilité pour les client d’utiliser le système d’affiliation.';
+$_['help_affiliate'] = 'Activer ou désactiver la possibilité pour les clients d’utiliser le système d’affiliation.';
 $_['help_tracking'] = 'Le code qui sera utilisé pour le suivi des renvois.';
 $_['help_commission'] = 'Pourcentage reçu par l’affilé sur chaque commande.';
 $_['help_points'] = 'Utilisez le signe moins pour enlever des points';
