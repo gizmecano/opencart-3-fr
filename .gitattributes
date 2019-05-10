@@ -1,13 +1,10 @@
 # Set default behavior
 * text=auto
 
-# Ignore export OS and IDE settings
-.buildpath  export-ignore
-.project    export-ignore
-desktop.ini export-ignore
-
-# Specific VCS behaviour
-*.git* text export-ignore
+# Ignored files for export
+[Dd]esktop.ini  export-ignore
+*.git*          export-ignore
+/.github/       export-ignore
 
 # Files always having CRLF line endings
 *.php text eol=crlf
