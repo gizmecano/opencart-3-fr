@@ -1,8 +1,2 @@
-# OS settings
-*.lnk
+# Ignored files and settings
 [Dd]esktop.ini
-
-# IDE settings
-.buildpath
-.project
-.settings/
