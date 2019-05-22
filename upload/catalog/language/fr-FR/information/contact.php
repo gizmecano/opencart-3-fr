@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Contactez-nous';
 // Text
-$_['text_location'] = 'Adresse du magasin';
+$_['text_location'] = 'Adresse de la boutique';
 $_['text_store'] = 'Boutiques';
 $_['text_contact'] = 'Formulaire de contact';
 $_['text_address'] = 'Adresse';

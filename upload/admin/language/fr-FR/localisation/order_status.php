@@ -29,5 +29,5 @@ $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modi
 $_['error_name'] = 'Le nom du statut de commande doit contenir entre 3 et 32 caractères !';
 $_['error_default'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement assigné comme le statut de commande par défaut !';
 $_['error_download'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement assigné comme le statut de commande par défaut pour les téléchargements !';
-$_['error_store'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement attribué à %s magasins !';
+$_['error_store'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement attribué à %s boutiques !';
 $_['error_order'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement attribué à %s commandes !';
