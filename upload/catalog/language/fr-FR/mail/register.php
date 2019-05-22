@@ -25,4 +25,4 @@ $_['text_customer_group'] = 'Groupe de client :';
 $_['text_firstname'] = 'Prénom :';
 $_['text_lastname'] = 'Nom de famille :';
 $_['text_email'] = 'Adresse électronique :';
-$_['text_telephone'] = 'Téléphone :';
+$_['text_telephone'] = 'Numéro de téléphone :';
