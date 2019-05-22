@@ -35,7 +35,7 @@ $_['text_transaction'] = 'Transactions';
 $_['text_transaction_add'] = 'Ajouter une transaction';
 $_['text_reward'] = 'Points de fidélité';
 $_['text_reward_add'] = 'Ajouter des points de fidélité';
-$_['text_ip'] = 'IP';
+$_['text_ip'] = 'Adresse IP';
 $_['text_option'] = 'Options';
 $_['text_login'] = 'Se connecter à la boutique';
 $_['text_unlock'] = 'Débloquer le compte';
@@ -49,7 +49,7 @@ $_['column_comment'] = 'Commentaire';
 $_['column_description'] = 'Description';
 $_['column_amount'] = 'Montant';
 $_['column_points'] = 'Points';
-$_['column_ip'] = 'IP';
+$_['column_ip'] = 'Adresse IP';
 $_['column_total'] = 'Comptes totaux';
 $_['column_action'] = 'Action';
 // Entry
@@ -90,7 +90,7 @@ $_['entry_description'] = 'Description';
 $_['entry_amount'] = 'Montant';
 $_['entry_points'] = 'Points';
 $_['entry_name'] = 'Nom du client';
-$_['entry_ip'] = 'IP';
+$_['entry_ip'] = 'Adresse IP';
 $_['entry_date_added'] = 'Date d’ajout';
 // Help
 $_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système antifraude';

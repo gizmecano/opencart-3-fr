@@ -24,7 +24,7 @@ $_['text_ip'] = 'Vous pouvez créer ci-dessous une liste des adresses IP autoris
 $_['column_username'] = 'Nom de l’API';
 $_['column_status'] = 'Statut';
 $_['column_token'] = 'Jeton';
-$_['column_ip'] = 'IP';
+$_['column_ip'] = 'Adresse IP';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_date_modified'] = 'Date de modification';
 $_['column_action'] = 'Action';
@@ -32,7 +32,7 @@ $_['column_action'] = 'Action';
 $_['entry_username'] = 'Nom de l’API';
 $_['entry_key'] = 'Clef de l’API';
 $_['entry_status'] = 'Statut';
-$_['entry_ip'] = 'IP';
+$_['entry_ip'] = 'Adresse IP';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les API !';
 $_['error_username'] = 'Le nom de l’API doit contenir entre 3 et 20 caractères !';
