@@ -39,4 +39,4 @@ $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modi
 $_['error_name'] = 'Le nom du fabricant doit contenir entre 2 et 64 caractères !';
 $_['error_keyword'] = 'URL de référencement déjà en cours d’utilisation !';
 $_['error_unique'] = 'URL de référencement doit être unique !';
-$_['error_product'] = 'Attention : ce fabricant ne peut pas être supprimé car il est actuellement affecté aux produits %s !';
+$_['error_product'] = 'Attention : ce fabricant ne peut pas être supprimé car il est actuellement appliqué aux produits %s !';

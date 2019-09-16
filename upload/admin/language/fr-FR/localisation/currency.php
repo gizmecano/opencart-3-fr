@@ -42,5 +42,5 @@ $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modi
 $_['error_title'] = 'Le nom de la devise doit contenir entre 3 et 32 caractères !';
 $_['error_code'] = 'Le code de la devise doit contenir 3 caractères !';
 $_['error_default'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement définie comme la devise par défaut !';
-$_['error_store'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_order'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_store'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques !';
+$_['error_order'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement appliquée à %s commandes !';

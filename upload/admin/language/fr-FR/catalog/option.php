@@ -47,4 +47,4 @@ $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modi
 $_['error_name'] = 'Le nom de l’option doit contenir entre 1 et 128 caractères !';
 $_['error_type'] = 'Attention : les valeurs de l’option sont requises !';
 $_['error_option_value'] = 'La valeur de l’option doit contenir entre 1 et 128 caractères !';
-$_['error_product'] = 'Attention : cette option ne peut pas être supprimée car elle est actuellement attribuée à %s produits !';
+$_['error_product'] = 'Attention : cette option ne peut pas être supprimée car elle est actuellement appliquée à %s produits !';

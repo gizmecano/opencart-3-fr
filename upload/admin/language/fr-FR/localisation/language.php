@@ -41,5 +41,5 @@ $_['error_code'] = 'Le code de la langue doit contenir au moins 2 caractères !'
 $_['error_locale'] = 'Les paramètres régionaux sont requis !';
 $_['error_default'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue par défaut !';
 $_['error_admin'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue du panneau d’administration !';
-$_['error_store'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_order'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_store'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques !';
+$_['error_order'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s commandes !';

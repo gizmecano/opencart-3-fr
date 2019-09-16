@@ -35,4 +35,4 @@ $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modi
 $_['error_title'] = 'Le nom de l’unité de poids doit contenir entre 3 et 32 caractères !';
 $_['error_unit'] = 'L’unité de poids doit contenir entre 1 et 4 caractères !';
 $_['error_default'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement assignée comme unité de poids par défaut !';
-$_['error_product'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement attribuée à %s produits !';
+$_['error_product'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement appliquée à %s produits !';

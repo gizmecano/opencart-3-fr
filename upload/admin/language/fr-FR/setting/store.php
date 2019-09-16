@@ -103,4 +103,4 @@ $_['error_email'] = 'L’adresse électronique semble être invalide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_customer_group_display'] = 'Vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité !';
 $_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut !';
-$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement appliquée à %s commandes !';

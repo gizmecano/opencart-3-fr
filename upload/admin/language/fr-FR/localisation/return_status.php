@@ -28,4 +28,4 @@ $_['entry_name'] = 'Nom du statut de retour';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statuts de retour !';
 $_['error_name'] = 'Le nom du statut de retour doit contenir entre 3 et 32 caractères !';
 $_['error_default'] = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement assigné comme statut de retour par défaut !';
-$_['error_return'] = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement attribué à %s retours !';
+$_['error_return'] = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement appliqué à %s retours !';
