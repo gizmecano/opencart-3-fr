@@ -26,7 +26,7 @@ $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 // Entry
 $_['entry_username'] = 'Nom d’utilisateur';
-$_['entry_user_group'] = 'groupe d’utilisateurs';
+$_['entry_user_group'] = 'Groupe d’utilisateurs';
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer';
 $_['entry_firstname'] = 'Prénom';
