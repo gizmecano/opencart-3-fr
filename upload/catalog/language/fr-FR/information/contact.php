@@ -23,7 +23,7 @@ $_['text_telephone'] = 'Numéro de téléphone';
 $_['text_fax'] = 'Numéro de télécopie';
 $_['text_open'] = 'Horaires d’ouverture';
 $_['text_comment'] = 'Commentaires';
-$_['text_success'] = '<p>Votre demande de renseignements a été envoyée avec succès.</p>';
+$_['text_success'] = '<p>Votre demande de renseignements a été envoyée avec succès !</p>';
 // Entry
 $_['entry_name'] = 'Votre nom';
 $_['entry_email'] = 'Adresse électronique';

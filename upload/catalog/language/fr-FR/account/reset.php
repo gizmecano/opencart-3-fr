@@ -17,7 +17,7 @@ $_['heading_title'] = 'Réinitialiser votre mot de passe';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_password'] = 'Saisissez le nouveau mot de passe que vous souhaitez utiliser.';
-$_['text_success'] = 'Votre mot de passe a été modifié avec succès.';
+$_['text_success'] = 'Votre mot de passe a été modifié avec succès !';
 // Entry
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer';

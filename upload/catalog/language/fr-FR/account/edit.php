@@ -18,7 +18,7 @@ $_['heading_title'] = 'Informations de mon compte';
 $_['text_account'] = 'Compte';
 $_['text_edit'] = 'Modifier les informations';
 $_['text_your_details'] = 'Détails personnels';
-$_['text_success'] = 'Votre compte a été modifié avec succès.';
+$_['text_success'] = 'Votre compte a été modifié avec succès !';
 // Entry
 $_['entry_firstname'] = 'Prénom';
 $_['entry_lastname'] = 'Nom de famille';

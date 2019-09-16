@@ -22,7 +22,7 @@ $_['text_payment'] = 'Informations de paiement';
 $_['text_cheque'] = 'Chèque';
 $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Transfert bancaire';
-$_['text_success'] = 'Votre compte a été modifié avec succès.';
+$_['text_success'] = 'Votre compte a été modifié avec succès !';
 $_['text_agree'] = 'J’ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
 // Entry
 $_['entry_company'] = 'Compagnie';
