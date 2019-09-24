@@ -20,5 +20,5 @@ $_['text_success'] = 'La déduction de votre bon d’achat a été appliquée av
 // Entry
 $_['entry_voucher'] = 'Saisissez le code du bon d’achat ici';
 // Error
-$_['error_voucher'] = 'Attention : le bon d’achat est invalide ou son solde a déjà été compensé !';
+$_['error_voucher'] = 'Attention : le bon d’achat n’est pas valide ou son solde a déjà été compensé !';
 $_['error_empty'] = 'Attention : veuillez saisir un code de bon d’achat !';
