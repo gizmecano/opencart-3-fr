@@ -17,11 +17,11 @@ $_['text_address'] = 'L’adresse de livraison a été configurée avec succès 
 $_['text_method'] = 'Le mode de livraison a été configuré avec succès !';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’API !';
-$_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
-$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
+$_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
 $_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city'] = 'Attention : le nom de la localité doit contenir entre 3 et 128 caractères !';
-$_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 caractères !';
+$_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 et 10 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';
 $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_custom_field'] = '%s est requis !';

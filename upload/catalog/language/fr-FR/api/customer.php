@@ -16,8 +16,8 @@
 $_['text_success'] = 'Le profil a été modifié avec succès';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’API !';
-$_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
-$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
+$_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
 $_['error_email'] = 'L’adresse électronique semble être invalide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_custom_field'] = '%s requis !';
