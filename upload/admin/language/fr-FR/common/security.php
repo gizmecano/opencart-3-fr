@@ -30,7 +30,7 @@ $_['button_move'] = 'Déplacer';
 $_['button_manual'] = 'Manuel';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le répertoire de stockage !';
-$_['error_path'] = 'Attention : ce chemin est invalide !';
+$_['error_path'] = 'Attention : ce chemin de répertoire est invalide !';
 $_['error_directory'] = 'Attention : ce répertoire est invalide !';
 $_['error_exists'] = 'Attention : ce répertoire existe déjà !';
 $_['error_writable'] = 'Attention : <config.php> et <admin/config.php> doivent être autorisés en écriture !';
