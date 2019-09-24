@@ -32,5 +32,5 @@ $_['entry_enquiry'] = 'Demande de renseignements';
 $_['email_subject'] = 'Demande de renseignements : %s';
 // Errors
 $_['error_name'] = 'Attention : le nom doit contenir entre 3 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique ne semble pas valide !';
+$_['error_email'] = 'Attention : l’adresse électronique ne semble pas être valide !';
 $_['error_enquiry'] = 'Attention : la demande de renseignements doit contenir entre 10 et 3000 caractères !';
