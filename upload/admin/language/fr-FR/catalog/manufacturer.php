@@ -22,7 +22,7 @@ $_['text_edit'] = 'Modifier un fabricant';
 $_['text_default'] = 'Par défaut';
 $_['text_percent'] = 'Pourcentage';
 $_['text_amount'] = 'Montant fixe';
-$_['text_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que l’URL soit le plus spécifique possible.';
+$_['text_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que l’adresse universelle (URL) soit le plus spécifique possible.';
 // Column
 $_['column_name'] = 'Nom du fabricant';
 $_['column_sort_order'] = 'Classement';
@@ -30,13 +30,13 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du fabricant';
 $_['entry_store'] = 'Boutiques';
-$_['entry_keyword'] = 'URL de référencement';
+$_['entry_keyword'] = 'Adresse universelle de référencement (URL)';
 $_['entry_image'] = 'Image';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_type'] = 'Type';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les fabricants !';
 $_['error_name'] = 'Le nom du fabricant doit contenir entre 2 et 64 caractères !';
-$_['error_keyword'] = 'URL de référencement déjà en cours d’utilisation !';
-$_['error_unique'] = 'URL de référencement doit être unique !';
+$_['error_keyword'] = 'Cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
+$_['error_unique'] = 'Une adresse universelle de référencement (URL) doit être unique !';
 $_['error_product'] = 'Attention : ce fabricant ne peut pas être supprimé car il est actuellement appliqué aux produits %s !';
