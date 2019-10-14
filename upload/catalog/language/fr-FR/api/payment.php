@@ -16,7 +16,7 @@
 $_['text_address'] = 'L’adresse de paiement a été configurée avec succès !';
 $_['text_method'] = 'Le moyen de paiement a été configuré avec succès !';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’API !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
 $_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';

@@ -66,7 +66,7 @@ $_['tab_documentation'] = 'Documentation';
 $_['tab_download'] = 'Téléchargement';
 $_['tab_comment'] = 'Commentaire';
 // Button
-$_['button_opencart'] = 'API du Cybermarché OpenCart';
+$_['button_opencart'] = 'Interface de programmation (API) du Cybermarché OpenCart';
 $_['button_purchase'] = 'Acheter';
 $_['button_view_all'] = 'Voir toutes les extensions';
 $_['button_get_support'] = 'Obtenir l’aide du support';
@@ -74,7 +74,7 @@ $_['button_comment'] = 'Commentaire';
 $_['button_reply'] = 'Répondre';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
-$_['error_opencart'] = 'Attention : vous devez saisir vos informations de l’API du Cybermarché OpenCart avant de pouvoir faire tout achat !';
+$_['error_opencart'] = 'Attention : vous devez saisir vos informations de l’interface de programmation (API) du Cybermarché OpenCart avant de pouvoir faire tout achat !';
 $_['error_install'] = 'Installation d’extension en cours, veuillez patienter quelques secondes avant d’essayer de l’installer !';
 $_['error_purchase'] = 'L’extension ne peut pas être achetée !';
 $_['error_download'] = 'L’extension ne peut pas être téléchargée !';

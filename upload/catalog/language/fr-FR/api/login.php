@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'La session API a démarré avec succès !';
+$_['text_success'] = 'La session de l’interface de programmation (API) a démarré avec succès !';
 // Error
-$_['error_key'] = 'Attention : la clef de l’API est incorrecte !';
-$_['error_ip'] = 'Attention : votre adresse IP %s n’est pas autorisée à accéder à cette API !';
+$_['error_key'] = 'Attention : la clef de l’interface de programmation (API) est incorrecte !';
+$_['error_ip'] = 'Attention : votre adresse IP %s n’est pas autorisée à accéder à cette interface de programmation (API) !';

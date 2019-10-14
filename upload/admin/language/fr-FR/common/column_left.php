@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_api'] = 'API';
+$_['text_api'] = 'Interface de programmation (API)';
 $_['text_attribute'] = 'Attributs';
 $_['text_attribute_group'] = 'Groupe d’attributs';
 $_['text_backup'] = 'Sauvegarde et restauration';

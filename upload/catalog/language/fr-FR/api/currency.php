@@ -15,5 +15,5 @@
 // Text
 $_['text_success'] = 'La devise a été modifiée avec succès !';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission d’accéder à l’API !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission d’accéder à l’interface de programmation (API) !';
 $_['error_currency'] = 'Attention : le code de la devise n’est pas valide !';
