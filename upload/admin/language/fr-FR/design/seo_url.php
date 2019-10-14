@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'URL de référencement (SEO)';
+$_['heading_title'] = 'Adresse universelle de référencement (URL) optimisée pour les moteurs de recherche (SEO)';
 // Text
 $_['text_success'] = 'Les URL de référencement ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des URL de référencement';
