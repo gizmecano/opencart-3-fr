@@ -29,7 +29,7 @@ $_['entry_name'] = 'Nom du téléchargement';
 $_['entry_filename'] = 'Nom du fichier';
 $_['entry_mask'] = 'Masquer';
 // Help
-$_['help_filename'] = 'Vous pouvez exécuter un téléchargement à l’aide du bouton d’envoi ou utiliser le protocole FTP pour l’envoyer dans le répertoire de téléchargement et saisir les détails ci-dessous.';
+$_['help_filename'] = 'Vous pouvez exécuter un téléchargement à l’aide du bouton d’envoi ou utiliser le protocole de transfert de fichier (FTP) pour l’envoyer dans le répertoire de téléchargement et saisir les détails ci-dessous.';
 $_['help_mask'] = 'Il est recommandé de différencier le nom de fichier et son masque pour empêcher la création de liens directs vers vos téléchargements.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les téléchargements !';
