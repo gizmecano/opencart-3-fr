@@ -25,6 +25,6 @@ $_['entry_tax_class'] = 'Classe de taxes';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Help
-$_['help_total'] = 'Le total que la commande doit atteindre avant que ce total de commande devienne actif.';
+$_['help_total'] = 'Le total que la commande doit atteindre avant que ce total de commande puisse devenir actif.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des frais de manutention !';
