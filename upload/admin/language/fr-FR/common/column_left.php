@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_api'] = 'API';
+$_['text_api'] = 'Interface de programmation (API)';
 $_['text_attribute'] = 'Attributs';
 $_['text_attribute_group'] = 'Groupe d’attributs';
 $_['text_backup'] = 'Sauvegarde et restauration';
@@ -64,7 +64,7 @@ $_['text_return_reason'] = 'Motifs des retours';
 $_['text_return_status'] = 'Statuts des retours';
 $_['text_sale'] = 'Ventes';
 $_['text_setting'] = 'Paramètres';
-$_['text_seo_url'] = 'URL de référencement (SEO)';
+$_['text_seo_url'] = 'Adresse universelle de référencement (URL) optimisée pour les moteurs de recherche (SEO)';
 $_['text_statistics'] = 'Statistiques';
 $_['text_stock_status'] = 'Statuts des stocks';
 $_['text_system'] = 'Système';
@@ -89,8 +89,8 @@ $_['text_openbay_dashboard'] = 'Tableau de bord OpenBay';
 $_['text_openbay_orders'] = 'Mise à jour des commandes automatisée OpenBay';
 $_['text_openbay_items'] = 'Gérer les produits';
 $_['text_openbay_ebay'] = 'eBay';
-$_['text_openbay_amazon'] = 'Amazon (EU)';
-$_['text_openbay_amazonus'] = 'Amazon (US)';
+$_['text_openbay_amazon'] = 'Amazon (Union européenne)';
+$_['text_openbay_amazonus'] = 'Amazon (États-Unis)';
 $_['text_openbay_etsy'] = 'Etsy';
 $_['text_openbay_settings'] = 'Paramètres';
 $_['text_openbay_links'] = 'Liens du produit';

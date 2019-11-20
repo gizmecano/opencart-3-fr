@@ -19,9 +19,9 @@ $_['text_account'] = 'Compte';
 $_['text_login'] = 'Ouvrir une session';
 $_['text_description'] = '<p>%s le programme d’affiliation est gratuit et permet aux membres de générer des revenus en plaçant un ou plusieurs liens sur leur propres sites afin de promouvoir %s ou ses produits. Toute vente réalisée par des clients qui ont cliqué sur ces liens génère une commission. Le taux de commission standard est actuellement fixé à %s.</p><p>Pour de plus amples informations, visitez notre FAQ ou consultez les conditions d’affilisation.</p>';
 $_['text_new_affiliate'] = 'Nouvel affilié';
-$_['text_register_account'] = '<p>Je suis ne suis pas encore affilié.</p><p>Cliquez sur Continuer ci-dessous pour créer un compte d’affilié. Veuillez prendre note que le compte d’affilié n’a aucun rapport avec votre compte client.</p>';
+$_['text_register_account'] = '<p>Je n’ai pas encore procédé à la création d’un compte d’affilié.</p><p>Cliquez sur Continuer ci-dessous pour créer un compte d’affilié. Veuillez prendre note que le compte d’affilié n’a aucun rapport avec votre compte client.</p>';
 $_['text_returning_affiliate'] = 'Connexion d’un affilié';
-$_['text_i_am_returning_affiliate'] = 'Je suis déjà affilié';
+$_['text_i_am_returning_affiliate'] = 'J’ai déjà procédé à la création d’un compte d’affilié';
 $_['text_forgotten'] = 'Mot de passe oublié';
 // Entry
 $_['entry_email'] = 'Adresse électronique de l’affilié';

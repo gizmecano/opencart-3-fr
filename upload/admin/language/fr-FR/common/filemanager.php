@@ -16,18 +16,18 @@
 $_['heading_title'] = 'Gestionnaire d’images';
 // Text
 $_['text_uploaded'] = 'Le fichier a été transféré avec succès !';
-$_['text_directory'] = 'Le dossier a été créé !';
-$_['text_delete'] = 'Le fichier ou dossier a été supprimé correctement !';
+$_['text_directory'] = 'Le répertoire a été créé !';
+$_['text_delete'] = 'Le fichier ou répertoire a été supprimé correctement !';
 // Entry
-$_['entry_search'] = 'Recherche...';
-$_['entry_folder'] = 'Nom du dossier';
+$_['entry_search'] = 'Recherche…';
+$_['entry_folder'] = 'Nom du répertoire';
 // Error
 $_['error_permission'] = 'Attention : accès refusé !';
 $_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 255 caractères !';
-$_['error_folder'] = 'Attention : le nom du dossier doit contenir entre 3 et 255 caractères !';
-$_['error_exists'] = 'Attention : un fichier ou dossier portant le même nom existe déjà !';
-$_['error_directory'] = 'Attention : le dossier n’existe pas !';
+$_['error_folder'] = 'Attention : le nom du répertoire doit contenir entre 3 et 255 caractères !';
+$_['error_exists'] = 'Attention : un fichier ou répertoire portant le même nom existe déjà !';
+$_['error_directory'] = 'Attention : le répertoire n’existe pas !';
 $_['error_filesize'] = 'Attention : la taille de fichier est incorrecte !';
 $_['error_filetype'] = 'Attention : le type de fichier est incorrect !';
 $_['error_upload'] = 'Attention : le fichier n’a pas pu être transféré pour une raison inconnue !';
-$_['error_delete'] = 'Attention : vous ne pouvez pas supprimer ce dossier !';
+$_['error_delete'] = 'Attention : vous ne pouvez pas supprimer ce répertoire !';

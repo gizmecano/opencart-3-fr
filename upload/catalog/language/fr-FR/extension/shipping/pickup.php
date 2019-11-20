@@ -13,5 +13,5 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_title'] = 'Retrait en magasin';
-$_['text_description'] = 'Retrait en magasin';
+$_['text_title'] = 'Retrait en boutique';
+$_['text_description'] = 'Retrait en boutique';

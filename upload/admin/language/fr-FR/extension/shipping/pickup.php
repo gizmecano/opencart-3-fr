@@ -13,14 +13,14 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Retrait en magasin';
+$_['heading_title'] = 'Retrait en boutique';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le retrait en magasin a été modifié avec succès !';
-$_['text_edit'] = 'Modifier le retrait en magasin';
+$_['text_success'] = 'Le retrait en boutique a été modifié avec succès !';
+$_['text_edit'] = 'Modifier le retrait en boutique';
 // Entry
 $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le retrait en magasin !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le retrait en boutique !';

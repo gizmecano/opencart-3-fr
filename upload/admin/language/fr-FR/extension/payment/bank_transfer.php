@@ -26,7 +26,7 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Help
-$_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
+$_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement puisse devenir actif.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de virement bancaire !';
 $_['error_bank'] = 'Les instructions de virement bancaire sont requises !';

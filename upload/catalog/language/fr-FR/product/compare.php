@@ -30,5 +30,5 @@ $_['text_weight'] = 'Poids';
 $_['text_dimension'] = 'Taille (L × l × H)';
 $_['text_compare'] = 'Produits comparés (%s)';
 $_['text_success'] = 'Vous avez ajouté avec succès <a href="%s">%s</a> à votre <a href="%s">comparaison de produits</a> !';
-$_['text_remove'] = 'Votre comparaison de produit a été modifié avec succès !';
+$_['text_remove'] = 'Votre comparaison de produit a été modifiée avec succès !';
 $_['text_empty'] = 'Vous n’avez pas sélectionné de produits à comparer.';

@@ -18,7 +18,7 @@ $_['heading_title'] = 'Nombre de personnes en ligne';
 $_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Le tableau de bord des personnes en ligne a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le tableau de bord des personnes en ligne';
-$_['text_view'] = 'Voir plus...';
+$_['text_view'] = 'Voir plus…';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';

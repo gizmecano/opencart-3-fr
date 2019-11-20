@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Tables analytiques';
 // Text
-$_['text_success'] = 'Les tables analytiques a été modifiées avec succès !';
+$_['text_success'] = 'Les tables analytiques ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des tables analytiques';
 // Column
 $_['column_name'] = 'Nom de la table analytique';

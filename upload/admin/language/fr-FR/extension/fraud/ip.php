@@ -21,12 +21,12 @@ $_['text_edit'] = 'Modifier l’antifraude IP';
 $_['text_ip_add'] = 'Ajouter une adresse IP';
 $_['text_ip_list'] = 'Liste des adresses IP frauduleuses';
 // Column
-$_['column_ip'] = 'IP';
+$_['column_ip'] = 'Adresse IP';
 $_['column_total'] = 'Comptes totaux';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_ip'] = 'IP';
+$_['entry_ip'] = 'Adresse IP';
 $_['entry_status'] = 'Statut';
 $_['entry_order_status'] = 'Statut de commande';
 // Help

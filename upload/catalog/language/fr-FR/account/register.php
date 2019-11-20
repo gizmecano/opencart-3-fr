@@ -27,14 +27,14 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_firstname'] = 'Prénom';
 $_['entry_lastname'] = 'Nom de famille';
 $_['entry_email'] = 'Adresse électronique';
-$_['entry_telephone'] = 'Téléphone';
+$_['entry_telephone'] = 'Numéro de téléphone';
 $_['entry_newsletter'] = 'S’abonner';
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer le mot de passe';
 // Error
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
-$_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
-$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
+$_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
 $_['error_email'] = 'L’adresse électronique semble être invalide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_custom_field'] = '%s est requis !';

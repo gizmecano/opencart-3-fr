@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Totaux de commande';
 // Text
-$_['text_success'] = 'Les totaux de commande ont été modifié avec succès !';
+$_['text_success'] = 'Les totaux de commande ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des totaux de commande';
 // Column
 $_['column_name'] = 'Totaux de commande';

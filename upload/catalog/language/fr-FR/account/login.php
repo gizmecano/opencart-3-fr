@@ -20,8 +20,8 @@ $_['text_login'] = 'Ouvrir une session';
 $_['text_new_customer'] = 'Nouveau client';
 $_['text_register'] = 'Créer un compte';
 $_['text_register_account'] = 'En créant un compte, vous pourrez faire vos achats plus rapidement, connaître le statut de vos commandes et garder trace de vos achats précédents.';
-$_['text_returning_customer'] = 'Déjà client';
-$_['text_i_am_returning_customer'] = 'Je suis déjà client';
+$_['text_returning_customer'] = 'Compte client existant';
+$_['text_i_am_returning_customer'] = 'J’ai déjà procédé à la création d’un compte client';
 $_['text_forgotten'] = 'Mot de passe oublié';
 // Entry
 $_['entry_email'] = 'Adresse électronique';

@@ -55,7 +55,7 @@ $_['column_status'] = 'Statut';
 $_['column_product'] = 'Produit';
 $_['column_order_recurring_id'] = 'Identifiant de paiement récurrent';
 // Error
-$_['error_not_cancelled'] = 'Erreur: %s';
+$_['error_not_cancelled'] = 'Erreur : %s';
 $_['error_not_found'] = 'Attention : aucun paiement récurrent à annuler';
 // Button
 $_['button_return'] = 'Retour';

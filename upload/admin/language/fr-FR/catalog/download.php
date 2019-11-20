@@ -29,14 +29,14 @@ $_['entry_name'] = 'Nom du téléchargement';
 $_['entry_filename'] = 'Nom du fichier';
 $_['entry_mask'] = 'Masquer';
 // Help
-$_['help_filename'] = 'Vous pouvez exécuter un téléchargement à l’aide du bouton d’envoi ou utiliser le protocole FTP pour l’envoyer dans le répertoire de téléchargement et saisir les détails ci-dessous.';
-$_['help_mask'] = 'Il est recommandée de différencier le nom de fichier et son masque pour empêcher la création de liens directs vers vos téléchargements.';
+$_['help_filename'] = 'Vous pouvez exécuter un téléchargement à l’aide du bouton d’envoi ou utiliser le protocole de transfert de fichier (FTP) pour l’envoyer dans le répertoire de téléchargement et saisir les détails ci-dessous.';
+$_['help_mask'] = 'Il est recommandé de différencier le nom de fichier et son masque pour empêcher la création de liens directs vers vos téléchargements.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les téléchargements !';
 $_['error_name'] = 'Le nom du téléchargement doit contenir entre 3 et 64 caractères !';
 $_['error_upload'] = 'Transfert nécessaire !';
 $_['error_filename'] = 'Le nom de fichier doit contenir entre 3 et 128 caractères !';
-$_['error_exists'] = 'Fichier non existant !';
-$_['error_mask'] = 'La masque doit contenir entre 3 et 128 caractères !';
+$_['error_exists'] = 'Le fichier n’existe pas !';
+$_['error_mask'] = 'Le masque doit contenir entre 3 et 128 caractères !';
 $_['error_filetype'] = 'Type de fichier invalide !';
-$_['error_product'] = 'Attention : il est impossible d’effacer ce téléchargement car il est actuellement attribué à %s produits !';
+$_['error_product'] = 'Attention : il est impossible de supprimer ce téléchargement car il est actuellement appliqué à %s produits !';

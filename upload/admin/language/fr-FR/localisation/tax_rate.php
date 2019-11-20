@@ -37,6 +37,6 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_geo_zone'] = 'Zone géographique';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les taux de taxe !';
-$_['error_tax_rule'] = 'Attention : ce taux de taxe ne peut pas être supprimé car il est actuellement attribué à %s classes de taxes !';
+$_['error_tax_rule'] = 'Attention : ce taux de taxe ne peut pas être supprimé car il est actuellement appliqué à %s classes de taxes !';
 $_['error_name'] = 'Le nom du taux doit contenir entre 1 et 32 caractères !';
 $_['error_rate'] = 'Le taux de taxe est requis !';

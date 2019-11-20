@@ -16,8 +16,8 @@
 $_['heading_title'] = 'Rapport des activités des clients';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_edit'] = 'Modifier le rapport des activités des clients a été modifié avec succès !';
-$_['text_success'] = 'Le rapport des activités des clients !';
+$_['text_edit'] = 'Modifier le rapport des activités des clients';
+$_['text_success'] = 'Le rapport des activités des clients a été modifié avec succès !';
 $_['text_filter'] = 'Filtre';
 $_['text_activity_register'] = '<a href="customer_id=%d">%s</a> a créé un nouveau compte.';
 $_['text_activity_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour les informations de son compte.';
@@ -38,11 +38,11 @@ $_['text_activity_transaction'] = '<a href="customer_id=%d">%s</a> a reçu une c
 // Column
 $_['column_customer'] = 'Client';
 $_['column_comment'] = 'Commentaire';
-$_['column_ip'] = 'IP';
+$_['column_ip'] = 'Adresse IP';
 $_['column_date_added'] = 'Date d’ajout';
 // Entry
 $_['entry_customer'] = 'Client';
-$_['entry_ip'] = 'IP';
+$_['entry_ip'] = 'Adresse IP';
 $_['entry_date_start'] = 'Date de début';
 $_['entry_date_end'] = 'Date de fin';
 $_['entry_status'] = 'Statut';

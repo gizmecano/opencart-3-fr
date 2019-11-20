@@ -26,14 +26,14 @@ $_['column_keyword'] = 'Mots-clefs';
 $_['column_products'] = 'Produits trouvés';
 $_['column_category'] = 'Catégorie';
 $_['column_customer'] = 'Client';
-$_['column_ip'] = 'IP';
+$_['column_ip'] = 'Adresse IP';
 $_['column_date_added'] = 'Date d’ajout';
 // Entry
 $_['entry_date_start'] = 'Date de début';
 $_['entry_date_end'] = 'Date de fin';
 $_['entry_keyword'] = 'Mots-clefs';
 $_['entry_customer'] = 'Client';
-$_['entry_ip'] = 'IP';
+$_['entry_ip'] = 'Adresse IP';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
