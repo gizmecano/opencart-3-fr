@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Informations';
 // Text
 $_['text_success'] = 'Les informations ont été modifiées avec succès !';
-$_['text_list'] = 'Liste des information';
+$_['text_list'] = 'Liste des informations';
 $_['text_add'] = 'Ajouter une information';
 $_['text_edit'] = 'Modifier une information';
 $_['text_default'] = 'Par défaut';
