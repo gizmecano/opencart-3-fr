@@ -18,7 +18,7 @@ $_['heading_title'] = 'Total des ventes';
 $_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Le tableau de bord des ventes a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le tableau de bord des ventes';
-$_['text_view'] = 'Voir plus...';
+$_['text_view'] = 'Voir plus…';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';

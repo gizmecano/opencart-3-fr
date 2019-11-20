@@ -19,7 +19,7 @@ $_['text_uploaded'] = 'Le fichier a été transféré avec succès !';
 $_['text_directory'] = 'Le répertoire a été créé !';
 $_['text_delete'] = 'Le fichier ou répertoire a été supprimé correctement !';
 // Entry
-$_['entry_search'] = 'Recherche...';
+$_['entry_search'] = 'Recherche…';
 $_['entry_folder'] = 'Nom du répertoire';
 // Error
 $_['error_permission'] = 'Attention : accès refusé !';
