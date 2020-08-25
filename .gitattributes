@@ -3,11 +3,8 @@
 
 # Ignored files for export
 [Dd]esktop.ini  export-ignore
-*.git*          export-ignore
+*.git* text     export-ignore
 /.github/       export-ignore
 
 # Files always having CRLF line endings
 *.php text eol=crlf
-
-# Truly binary files
-*.png binary
