@@ -34,9 +34,9 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_url'] = 'Adresse universelle de la boutique (URL)';
 $_['entry_ssl'] = 'Adresse universelle (URL) sécurisée (SSL) de la boutique';
-$_['entry_meta_title'] = 'Titre de métaélément';
-$_['entry_meta_description'] = 'Description de métaélément';
-$_['entry_meta_keyword'] = 'Mots-clefs de métaélément';
+$_['entry_meta_title'] = 'Titre du métaélément';
+$_['entry_meta_description'] = 'Description du métaélément';
+$_['entry_meta_keyword'] = 'Mots-clefs du métaélément';
 $_['entry_layout'] = 'Gabarit par défaut';
 $_['entry_theme'] = 'Thème';
 $_['entry_name'] = 'Nom de la boutique';
