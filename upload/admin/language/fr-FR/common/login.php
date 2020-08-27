@@ -22,7 +22,7 @@ $_['text_forgotten'] = 'Mot de passe oublié';
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_password'] = 'Mot de passe';
 // Button
-$_['button_login'] = 'Ouvrir une session';
+$_['button_login'] = 'Se connecter';
 // Error
 $_['error_login'] = 'Attention : correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
 $_['error_token'] = 'Attention : session invalide. Veuillez ouvrir une nouvelle session.';
