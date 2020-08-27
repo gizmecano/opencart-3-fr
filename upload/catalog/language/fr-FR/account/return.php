@@ -61,7 +61,7 @@ $_['entry_opened'] = 'Produit ouvert';
 $_['entry_fault_detail'] = 'Défectueux';
 // Error
 $_['text_error'] = 'Le retour que vous recherchez est introuvable !';
-$_['error_order_id'] = 'Identifiant de la commande requis !';
+$_['error_order_id'] = 'L’identifiant de la commande est requis !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
 $_['error_email'] = 'L’adresse électronique semble être invalide !';
