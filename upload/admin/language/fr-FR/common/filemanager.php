@@ -22,7 +22,7 @@ $_['text_delete'] = 'Le fichier ou répertoire a été supprimé correctement !'
 $_['entry_search'] = 'Recherche…';
 $_['entry_folder'] = 'Nom du répertoire';
 // Error
-$_['error_permission'] = 'Attention : accès refusé !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le gestionnaire d’images !';
 $_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 255 caractères !';
 $_['error_folder'] = 'Attention : le nom du répertoire doit contenir entre 3 et 255 caractères !';
 $_['error_exists'] = 'Attention : un fichier ou répertoire portant le même nom existe déjà !';
