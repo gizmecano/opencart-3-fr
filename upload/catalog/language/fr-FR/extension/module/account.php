@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Compte';
 // Text
 $_['text_register'] = 'Inscription';
-$_['text_login'] = 'Ouvrir une session';
+$_['text_login'] = 'Se connecter';
 $_['text_logout'] = 'Se déconnecter';
 $_['text_forgotten'] = 'Mot de passe oublié';
 $_['text_account'] = 'Compte';

@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Connexion au compte';
 // Text
 $_['text_account'] = 'Compte';
-$_['text_login'] = 'Ouvrir une session';
+$_['text_login'] = 'Se connecter';
 $_['text_new_customer'] = 'Nouveau client';
 $_['text_register'] = 'Créer un compte';
 $_['text_register_account'] = 'En créant un compte, vous pourrez faire vos achats plus rapidement, connaître le statut de vos commandes et garder trace de vos achats précédents.';
