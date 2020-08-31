@@ -37,7 +37,7 @@ $_['entry_route'] = 'Chemin';
 $_['entry_module'] = 'Module';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les gabarits !';
-$_['error_name'] = 'Le nom du gabarit doit contenir entre 3 et 64 caractères !';
+$_['error_name'] = 'Attention : le nom du gabarit doit contenir entre 3 et 64 caractères !';
 $_['error_default'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement défini comme le gabarit par défaut pour cette boutique !';
 $_['error_store'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s boutiques !';
 $_['error_product'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s produits !';

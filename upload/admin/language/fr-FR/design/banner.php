@@ -33,5 +33,5 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bannières !';
-$_['error_name'] = 'Le nom de la bannière doit contenir entre 3 et 64 caractères !';
-$_['error_title'] = 'Le titre de la bannière doit contenir entre 2 et 64 caractères !';
+$_['error_name'] = 'Attention : le nom de la bannière doit contenir entre 3 et 64 caractères !';
+$_['error_title'] = 'Attention : le titre de la bannière doit contenir entre 2 et 64 caractères !';

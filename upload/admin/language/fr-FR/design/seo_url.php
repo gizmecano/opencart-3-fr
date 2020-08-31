@@ -34,6 +34,6 @@ $_['entry_store'] = 'Boutique';
 $_['entry_language'] = 'Langue';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les adresses universelles de référencement (URL) !';
-$_['error_query'] = 'La requête doit contenir entre 3 et 64 caractères !';
-$_['error_keyword'] = 'Le mot-clef doit contenir entre 3 et 64 caractères !';
-$_['error_exists'] = 'Le mot-clef est déjà utilisé !';
+$_['error_query'] = 'Attention : la requête doit contenir entre 3 et 64 caractères !';
+$_['error_keyword'] = 'Attention : le mot-clef doit contenir entre 3 et 64 caractères !';
+$_['error_exists'] = 'Attention : le mot-clef est déjà utilisé !';
