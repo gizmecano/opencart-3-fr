@@ -33,10 +33,10 @@ $_['entry_image'] = 'Image';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier votre profil !';
 $_['error_exists_username'] = 'Attention : ce nom d’utilisateur est déjà utilisé !';
-$_['error_username'] = 'Le nom d’utilisateur doit contenir entre 3 et 20 caractères !';
-$_['error_password'] = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
-$_['error_confirm'] = 'Le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas !';
-$_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'L’adresse électronique semble être invalide !';
+$_['error_username'] = 'Attention : le nom d’utilisateur doit contenir entre 3 et 20 caractères !';
+$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères !';
+$_['error_confirm'] = 'Attention : le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas !';
+$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
 $_['error_exists_email'] = 'Attention : cette adresse électronique est déjà enregistrée !';
