@@ -27,6 +27,6 @@ $_['entry_height'] = 'Hauteur';
 $_['entry_status'] = 'Statut';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des meilleures ventes !';
-$_['error_name'] = 'Le nom du module doit contenir entre 3 et 64 caractères !';
-$_['error_width'] = 'La largeur est requise !';
-$_['error_height'] = 'La hauteur est requise !';
+$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères !';
+$_['error_width'] = 'Attention : la largeur est requise !';
+$_['error_height'] = 'Attention : la hauteur est requise !';

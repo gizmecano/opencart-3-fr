@@ -25,4 +25,4 @@ $_['entry_description'] = 'Description';
 $_['entry_status'] = 'Statut';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des contenus HTML !';
-$_['error_name'] = 'Le nom du module doit contenir entre 3 et 64 caractères !';
+$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères !';
