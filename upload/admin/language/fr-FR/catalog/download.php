@@ -33,10 +33,10 @@ $_['help_filename'] = 'Vous pouvez exécuter un téléchargement à l’aide du 
 $_['help_mask'] = 'Il est recommandé de différencier le nom de fichier et son masque pour empêcher la création de liens directs vers vos téléchargements.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les téléchargements !';
-$_['error_name'] = 'Le nom du téléchargement doit contenir entre 3 et 64 caractères !';
-$_['error_upload'] = 'Transfert nécessaire !';
-$_['error_filename'] = 'Le nom de fichier doit contenir entre 3 et 128 caractères !';
-$_['error_exists'] = 'Le fichier n’existe pas !';
-$_['error_mask'] = 'Le masque doit contenir entre 3 et 128 caractères !';
+$_['error_name'] = 'Attention : le nom du téléchargement doit contenir entre 3 et 64 caractères !';
+$_['error_upload'] = 'Attention : le transfert est nécessaire !';
+$_['error_filename'] = 'Attention : le nom de fichier doit contenir entre 3 et 128 caractères !';
+$_['error_exists'] = 'Attention : le fichier n’existe pas !';
+$_['error_mask'] = 'Attention : le masque doit contenir entre 3 et 128 caractères !';
 $_['error_filetype'] = 'Attention : le type de fichier est incorrect !';
 $_['error_product'] = 'Attention : il est impossible de supprimer ce téléchargement car il est actuellement appliqué à %s produits !';

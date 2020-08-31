@@ -31,5 +31,5 @@ $_['entry_name'] = 'Nom de filtre';
 $_['entry_sort_order'] = 'Classement';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les filtres !';
-$_['error_group'] = 'Le nom du groupe de filtres doit contenir entre 1 et 64 caractères !';
-$_['error_name'] = 'Le nom du filtre doit contenir entre 1 et 64 caractères !';
+$_['error_group'] = 'Attention : le nom du groupe de filtres doit contenir entre 1 et 64 caractères !';
+$_['error_name'] = 'Attention : le nom du filtre doit contenir entre 1 et 64 caractères !';
