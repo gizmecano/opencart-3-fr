@@ -44,4 +44,4 @@ $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 et 10 c
 $_['error_city'] = 'Attention : le nom de la localité doit contenir entre 2 et 128 caractères !';
 $_['error_country'] = 'Attention : vous devez sélectionner un pays !';
 $_['error_zone'] = 'Attention : vous devez sélectionner une subdivision administrative !';
-$_['error_custom_field'] = '%s est requis !';
+$_['error_custom_field'] = 'Attention : %s est requis !';

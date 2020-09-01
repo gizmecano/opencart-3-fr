@@ -38,8 +38,8 @@ $_['entry_bank_account_name'] = 'Nom du compte';
 $_['entry_bank_account_number'] = 'Numéro du compte';
 // Error
 $_['error_agree'] = 'Attention : vous devez accepter les %s !';
-$_['error_cheque'] = 'Le nom du bénéficiaire du chèque est requis !';
-$_['error_paypal'] = 'L’adresse électronique PayPal semble être invalide !';
-$_['error_bank_account_name'] = 'Nom de compte requis !';
-$_['error_bank_account_number'] = 'Numéro de compte requis !';
-$_['error_custom_field'] = '%s requis !';
+$_['error_cheque'] = 'Attention : le nom du bénéficiaire du chèque est requis !';
+$_['error_paypal'] = 'Attention: l’adresse électronique PayPal semble être invalide !';
+$_['error_bank_account_name'] = 'Attention : le nom de compte est requis !';
+$_['error_bank_account_number'] = 'Attention : le numéro de compte est requis !';
+$_['error_custom_field'] = 'Attention : %s requis !';

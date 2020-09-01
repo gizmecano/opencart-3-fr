@@ -26,8 +26,8 @@ $_['entry_email'] = 'Adresse électronique';
 $_['entry_telephone'] = 'Numéro de téléphone';
 // Error
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà utilisée !';
-$_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'L’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_custom_field'] = '%s est requis !';
+$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_custom_field'] = 'Attention : %s est requis !';

@@ -29,7 +29,7 @@ $_['text_comment'] = 'Commentaire';
 $_['text_history'] = 'Historique des commandes';
 $_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">panier d’achat</a> avec succès !';
 $_['text_empty'] = 'Vous n’avez effectué aucune commande précédemment';
-$_['text_error'] = 'La commande que vous avez demandée est introuvable !';
+$_['text_error'] = 'Attention : la commande que vous avez demandée est introuvable !';
 // Column
 $_['column_order_id'] = 'Commande n°';
 $_['column_customer'] = 'Client';
@@ -44,4 +44,4 @@ $_['column_date_added'] = 'Date d’ajout';
 $_['column_status'] = 'Statut';
 $_['column_comment'] = 'Commentaire';
 // Error
-$_['error_reorder'] = '%s n’est pas disponible pour être réorganisées actuellement.';
+$_['error_reorder'] = 'Attention : %s n’est actuellement pas disponible pour une réorganisation.';
