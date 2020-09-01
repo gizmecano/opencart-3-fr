@@ -31,7 +31,7 @@ $_['entry_country'] = 'Pays';
 $_['entry_status'] = 'État de la zone';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les zones !';
-$_['error_name'] = 'Le nom de la zone doit contenir entre 3 et 128 caractères !';
+$_['error_name'] = 'Attention : le nom de la zone doit contenir entre 3 et 128 caractères !';
 $_['error_default'] = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement définie en tant que domaine par défaut !';
 $_['error_store'] = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques !';
 $_['error_address'] = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement appliquée à %s entrées du carnet d’adresses !';

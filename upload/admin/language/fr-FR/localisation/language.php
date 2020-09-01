@@ -36,9 +36,9 @@ $_['help_status'] = 'Masquer/Afficher dans le menu déroulant des langues';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les langues !';
 $_['error_exists'] = 'Attention : vous avez déjà ajouté cette langue !';
-$_['error_name'] = 'Le nom de la langue doit contenir entre 3 et 32 caractères !';
-$_['error_code'] = 'Le code de la langue doit contenir au moins 2 caractères !';
-$_['error_locale'] = 'Les paramètres régionaux sont requis !';
+$_['error_name'] = 'Attention : le nom de la langue doit contenir entre 3 et 32 caractères !';
+$_['error_code'] = 'Attention : le code de la langue doit contenir au moins 2 caractères !';
+$_['error_locale'] = 'Attention : les paramètres régionaux sont requis !';
 $_['error_default'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue par défaut !';
 $_['error_admin'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue du panneau d’administration !';
 $_['error_store'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques !';

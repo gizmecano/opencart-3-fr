@@ -31,6 +31,6 @@ $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Zone';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les zones géographiques !';
-$_['error_name'] = 'Le nom de la zone géographique doit contenir entre 3 et 32 caractères !';
-$_['error_description'] = 'La description de la zone géographique doit contenir entre 3 et 255 caractères !';
+$_['error_name'] = 'Attention : le nom de la zone géographique doit contenir entre 3 et 32 caractères !';
+$_['error_description'] = 'Attention : la description de la zone géographique doit contenir entre 3 et 255 caractères !';
 $_['error_tax_rate'] = 'Attention : cette zone géographique ne peut pas être supprimée car elle est actuellement appliquée à un ou plusieurs taux de taxe !';
