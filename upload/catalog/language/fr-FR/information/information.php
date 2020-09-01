@@ -13,4 +13,4 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_error'] = 'Page d’information introuvable !';
+$_['text_error'] = 'Attention : la page d’information est introuvable !';
