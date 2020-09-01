@@ -45,7 +45,7 @@ $_['column_price'] = 'Prix unitaire';
 $_['column_total'] = 'Total';
 // Error
 $_['error_stock'] = 'Attention : les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock !';
-$_['error_minimum'] = 'Le montant minimum d’une commande pour %s est %s !';
-$_['error_required'] = '%s est requis !';
+$_['error_minimum'] = 'Attention : le montant minimum d’une commande pour %s est %s !';
+$_['error_required'] = 'Attention : %s est requis !';
 $_['error_product'] = 'Attention : il n’y a aucun produit dans votre panier !';
-$_['error_recurring_required'] = 'Veuillez sélectionner un paiement récurrent !';
+$_['error_recurring_required'] = 'Attention : veuillez sélectionner un paiement récurrent !';
