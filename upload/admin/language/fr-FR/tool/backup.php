@@ -25,4 +25,4 @@ $_['tab_restore']= 'Restauration';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations !';
 $_['error_export'] = 'Attention : vous devez sélectionner au moins une table à exporter !';
-$_['error_file']= 'Le fichier est introuvable !';
+$_['error_file']= 'Attention : le fichier est introuvable !';
