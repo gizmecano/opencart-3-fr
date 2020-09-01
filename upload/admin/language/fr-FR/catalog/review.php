@@ -37,7 +37,7 @@ $_['entry_date_added'] = 'Date d’ajout';
 $_['help_product'] = 'Autocomplétion';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les évaluations !';
-$_['error_product'] = 'Le produit est requis !';
-$_['error_author'] = 'Le nom de l’auteur doit contenir entre 3 et 64 caractères !';
-$_['error_text'] = 'L’évaluation doit contenir au moins un caractère !';
-$_['error_rating'] = 'La note est requise !';
+$_['error_product'] = 'Attention : le produit est requis !';
+$_['error_author'] = 'Attention : le nom de l’auteur doit contenir entre 3 et 64 caractères !';
+$_['error_text'] = 'Attention : l’évaluation doit contenir au moins un caractère !';
+$_['error_rating'] = 'Attention : la note est requise !';

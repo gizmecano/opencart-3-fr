@@ -38,4 +38,4 @@ $_['entry_value'] = 'Valeur';
 $_['entry_default'] = 'Par défaut';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’éditeur linguistique !';
-$_['error_key'] = 'Une clef doit contenir entre 3 et 64 caractères !';
+$_['error_key'] = 'Attention : une clef doit contenir entre 3 et 64 caractères !';

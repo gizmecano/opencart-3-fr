@@ -28,9 +28,9 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom de catégorie';
 $_['entry_description'] = 'Description';
-$_['entry_meta_title'] = 'Titre de métaélément';
-$_['entry_meta_keyword'] = 'Adresse universelle (URL) de métaélément';
-$_['entry_meta_description'] = 'Description de métaélément';
+$_['entry_meta_title'] = 'Titre du métaélément';
+$_['entry_meta_keyword'] = 'Adresse universelle (URL) du métaélément';
+$_['entry_meta_description'] = 'Description du métaélément';
 $_['entry_store'] = 'Boutiques';
 $_['entry_keyword'] = 'Adresse universelle de référencement (URL)';
 $_['entry_parent'] = 'Parent';
@@ -49,8 +49,8 @@ $_['help_column'] = 'Nombre de colonnes à utiliser pour les trois dernières ca
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les catégories !';
-$_['error_name'] = 'Le nom de la catégorie doit contenir entre 2 et 255 caractères !';
-$_['error_meta_title'] = 'Le titre de métaélément doit contenir entre 3 et 255 caractères !';
-$_['error_keyword'] = 'Cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
-$_['error_unique'] = 'Une adresse universelle de référencement (URL) doit être unique !';
-$_['error_parent'] = 'La catégorie parente que vous avez choisie est une catégorie enfant de la catégorie actuelle !';
+$_['error_name'] = 'Attention : le nom de la catégorie doit contenir entre 2 et 255 caractères !';
+$_['error_meta_title'] = 'Attention : le titre du métaélément doit contenir entre 3 et 255 caractères !';
+$_['error_keyword'] = 'Attention : cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
+$_['error_unique'] = 'Attention : une adresse universelle de référencement (URL) doit être unique !';
+$_['error_parent'] = 'Attention: la catégorie parente que vous avez choisie est une catégorie enfant de la catégorie actuelle !';

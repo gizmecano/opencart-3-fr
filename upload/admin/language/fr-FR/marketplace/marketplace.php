@@ -75,6 +75,6 @@ $_['button_reply'] = 'Répondre';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
 $_['error_opencart'] = 'Attention : vous devez saisir vos informations de l’interface de programmation (API) du Cybermarché OpenCart avant de pouvoir faire tout achat !';
-$_['error_install'] = 'Installation d’extension en cours, veuillez patienter quelques secondes avant d’essayer de l’installer !';
-$_['error_purchase'] = 'L’extension ne peut pas être achetée !';
-$_['error_download'] = 'L’extension ne peut pas être téléchargée !';
+$_['error_install'] = 'Attention : l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer !';
+$_['error_purchase'] = 'Attention : l’extension ne peut pas être achetée !';
+$_['error_download'] = 'Attention : l’extension ne peut pas être téléchargée !';

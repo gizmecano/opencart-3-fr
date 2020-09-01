@@ -41,6 +41,6 @@ $_['help_open'] = 'Renseignez les horaires d’ouverture de votre boutique.';
 $_['help_comment'] = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n’accepte pas les chèques.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les emplacements de boutiques !';
-$_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères !';
-$_['error_address'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
-$_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_name'] = 'Attention : le nom de la boutique doit contenir entre 3 et 32 caractères !';
+$_['error_address'] = 'Attention : l’adresse doit contenir entre 3 et 128 caractères !';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';

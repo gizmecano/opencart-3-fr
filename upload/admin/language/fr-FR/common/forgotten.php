@@ -25,5 +25,5 @@ $_['entry_password'] = 'Nouveau mot de passe';
 $_['entry_confirm'] = 'Confirmer';
 // Error
 $_['error_email'] = 'Attention : cette adresse électronique est introuvable dans nos fichiers, veuillez essayer à nouveau !';
-$_['error_password'] = 'Le mot de passe doit contenir entre 3 et 20 caractères !';
-$_['error_confirm'] = 'Le mot de passe de confirmation ne correspond pas au premier mot de passe !';
+$_['error_password'] = 'Attention : le mot de passe doit contenir entre 3 et 20 caractères !';
+$_['error_confirm'] = 'Attention : le mot de passe de confirmation ne correspond pas au premier mot de passe !';

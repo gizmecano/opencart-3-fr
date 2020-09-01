@@ -22,5 +22,5 @@ $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_secret'] = 'Secret';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les informations de l’interface de programmation (API) du Cybermarché OpenCart !';
-$_['error_username'] = 'Nom d’utilisateur requis !';
-$_['error_secret'] = 'Secret requis !';
+$_['error_username'] = 'Attention : le nom d’utilisateur est requis !';
+$_['error_secret'] = 'Attention : le mot secret est requis !';

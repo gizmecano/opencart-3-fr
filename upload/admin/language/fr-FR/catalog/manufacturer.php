@@ -36,7 +36,7 @@ $_['entry_sort_order'] = 'Classement';
 $_['entry_type'] = 'Type';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les fabricants !';
-$_['error_name'] = 'Le nom du fabricant doit contenir entre 2 et 64 caractères !';
-$_['error_keyword'] = 'Cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
-$_['error_unique'] = 'Une adresse universelle de référencement (URL) doit être unique !';
+$_['error_name'] = 'Attention : le nom du fabricant doit contenir entre 2 et 64 caractères !';
+$_['error_keyword'] = 'Attention : cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
+$_['error_unique'] = 'Attention : une adresse universelle de référencement (URL) doit être unique !';
 $_['error_product'] = 'Attention : ce fabricant ne peut pas être supprimé car il est actuellement appliqué aux produits %s !';

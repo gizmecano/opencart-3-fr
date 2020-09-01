@@ -58,6 +58,6 @@ $_['help_regex'] = 'Utiliser les expressions régulières (Regex), par exemple :
 $_['help_sort_order'] = 'Utiliser le signe moins pour revenir au champ précédent.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les champs personnalisés !';
-$_['error_name'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';
+$_['error_name'] = 'Attention : le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';
 $_['error_type'] = 'Attention : les valeurs du champ personnalisé sont requises !';
-$_['error_custom_value'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';
+$_['error_custom_value'] = 'Attention : le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';

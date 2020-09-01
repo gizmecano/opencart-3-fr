@@ -19,8 +19,8 @@ $_['text_for'] = '%s bon d’achat pour %s';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
 $_['error_voucher'] = 'Attention : le bon d’achat n’est pas valide ou son solde a déjà été compensé !';
-$_['error_to_name'] = 'Le nom du destinataire doit contenir entre 1 et 64 caractères';
-$_['error_from_name'] = 'Votre nom doit contenir entre 1 et 64 caractères';
-$_['error_email'] = 'L’adresse électronique semble être invalide !';
-$_['error_theme'] = 'Vous devez sélectionner un thème !';
-$_['error_amount'] = 'Le montant doit être compris entre %s et %s !';
+$_['error_to_name'] = 'Attention : le nom du destinataire doit contenir entre 1 et 64 caractères';
+$_['error_from_name'] = 'Attention : votre nom doit contenir entre 1 et 64 caractères';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_theme'] = 'Attention : vous devez sélectionner un thème !';
+$_['error_amount'] = 'Attention : le montant doit être compris entre %s et %s !';

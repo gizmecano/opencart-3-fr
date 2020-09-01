@@ -62,10 +62,10 @@ $_['help_product'] = 'Autocomplétion';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les retours de produits !';
-$_['error_order_id'] = 'Identifiant de la commande requis !';
-$_['error_firstname'] = 'Le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'L’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_product'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
-$_['error_model'] = 'La référence du produit doit contenir entre 3 et 64 caractères !';
+$_['error_order_id'] = 'Attention : l’identifiant de la commande est requis !';
+$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_product'] = 'Attention : le nom du produit doit contenir entre 3 et 255 caractères !';
+$_['error_model'] = 'Attention : la référence du produit doit contenir entre 3 et 64 caractères !';

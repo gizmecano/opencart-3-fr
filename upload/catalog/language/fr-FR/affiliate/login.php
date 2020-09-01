@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Programme d’affiliation';
 // Text
 $_['text_account'] = 'Compte';
-$_['text_login'] = 'Ouvrir une session';
+$_['text_login'] = 'Se connecter';
 $_['text_description'] = '<p>%s le programme d’affiliation est gratuit et permet aux membres de générer des revenus en plaçant un ou plusieurs liens sur leur propres sites afin de promouvoir %s ou ses produits. Toute vente réalisée par des clients qui ont cliqué sur ces liens génère une commission. Le taux de commission standard est actuellement fixé à %s.</p><p>Pour de plus amples informations, visitez notre FAQ ou consultez les conditions d’affilisation.</p>';
 $_['text_new_affiliate'] = 'Nouvel affilié';
 $_['text_register_account'] = '<p>Je n’ai pas encore procédé à la création d’un compte d’affilié.</p><p>Cliquez sur Continuer ci-dessous pour créer un compte d’affilié. Veuillez prendre note que le compte d’affilié n’a aucun rapport avec votre compte client.</p>';

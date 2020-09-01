@@ -44,7 +44,7 @@ $_['entry_image'] = 'Image';
 $_['entry_sort_order'] = 'Classement';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les options !';
-$_['error_name'] = 'Le nom de l’option doit contenir entre 1 et 128 caractères !';
+$_['error_name'] = 'Attention : le nom de l’option doit contenir entre 1 et 128 caractères !';
 $_['error_type'] = 'Attention : les valeurs de l’option sont requises !';
-$_['error_option_value'] = 'La valeur de l’option doit contenir entre 1 et 128 caractères !';
+$_['error_option_value'] = 'Attention : la valeur de l’option doit contenir entre 1 et 128 caractères !';
 $_['error_product'] = 'Attention : cette option ne peut pas être supprimée car elle est actuellement appliquée à %s produits !';

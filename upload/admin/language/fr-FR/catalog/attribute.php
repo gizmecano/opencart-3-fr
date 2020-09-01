@@ -30,6 +30,6 @@ $_['entry_attribute_group'] = 'Groupe d’attributs';
 $_['entry_sort_order'] = 'Classement';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les attributs !';
-$_['error_attribute_group'] = 'Un groupe d’attributs est requis !';
-$_['error_name'] = 'Le nom de l’attribut doit contenir entre 3 et 64 caractères !';
+$_['error_attribute_group'] = 'Attention : un groupe d’attributs est requis !';
+$_['error_name'] = 'Attention : le nom de l’attribut doit contenir entre 3 et 64 caractères !';
 $_['error_product'] = 'Attention : cet attribut ne peut pas être supprimé car il est actuellement appliqué à %s produits !';

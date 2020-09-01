@@ -33,7 +33,7 @@ $_['text_note'] = '<span class="text-danger"> Attention :</span> le HTML n’est
 $_['text_success'] = 'Merci pour votre évaluation. Elle a été soumise au webmestre pour approbation.';
 $_['text_related'] = 'Produits liés';
 $_['text_tags'] = 'Mots-clefs : ';
-$_['text_error'] = 'Le produit est introuvable !';
+$_['text_error'] = 'Attention : le produit est introuvable !';
 $_['text_payment_recurring'] = 'Profils de paiement';
 $_['text_trial_description'] = '%s chaque %s(s) %d pour %d paiements alors';
 $_['text_payment_description'] = '%s chaque %s(s) %d pour %d paiements';

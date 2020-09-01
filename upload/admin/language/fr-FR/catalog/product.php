@@ -39,9 +39,9 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du produit';
 $_['entry_description'] = 'Description';
-$_['entry_meta_title'] = 'Titre de métaélément';
-$_['entry_meta_keyword'] = 'Mots-clef de métaélément';
-$_['entry_meta_description'] = 'Description de métaélément';
+$_['entry_meta_title'] = 'Titre du métaélément';
+$_['entry_meta_keyword'] = 'Mots-clef du métaélément';
+$_['entry_meta_description'] = 'Description du métaélément';
 $_['entry_store'] = 'Boutiques';
 $_['entry_keyword'] = 'Adresse universelle de référencement (URL)';
 $_['entry_model'] = 'Référence';
@@ -111,8 +111,8 @@ $_['help_tag'] = 'Séparé par des virgules';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les produits !';
-$_['error_name'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
-$_['error_meta_title'] = 'Le titre de métaélément doit contenir entre 3 et et 255 caractères !';
-$_['error_model'] = 'Le numéro de référence doit contenir entre 3 et 255 caractères !';
-$_['error_keyword'] = 'Cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
-$_['error_unique'] = 'Une adresse universelle de référencement (URL) doit être unique !';
+$_['error_name'] = 'Attention : le nom du produit doit contenir entre 3 et 255 caractères !';
+$_['error_meta_title'] = 'Attention : le titre du métaélément doit contenir entre 3 et et 255 caractères !';
+$_['error_model'] = 'Attention : le numéro de référence doit contenir entre 3 et 255 caractères !';
+$_['error_keyword'] = 'Attention : cette adresse universelle de référencement (URL) est déjà en cours d’utilisation !';
+$_['error_unique'] = 'Attention : une adresse universelle de référencement (URL) doit être unique !';
