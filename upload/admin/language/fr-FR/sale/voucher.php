@@ -48,9 +48,9 @@ $_['help_code'] = 'Le code que le client doit saisir pour activer le bon d’ach
 $_['error_selection'] = 'Attention : aucun bon d’achat n’a été sélectionné !';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bons d’achat !';
 $_['error_exists'] = 'Attention : ce code de bon d’achat est déjà utilisé !';
-$_['error_code'] = 'Le code doit contenir entre 3 et 10 caractères !';
-$_['error_to_name'] = 'Le nom du destinataire doit contenir entre 1 et 64 caractères';
-$_['error_from_name'] = 'Le nom de l’expéditeur doit contenir entre 1 et 64 caractères';
-$_['error_email'] = 'L’adresse électronique semble être invalide !';
-$_['error_amount'] = 'Le montant doit être égal ou supérieur à 1 !';
+$_['error_code'] = 'Attention : le code doit contenir entre 3 et 10 caractères !';
+$_['error_to_name'] = 'Attention : le nom du destinataire doit contenir entre 1 et 64 caractères';
+$_['error_from_name'] = 'Attention : le nom de l’expéditeur doit contenir entre 1 et 64 caractères';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_amount'] = 'Attention : le montant doit être égal ou supérieur à 1 !';
 $_['error_order'] = 'Attention : ce bon d’achat ne peut pas être supprimé car il fait partie d’une <a href="%s">commande</a> !';
