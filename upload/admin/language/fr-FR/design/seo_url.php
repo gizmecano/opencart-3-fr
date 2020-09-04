@@ -13,12 +13,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Adresse universelle de référencement (URL) optimisée pour les moteurs de recherche (SEO)';
+$_['heading_title'] = 'Liens de référencement';
 // Text
-$_['text_success'] = 'Les adresses universelles de référencement (URL) ont été modifiées avec succès !';
-$_['text_list'] = 'Liste des adresses universelles de référencement (URL)';
-$_['text_add'] = 'Ajouter une adresse universelle de référencement (URL)';
-$_['text_edit'] = 'Modifier une adresse universelle de référencement (URL)';
+$_['text_success'] = 'Les liens de référencement ont été modifiées avec succès !';
+$_['text_list'] = 'Liste des liens de référencement';
+$_['text_add'] = 'Ajouter un lien de référencement';
+$_['text_edit'] = 'Modifier un lien de référencement';
 $_['text_filter'] = 'Filtre';
 $_['text_default'] = 'Par défaut';
 // Column
@@ -33,7 +33,7 @@ $_['entry_keyword'] = 'Mot-clef';
 $_['entry_store'] = 'Boutique';
 $_['entry_language'] = 'Langue';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les adresses universelles de référencement (URL) !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les liens de référencement !';
 $_['error_query'] = 'Attention : la requête doit contenir entre 3 et 64 caractères !';
 $_['error_keyword'] = 'Attention : le mot-clef doit contenir entre 3 et 64 caractères !';
 $_['error_exists'] = 'Attention : le mot-clef est déjà utilisé !';

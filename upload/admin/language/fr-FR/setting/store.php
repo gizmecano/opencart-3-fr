@@ -29,11 +29,11 @@ $_['text_shipping'] = 'Adresse de livraison';
 $_['text_payment'] = 'Adresse de facturation';
 // Column
 $_['column_name'] = 'Nom de la boutique';
-$_['column_url'] = 'Adresse universelle de la boutique (URL)';
+$_['column_url'] = 'Lien de la boutique';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_url'] = 'Adresse universelle de la boutique (URL)';
-$_['entry_ssl'] = 'Adresse universelle (URL) sécurisée (SSL) de la boutique';
+$_['entry_url'] = 'Lien de la boutique';
+$_['entry_ssl'] = 'Lien sécurisé (SSL) de la boutique';
 $_['entry_meta_title'] = 'Titre du métaélément';
 $_['entry_meta_description'] = 'Description du métaélément';
 $_['entry_meta_keyword'] = 'Mots-clefs du métaélément';
@@ -71,8 +71,8 @@ $_['entry_logo'] = 'Enseigne de la boutique';
 $_['entry_icon'] = 'Icône';
 $_['entry_secure'] = 'Utiliser SSL';
 // Help
-$_['help_url'] = 'Inclure l’adresse universelle (URL) complète de votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : <http://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
-$_['help_ssl'] = 'Adresse universelle (URL) sécurisée (SSL) pour votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : <https://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
+$_['help_url'] = 'Inclure le lien complet de votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : <http://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
+$_['help_ssl'] = 'Lien sécurisé (SSL) pour votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : <https://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
 $_['help_geocode'] = 'Veuillez saisir l’emplacement géocode de votre boutique manuellement.';
 $_['help_open'] = 'Renseignez les horaires d’ouverture de votre boutique.';
 $_['help_comment'] = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n’accepte pas les chèques.';
@@ -94,7 +94,7 @@ $_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les boutiques !';
-$_['error_url'] = 'Attention : l’adresse universelle de la boutique (URL) est requise !';
+$_['error_url'] = 'Attention : le lien de la boutique est requis !';
 $_['error_meta_title'] = 'Attention : le titre doit contenir entre 3 et 32 caractères !';
 $_['error_name'] = 'Attention : le nom de la boutique doit contenir entre 3 et 32 caractères !';
 $_['error_owner'] = 'Attention : le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';
