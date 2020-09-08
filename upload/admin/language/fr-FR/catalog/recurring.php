@@ -24,7 +24,7 @@ $_['text_week'] = 'Semaine';
 $_['text_semi_month'] = 'Quinzaine';
 $_['text_month'] = 'Mois';
 $_['text_year'] = 'Année';
-$_['text_recurring'] = '<p><i class="fa fa-info-circle"></i>Les montants récurrents sont calculés par fréquence et cycles.</p><p>Par exemple, si vous utilisez une fréquence de type « semaine » et un cycle de « 2 », l’utilisateur sera facturé toutes les 2 semaines.</p><p>La durée correspond au nombre de fois où l’utilisateur effectuera un paiement. Réglez la durée à 0 si vous voulez recevoir des paiements jusqu’à l’annulation.</p>';
+$_['text_recurring'] = '<p><i class="fa fa-info-circle"></i>Les montants récurrents sont calculés par fréquence et cycles.</p><p>Par exemple, si vous utilisez une fréquence de type «&#160;semaine&#160;» et un cycle de «&#160;2&#160;», l’utilisateur sera facturé toutes les 2 semaines.</p><p>La durée correspond au nombre de fois où l’utilisateur effectuera un paiement. Réglez la durée à 0 si vous voulez recevoir des paiements jusqu’à l’annulation.</p>';
 $_['text_profile'] = 'Profil récurrent';
 $_['text_trial'] = 'Profil abonné';
 // Entry
