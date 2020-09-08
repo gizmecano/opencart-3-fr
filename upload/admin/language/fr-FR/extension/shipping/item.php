@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Livraison par articles';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'La livraison par articles a été modifiée avec succès !';
+$_['text_success'] = 'La livraison par articles a été modifiée avec succès&#160;!';
 $_['text_edit'] = 'Modifier la livraison par articles';
 // Entry
 $_['entry_cost'] = 'Coût';
@@ -25,4 +25,4 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison par articles !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison par articles&#160;!';

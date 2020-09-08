@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'La devise a été modifiée avec succès !';
+$_['text_success'] = 'La devise a été modifiée avec succès&#160;!';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission d’accéder à l’interface de programmation (API) !';
-$_['error_currency'] = 'Attention : le code de la devise n’est pas valide !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission d’accéder à l’interface de programmation (API)&#160;!';
+$_['error_currency'] = 'Attention : le code de la devise n’est pas valide&#160;!';

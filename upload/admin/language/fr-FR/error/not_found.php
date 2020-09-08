@@ -13,6 +13,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Page introuvable !';
+$_['heading_title'] = 'Page introuvable&#160;!';
 // Text
-$_['text_not_found'] = 'La page que vous recherchez est introuvable ! Veuillez contacter un administrateur si le problème persiste.';
+$_['text_not_found'] = 'La page que vous recherchez est introuvable&#160;! Veuillez contacter un administrateur si le problème persiste.';

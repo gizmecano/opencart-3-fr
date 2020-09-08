@@ -44,8 +44,8 @@ $_['text_transaction_suspended'] = 'Suspendu';
 $_['text_transaction_suspended_failed'] = 'Suspendu en raison d’un échec du paiement';
 $_['text_transaction_outstanding_failed'] = 'Échec du paiement en suspens';
 $_['text_transaction_expired'] = 'Expiré';
-$_['text_empty'] = 'Aucun paiement récurrent n’a été trouvé !';
-$_['text_error'] = 'Attention : la commande récurrente que vous avez demandée est introuvable !';
+$_['text_empty'] = 'Aucun paiement récurrent n’a été trouvé&#160;!';
+$_['text_error'] = 'Attention : la commande récurrente que vous avez demandée est introuvable&#160;!';
 $_['text_cancelled'] = 'Le paiement récurrent a été annulé';
 // Column
 $_['column_date_added'] = 'Date d’ajout';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Liens de référencement';
 // Text
-$_['text_success'] = 'Les liens de référencement ont été modifiées avec succès !';
+$_['text_success'] = 'Les liens de référencement ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des liens de référencement';
 $_['text_add'] = 'Ajouter un lien de référencement';
 $_['text_edit'] = 'Modifier un lien de référencement';
@@ -33,7 +33,7 @@ $_['entry_keyword'] = 'Mot-clef';
 $_['entry_store'] = 'Boutique';
 $_['entry_language'] = 'Langue';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les liens de référencement !';
-$_['error_query'] = 'Attention : la requête doit contenir entre 3 et 64 caractères !';
-$_['error_keyword'] = 'Attention : le mot-clef doit contenir entre 3 et 64 caractères !';
-$_['error_exists'] = 'Attention : le mot-clef est déjà utilisé !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les liens de référencement&#160;!';
+$_['error_query'] = 'Attention : la requête doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_keyword'] = 'Attention : le mot-clef doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_exists'] = 'Attention : le mot-clef est déjà utilisé&#160;!';

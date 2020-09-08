@@ -14,6 +14,6 @@
  *****************************************************************************/
 // Text
 $_['text_subject'] = '%s - Crédit d’affilié';
-$_['text_received'] = 'Vous avez reçu %s crédits !';
+$_['text_received'] = 'Vous avez reçu %s crédits&#160;!';
 $_['text_total'] = 'Votre montant total de crédit est maintenant de %s.';
 $_['text_credit'] = 'Le crédit de votre compte peut être déduit de votre prochain achat.';

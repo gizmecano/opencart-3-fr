@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des taxes';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des taxes';
-$_['text_success'] = 'Le rapport des taxes a été modifié avec succès !';
+$_['text_success'] = 'Le rapport des taxes a été modifié avec succès&#160;!';
 $_['text_filter'] = 'Filtre';
 $_['text_year'] = 'Années';
 $_['text_month'] = 'Mois';
@@ -38,4 +38,4 @@ $_['entry_status'] = 'Statut de la commande';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des taxes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des taxes&#160;!';

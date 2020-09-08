@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Statistique des ventes';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le tableau de bord des statistique des ventes a été modifié avec succès !';
+$_['text_success'] = 'Le tableau de bord des statistique des ventes a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le tableau de bord des statistique des ventes';
 $_['text_order'] = 'Commandes';
 $_['text_customer'] = 'Clients';
@@ -29,4 +29,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_width'] = 'Largeur';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord des statistique des ventes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord des statistique des ventes&#160;!';

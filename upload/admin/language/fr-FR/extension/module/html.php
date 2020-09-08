@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Contenus HTML';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module des contenus HTML a été modifié avec succès !';
+$_['text_success'] = 'Le module des contenus HTML a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le module des contenus HTML';
 // Entry
 $_['entry_name'] = 'Nom du module';
@@ -24,5 +24,5 @@ $_['entry_title'] = 'Manchette de titre';
 $_['entry_description'] = 'Description';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des contenus HTML !';
-$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des contenus HTML&#160;!';
+$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères&#160;!';

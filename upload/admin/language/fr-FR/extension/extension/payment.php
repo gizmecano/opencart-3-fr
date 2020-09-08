@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Moyens de paiement';
 // Text
-$_['text_success'] = 'Les moyens de paiements ont été modifiés avec succès !';
+$_['text_success'] = 'Les moyens de paiements ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des moyens de paiements';
 $_['text_recommended'] = 'Solutions de paiement recommandées';
 // Column
@@ -24,4 +24,4 @@ $_['column_status'] = 'Statut';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les moyens de paiements !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les moyens de paiements&#160;!';

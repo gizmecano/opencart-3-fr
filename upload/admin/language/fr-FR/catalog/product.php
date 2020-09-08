@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Produits';
 // Text
-$_['text_success'] = 'Les produits ont été modifiés avec succès !';
+$_['text_success'] = 'Les produits ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des produits';
 $_['text_add'] = 'Ajouter un produit';
 $_['text_edit'] = 'Modifier un produit';
@@ -109,10 +109,10 @@ $_['help_download'] = 'Autocomplétion';
 $_['help_related'] = 'Autocomplétion';
 $_['help_tag'] = 'Séparé par des virgules';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les produits !';
-$_['error_name'] = 'Attention : le nom du produit doit contenir entre 3 et 255 caractères !';
-$_['error_meta_title'] = 'Attention : le titre du métaélément doit contenir entre 3 et et 255 caractères !';
-$_['error_model'] = 'Attention : le numéro de référence doit contenir entre 3 et 255 caractères !';
-$_['error_keyword'] = 'Attention : ce lien de référencement est déjà en cours d’utilisation !';
-$_['error_unique'] = 'Attention : un lien de référencement doit être unique !';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les produits&#160;!';
+$_['error_name'] = 'Attention : le nom du produit doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_meta_title'] = 'Attention : le titre du métaélément doit contenir entre 3 et et 255 caractères&#160;!';
+$_['error_model'] = 'Attention : le numéro de référence doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_keyword'] = 'Attention : ce lien de référencement est déjà en cours d’utilisation&#160;!';
+$_['error_unique'] = 'Attention : un lien de référencement doit être unique&#160;!';

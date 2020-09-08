@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des recherches des clients';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des recherches des clients';
-$_['text_success'] = 'Le rapport des recherches des clients a été modifié avec succès !';
+$_['text_success'] = 'Le rapport des recherches des clients a été modifié avec succès&#160;!';
 $_['text_filter'] = 'Filtre';
 $_['text_guest'] = 'Invité';
 $_['text_customer'] = '<a href="%s">%s</a>';
@@ -37,4 +37,4 @@ $_['entry_ip'] = 'Adresse IP';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des recherches des clients !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des recherches des clients&#160;!';

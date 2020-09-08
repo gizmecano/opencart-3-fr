@@ -27,9 +27,9 @@ $_['text_payment_address'] = 'Adresse de facturation';
 $_['text_payment_method'] = 'Moyen de paiement : ';
 $_['text_comment'] = 'Commentaire';
 $_['text_history'] = 'Historique des commandes';
-$_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">panier d’achat</a> avec succès !';
+$_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">panier d’achat</a> avec succès&#160;!';
 $_['text_empty'] = 'Vous n’avez effectué aucune commande précédemment';
-$_['text_error'] = 'Attention : la commande que vous avez demandée est introuvable !';
+$_['text_error'] = 'Attention : la commande que vous avez demandée est introuvable&#160;!';
 // Column
 $_['column_order_id'] = 'Commande n°';
 $_['column_customer'] = 'Client';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Approbations de clients';
 // Text
-$_['text_success'] = 'Les approbations de clients ont été modifiées avec succès !';
+$_['text_success'] = 'Les approbations de clients ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des approbations de clients';
 $_['text_default'] = 'Par défaut';
 $_['text_customer'] = 'Client';
@@ -34,4 +34,4 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_type'] = 'Type';
 $_['entry_date_added'] = 'Date d’ajout';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les approbations de clients !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les approbations de clients&#160;!';

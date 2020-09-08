@@ -16,9 +16,9 @@
 $_['heading_title'] = 'Comptes';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module des comptes a été modifié avec succès !';
+$_['text_success'] = 'Le module des comptes a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le module des comptes';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des comptes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des comptes&#160;!';

@@ -15,8 +15,8 @@
 // Heading
 $_['heading_title'] = 'Modifications';
 // Text
-$_['text_success'] = 'Les modifications ont été modifiées avec succès !';
-$_['text_refresh'] = 'Chaque fois que vous activez, désactivez ou supprimez une modification, vous devez cliquer sur le bouton Actualiser pour mettre à jour le cache !';
+$_['text_success'] = 'Les modifications ont été modifiées avec succès&#160;!';
+$_['text_refresh'] = 'Chaque fois que vous activez, désactivez ou supprimez une modification, vous devez cliquer sur le bouton Actualiser pour mettre à jour le cache&#160;!';
 $_['text_list'] = 'Liste des modifications';
 // Column
 $_['column_name'] = 'Nom de la modification';
@@ -26,4 +26,4 @@ $_['column_status'] = 'Statut';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modifications !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modifications&#160;!';

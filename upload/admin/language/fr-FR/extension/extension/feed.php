@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Flux de produits';
 // Text
-$_['text_success'] = 'Les flux de produits ont été modifiés avec succès !';
+$_['text_success'] = 'Les flux de produits ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des flux de produits';
 // Column
 $_['column_name'] = 'Nom du flux';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les flux de produits !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les flux de produits&#160;!';

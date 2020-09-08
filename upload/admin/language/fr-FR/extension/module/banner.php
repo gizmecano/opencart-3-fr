@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Bannières';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module des bannières a été modifié avec succès !';
+$_['text_success'] = 'Le module des bannières a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le module des bannières';
 // Entry
 $_['entry_name'] = 'Nom du module';
@@ -26,7 +26,7 @@ $_['entry_width'] = 'Largeur';
 $_['entry_height'] = 'Hauteur';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des bannières !';
-$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères !';
-$_['error_width'] = 'Attention : la largeur est requise !';
-$_['error_height'] = 'Attention : la hauteur est requise !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des bannières&#160;!';
+$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_width'] = 'Attention : la largeur est requise&#160;!';
+$_['error_height'] = 'Attention : la hauteur est requise&#160;!';

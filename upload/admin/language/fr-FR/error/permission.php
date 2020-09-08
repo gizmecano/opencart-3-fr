@@ -13,6 +13,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Permission refusée !';
+$_['heading_title'] = 'Permission refusée&#160;!';
 // Text
 $_['text_permission'] = 'Vous n’avez pas la permission d’accéder à cette page. Veuillez contacter un administrateur.';

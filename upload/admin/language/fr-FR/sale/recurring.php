@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Commandes récurrentes';
 // Text
-$_['text_success'] = 'Les commandes récurrentes ont été modifiées avec succès !';
+$_['text_success'] = 'Les commandes récurrentes ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des commandes récurrentes';
 $_['text_filter'] = 'Filtre';
 $_['text_recurring_detail'] = 'Détails de commande récurrente';
@@ -46,7 +46,7 @@ $_['text_status_4'] = 'Suspendu';
 $_['text_status_5'] = 'Expiré';
 $_['text_status_6'] = 'En attente';
 $_['text_transactions'] = 'Transactions';
-$_['text_cancel_confirm'] = 'L’annulation de commande récurrente ne peut pas être annulée ! Veuillez confirmer que vous souhaitez le faire ?';
+$_['text_cancel_confirm'] = 'L’annulation de commande récurrente ne peut pas être annulée&#160;! Veuillez confirmer que vous souhaitez le faire ?';
 $_['text_transaction_date_added'] = 'Date d’ajout';
 $_['text_transaction_payment'] = 'Paiement';
 $_['text_transaction_outstanding_payment'] = 'Paiement en suspens';

@@ -16,11 +16,11 @@
 $_['heading_title'] = 'Commande gratuite';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module de commande gratuite a été modifié avec succès !';
+$_['text_success'] = 'Le module de commande gratuite a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le module de commande gratuite';
 // Entry
 $_['entry_order_status'] = 'Statut de la commande';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de commande gratuite !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de commande gratuite&#160;!';

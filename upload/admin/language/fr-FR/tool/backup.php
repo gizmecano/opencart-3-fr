@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Sauvegarde et restauration';
 // Text
-$_['text_success'] = 'La base de données a été sauvegardée avec succès !';
+$_['text_success'] = 'La base de données a été sauvegardée avec succès&#160;!';
 // Entry
 $_['entry_progress']= 'Progression';
 $_['entry_export'] = 'Exportation';
@@ -23,6 +23,6 @@ $_['entry_export'] = 'Exportation';
 $_['tab_backup']= 'Sauvegarde';
 $_['tab_restore']= 'Restauration';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations !';
-$_['error_export'] = 'Attention : vous devez sélectionner au moins une table à exporter !';
-$_['error_file']= 'Attention : le fichier est introuvable !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations&#160;!';
+$_['error_export'] = 'Attention : vous devez sélectionner au moins une table à exporter&#160;!';
+$_['error_file']= 'Attention : le fichier est introuvable&#160;!';

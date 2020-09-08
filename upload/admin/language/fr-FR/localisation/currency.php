@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Devises';
 // Text
-$_['text_success'] = 'Les devises ont été modifiées avec succès !';
+$_['text_success'] = 'Les devises ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des devises';
 $_['text_add'] = 'Ajouter une devise';
 $_['text_edit'] = 'Modifier une devise';
@@ -38,9 +38,9 @@ $_['entry_status'] = 'Statut';
 $_['help_code'] = 'Ne changez pas le code s’il s’agit de la devise par défaut.';
 $_['help_value'] = 'Ajustez cette valeur à 1.00000 s’il s’agit de la devise par défaut.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les devises !';
-$_['error_title'] = 'Attention : le nom de la devise doit contenir entre 3 et 32 caractères !';
-$_['error_code'] = 'Attention : le code de la devise doit contenir 3 caractères !';
-$_['error_default'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement définie comme la devise par défaut !';
-$_['error_store'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques !';
-$_['error_order'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement appliquée à %s commandes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les devises&#160;!';
+$_['error_title'] = 'Attention : le nom de la devise doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_code'] = 'Attention : le code de la devise doit contenir 3 caractères&#160;!';
+$_['error_default'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement définie comme la devise par défaut&#160;!';
+$_['error_store'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques&#160;!';
+$_['error_order'] = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement appliquée à %s commandes&#160;!';

@@ -13,9 +13,9 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'La déduction de vos points de fidélité a été appliquée avec succès !';
+$_['text_success'] = 'La déduction de vos points de fidélité a été appliquée avec succès&#160;!';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
-$_['error_reward'] = 'Attention : veuillez saisir le montant des points de fidélité à utiliser !';
-$_['error_points'] = 'Attention : vous n’avez pas %s points de fidélité !';
-$_['error_maximum'] = 'Attention : le nombre maximum de points de fidélité pouvant être utilisés est de %s !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
+$_['error_reward'] = 'Attention : veuillez saisir le montant des points de fidélité à utiliser&#160;!';
+$_['error_points'] = 'Attention : vous n’avez pas %s points de fidélité&#160;!';
+$_['error_maximum'] = 'Attention : le nombre maximum de points de fidélité pouvant être utilisés est de %s&#160;!';

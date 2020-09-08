@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Virement bancaire';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module de virement bancaire a été modifié avec succès !';
+$_['text_success'] = 'Le module de virement bancaire a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le module de virement bancaire';
 // Entry
 $_['entry_bank'] = 'Instructions de paiement';
@@ -28,5 +28,5 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement puisse devenir actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de virement bancaire !';
-$_['error_bank'] = 'Attention : les instructions de virement bancaire sont requises !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de virement bancaire&#160;!';
+$_['error_bank'] = 'Attention : les instructions de virement bancaire sont requises&#160;!';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Langues';
 // Text
-$_['text_success'] = 'Les langues ont été modifiées avec succès !';
+$_['text_success'] = 'Les langues ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des langues';
 $_['text_add'] = 'Ajouter une langue';
 $_['text_edit'] = 'Modifier une langue';
@@ -34,12 +34,12 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_locale'] = 'Par exemple : en_US.UTF-8,en_US,en-gb,en_gb,english';
 $_['help_status'] = 'Masquer/Afficher dans le menu déroulant des langues';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les langues !';
-$_['error_exists'] = 'Attention : vous avez déjà ajouté cette langue !';
-$_['error_name'] = 'Attention : le nom de la langue doit contenir entre 3 et 32 caractères !';
-$_['error_code'] = 'Attention : le code de la langue doit contenir au moins 2 caractères !';
-$_['error_locale'] = 'Attention : les paramètres régionaux sont requis !';
-$_['error_default'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue par défaut !';
-$_['error_admin'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue du panneau d’administration !';
-$_['error_store'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques !';
-$_['error_order'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s commandes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les langues&#160;!';
+$_['error_exists'] = 'Attention : vous avez déjà ajouté cette langue&#160;!';
+$_['error_name'] = 'Attention : le nom de la langue doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_code'] = 'Attention : le code de la langue doit contenir au moins 2 caractères&#160;!';
+$_['error_locale'] = 'Attention : les paramètres régionaux sont requis&#160;!';
+$_['error_default'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue par défaut&#160;!';
+$_['error_admin'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement assignée comme langue du panneau d’administration&#160;!';
+$_['error_store'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s boutiques&#160;!';
+$_['error_order'] = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement appliquée à %s commandes&#160;!';

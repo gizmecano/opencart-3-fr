@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Tables analytiques';
 // Text
-$_['text_success'] = 'Les tables analytiques ont été modifiées avec succès !';
+$_['text_success'] = 'Les tables analytiques ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des tables analytiques';
 // Column
 $_['column_name'] = 'Nom de la table analytique';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les tables analytiques !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les tables analytiques&#160;!';

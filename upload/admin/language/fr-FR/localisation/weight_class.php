@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Unités de poids';
 // Text
-$_['text_success'] = 'Les unités de poids ont été modifiées avec succès !';
+$_['text_success'] = 'Les unités de poids ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des unités de poids';
 $_['text_add'] = 'Ajouter une unité de poids';
 $_['text_edit'] = 'Modifier une unité de poids';
@@ -31,8 +31,8 @@ $_['entry_value'] = 'Valeur';
 // Help
 $_['help_value'] = 'Ajustez à 1.00000 s’il s’agit de votre poids par défaut.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les unités de poids !';
-$_['error_title'] = 'Attention : le nom de l’unité de poids doit contenir entre 3 et 32 caractères !';
-$_['error_unit'] = 'Attention : l’unité de poids doit contenir entre 1 et 4 caractères !';
-$_['error_default'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement assignée comme unité de poids par défaut !';
-$_['error_product'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement appliquée à %s produits !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les unités de poids&#160;!';
+$_['error_title'] = 'Attention : le nom de l’unité de poids doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_unit'] = 'Attention : l’unité de poids doit contenir entre 1 et 4 caractères&#160;!';
+$_['error_default'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement assignée comme unité de poids par défaut&#160;!';
+$_['error_product'] = 'Attention : cette unité de poids ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';

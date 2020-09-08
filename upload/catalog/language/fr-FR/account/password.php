@@ -17,10 +17,10 @@ $_['heading_title'] = 'Modifier le mot de passe';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_password'] = 'Votre mot de passe';
-$_['text_success'] = 'Votre mot de passe a été mis à jour avec succès !';
+$_['text_success'] = 'Votre mot de passe a été mis à jour avec succès&#160;!';
 // Entry
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer ce mot de passe';
 // Error
-$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères !';
-$_['error_confirm'] = 'Attention : le mot de passe de confirmation ne correspond pas au premier mot de passe !';
+$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
+$_['error_confirm'] = 'Attention : le mot de passe de confirmation ne correspond pas au premier mot de passe&#160;!';

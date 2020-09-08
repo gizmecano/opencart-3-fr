@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Catégories';
 // Text
-$_['text_success'] = 'Les catégories ont été modifiées avec succès !';
+$_['text_success'] = 'Les catégories ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des catégories';
 $_['text_add'] = 'Ajouter une catégorie';
 $_['text_edit'] = 'Modifier une catégorie';
@@ -47,10 +47,10 @@ $_['help_filter'] = 'Autocomplétion';
 $_['help_top'] = 'Afficher dans la barre de menu supérieure. Applicable uniquement aux catégories clefs.';
 $_['help_column'] = 'Nombre de colonnes à utiliser pour les trois dernières catégories. Applicable uniquement aux catégories clefs.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les catégories !';
-$_['error_name'] = 'Attention : le nom de la catégorie doit contenir entre 2 et 255 caractères !';
-$_['error_meta_title'] = 'Attention : le titre du métaélément doit contenir entre 3 et 255 caractères !';
-$_['error_keyword'] = 'Attention : ce lien de référencement est déjà en cours d’utilisation !';
-$_['error_unique'] = 'Attention : un lien de référencement doit être unique !';
-$_['error_parent'] = 'Attention: la catégorie parente que vous avez choisie est une catégorie enfant de la catégorie actuelle !';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les catégories&#160;!';
+$_['error_name'] = 'Attention : le nom de la catégorie doit contenir entre 2 et 255 caractères&#160;!';
+$_['error_meta_title'] = 'Attention : le titre du métaélément doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_keyword'] = 'Attention : ce lien de référencement est déjà en cours d’utilisation&#160;!';
+$_['error_unique'] = 'Attention : un lien de référencement doit être unique&#160;!';
+$_['error_parent'] = 'Attention: la catégorie parente que vous avez choisie est une catégorie enfant de la catégorie actuelle&#160;!';

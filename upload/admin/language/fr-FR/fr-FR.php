@@ -35,7 +35,7 @@ $_['text_default'] = ' <b>(Par défaut)</b>';
 $_['text_close'] = 'Fermer';
 $_['text_pagination'] = 'Afficher %d à %d de %d (%d pages)';
 $_['text_loading'] = 'Chargement en cours';
-$_['text_no_results'] = 'Aucun résultat !';
+$_['text_no_results'] = 'Aucun résultat&#160;!';
 $_['text_confirm'] = 'Veuillez confirmer';
 $_['text_home'] = 'Accueil';
 // Button
@@ -155,14 +155,14 @@ $_['tab_action'] = 'Action';
 $_['tab_google'] = 'Google';
 // Error
 $_['error_exception'] = 'Code d’erreur (%s) : %s dans %s à la ligne %s';
-$_['error_upload_1'] = 'Attention : le fichier transféré dépasse la directive UPLOAD_MAX_FILESIZE dans <php.ini> !';
-$_['error_upload_2'] = 'Attention : le fichier transféré dépasse la directive MAX_FILE_SIZE qui est spécifiée dans le formulaire HTML !';
-$_['error_upload_3'] = 'Attention : le fichier n’a été transféré que partiellement !';
-$_['error_upload_4'] = 'Attention : aucun fichier n’a été transféré !';
-$_['error_upload_6'] = 'Attention : le répertoire temporaire est manquant !';
-$_['error_upload_7'] = 'Attention : échec de l’écriture du fichier sur le disque !';
-$_['error_upload_8'] = 'Attention : le transfert de fichier a été arrêté en raison de l’extension !';
-$_['error_upload_999'] = 'Attention : aucun code d’erreur disponible !';
+$_['error_upload_1'] = 'Attention : le fichier transféré dépasse la directive UPLOAD_MAX_FILESIZE dans <php.ini>&#160;!';
+$_['error_upload_2'] = 'Attention : le fichier transféré dépasse la directive MAX_FILE_SIZE qui est spécifiée dans le formulaire HTML&#160;!';
+$_['error_upload_3'] = 'Attention : le fichier n’a été transféré que partiellement&#160;!';
+$_['error_upload_4'] = 'Attention : aucun fichier n’a été transféré&#160;!';
+$_['error_upload_6'] = 'Attention : le répertoire temporaire est manquant&#160;!';
+$_['error_upload_7'] = 'Attention : échec de l’écriture du fichier sur le disque&#160;!';
+$_['error_upload_8'] = 'Attention : le transfert de fichier a été arrêté en raison de l’extension&#160;!';
+$_['error_upload_999'] = 'Attention : aucun code d’erreur disponible&#160;!';
 $_['error_curl'] = 'cURL : Code d’erreur (%s) : %s';
 // Summernote
 $_['summernote'] = 'fr-FR';

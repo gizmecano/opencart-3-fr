@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des bons de réduction';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des bons de réduction';
-$_['text_success'] = 'Le rapport des bons de réduction a été modifié avec succès !';
+$_['text_success'] = 'Le rapport des bons de réduction a été modifié avec succès&#160;!';
 $_['text_filter'] = 'Filtre';
 // Column
 $_['column_name'] = 'Nom du bon de réduction';
@@ -31,4 +31,4 @@ $_['entry_date_end'] = 'Date de fin';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des bons de réduction !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des bons de réduction&#160;!';

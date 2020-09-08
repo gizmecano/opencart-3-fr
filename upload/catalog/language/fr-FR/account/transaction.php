@@ -22,4 +22,4 @@ $_['column_amount'] = 'Montant (%s)';
 $_['text_account'] = 'Compte';
 $_['text_transaction'] = 'Vos transactions';
 $_['text_total'] = 'La balance de votre compte est actuellement : ';
-$_['text_empty'] = 'Vous n’avez aucune transaction !';
+$_['text_empty'] = 'Vous n’avez aucune transaction&#160;!';

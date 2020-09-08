@@ -17,7 +17,7 @@ $_['heading_title'] = 'Trouvez votre fabricant préféré';
 // Text
 $_['text_brand'] = 'Marque du fabricant';
 $_['text_index'] = 'Index du fabricant : ';
-$_['text_error'] = 'Attention : le fabricant est introuvable !';
+$_['text_error'] = 'Attention : le fabricant est introuvable&#160;!';
 $_['text_empty'] = 'Il n’y a aucun produit à lister pour ce fabricant.';
 $_['text_quantity'] = 'Quantité : ';
 $_['text_manufacturer'] = 'Fabricant : ';

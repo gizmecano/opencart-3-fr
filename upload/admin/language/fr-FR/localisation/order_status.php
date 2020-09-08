@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Statuts de commande';
 // Text
-$_['text_success'] = 'Les statuts de commande ont été modifiés avec succès !';
+$_['text_success'] = 'Les statuts de commande ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des statuts de commande';
 $_['text_add'] = 'Ajouter un statut de commande';
 $_['text_edit'] = 'Modifier un statut de commande';
@@ -25,9 +25,9 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du statut de commande';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statuts de commande !';
-$_['error_name'] = 'Attention : le nom du statut de commande doit contenir entre 3 et 32 caractères !';
-$_['error_default'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement assigné comme le statut de commande par défaut !';
-$_['error_download'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement assigné comme le statut de commande par défaut pour les téléchargements !';
-$_['error_store'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement appliqué à %s boutiques !';
-$_['error_order'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement appliqué à %s commandes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statuts de commande&#160;!';
+$_['error_name'] = 'Attention : le nom du statut de commande doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_default'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement assigné comme le statut de commande par défaut&#160;!';
+$_['error_download'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement assigné comme le statut de commande par défaut pour les téléchargements&#160;!';
+$_['error_store'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement appliqué à %s boutiques&#160;!';
+$_['error_order'] = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement appliqué à %s commandes&#160;!';

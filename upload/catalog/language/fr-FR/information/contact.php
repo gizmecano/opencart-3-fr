@@ -23,7 +23,7 @@ $_['text_telephone'] = 'Numéro de téléphone';
 $_['text_fax'] = 'Numéro de télécopie';
 $_['text_open'] = 'Horaires d’ouverture';
 $_['text_comment'] = 'Commentaires';
-$_['text_success'] = '<p>Votre demande de renseignements a été envoyée avec succès !</p>';
+$_['text_success'] = '<p>Votre demande de renseignements a été envoyée avec succès&#160;!</p>';
 // Entry
 $_['entry_name'] = 'Votre nom';
 $_['entry_email'] = 'Adresse électronique';
@@ -31,6 +31,6 @@ $_['entry_enquiry'] = 'Demande de renseignements';
 // Email
 $_['email_subject'] = 'Demande de renseignements : %s';
 // Errors
-$_['error_name'] = 'Attention : le nom doit contenir entre 3 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique ne semble pas être valide !';
-$_['error_enquiry'] = 'Attention : la demande de renseignements doit contenir entre 10 et 3000 caractères !';
+$_['error_name'] = 'Attention : le nom doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_email'] = 'Attention : l’adresse électronique ne semble pas être valide&#160;!';
+$_['error_enquiry'] = 'Attention : la demande de renseignements doit contenir entre 10 et 3000 caractères&#160;!';

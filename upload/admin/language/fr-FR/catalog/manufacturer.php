@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Fabricants';
 // Text
-$_['text_success'] = 'Les fabricants ont été modifiés avec succès !';
+$_['text_success'] = 'Les fabricants ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des fabricants';
 $_['text_add'] = 'Ajouter un fabricant';
 $_['text_edit'] = 'Modifier un fabricant';
@@ -35,8 +35,8 @@ $_['entry_image'] = 'Image';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_type'] = 'Type';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les fabricants !';
-$_['error_name'] = 'Attention : le nom du fabricant doit contenir entre 2 et 64 caractères !';
-$_['error_keyword'] = 'Attention : ce lien de référencement est déjà en cours d’utilisation !';
-$_['error_unique'] = 'Attention : un lien de référencement doit être unique !';
-$_['error_product'] = 'Attention : ce fabricant ne peut pas être supprimé car il est actuellement appliqué aux produits %s !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les fabricants&#160;!';
+$_['error_name'] = 'Attention : le nom du fabricant doit contenir entre 2 et 64 caractères&#160;!';
+$_['error_keyword'] = 'Attention : ce lien de référencement est déjà en cours d’utilisation&#160;!';
+$_['error_unique'] = 'Attention : un lien de référencement doit être unique&#160;!';
+$_['error_product'] = 'Attention : ce fabricant ne peut pas être supprimé car il est actuellement appliqué aux produits %s&#160;!';

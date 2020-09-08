@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Antifraude';
 // Text
-$_['text_success'] = 'L’antifraude a été modifiée avec succès !';
+$_['text_success'] = 'L’antifraude a été modifiée avec succès&#160;!';
 $_['text_list'] = 'Liste antifraude';
 // Column
 $_['column_name'] = 'Nom de l’antifraude';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’antifraude !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’antifraude&#160;!';

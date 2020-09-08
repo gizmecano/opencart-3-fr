@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Livraison basée sur le poids';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'La livraison basée sur le poids a été modifiée avec succès !';
+$_['text_success'] = 'La livraison basée sur le poids a été modifiée avec succès&#160;!';
 $_['text_edit'] = 'Modifier la livraison basée sur le poids';
 // Entry
 $_['entry_rate'] = 'Tarifs';
@@ -27,4 +27,4 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_rate'] = 'Par exemple : 5:10.00,7:12.00 Poids:Coût,Poids:Coût, etc.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison basée sur le poids !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison basée sur le poids&#160;!';

@@ -13,8 +13,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_upload'] = 'Transfert du fichier réussi !';
+$_['text_upload'] = 'Transfert du fichier réussi&#160;!';
 // Error
-$_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 64 caractères !';
-$_['error_filetype'] = 'Attention : le type de fichier est incorrect !';
-$_['error_upload'] = 'Attention : le transfert de fichier est nécessaire !';
+$_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_filetype'] = 'Attention : le type de fichier est incorrect&#160;!';
+$_['error_upload'] = 'Attention : le transfert de fichier est nécessaire&#160;!';

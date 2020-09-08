@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Zones géographiques';
 // Text
-$_['text_success'] = 'Les zones géographiques ont été modifiées avec succès !';
+$_['text_success'] = 'Les zones géographiques ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des zones géographiques';
 $_['text_add'] = 'Ajouter une zone géographique';
 $_['text_edit'] = 'Modifier une zone géographique';
@@ -30,7 +30,7 @@ $_['entry_description'] = 'Description';
 $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Zone';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les zones géographiques !';
-$_['error_name'] = 'Attention : le nom de la zone géographique doit contenir entre 3 et 32 caractères !';
-$_['error_description'] = 'Attention : la description de la zone géographique doit contenir entre 3 et 255 caractères !';
-$_['error_tax_rate'] = 'Attention : cette zone géographique ne peut pas être supprimée car elle est actuellement appliquée à un ou plusieurs taux de taxe !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les zones géographiques&#160;!';
+$_['error_name'] = 'Attention : le nom de la zone géographique doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_description'] = 'Attention : la description de la zone géographique doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_tax_rate'] = 'Attention : cette zone géographique ne peut pas être supprimée car elle est actuellement appliquée à un ou plusieurs taux de taxe&#160;!';

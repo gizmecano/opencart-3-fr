@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des activités des clients';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des activités des clients';
-$_['text_success'] = 'Le rapport des activités des clients a été modifié avec succès !';
+$_['text_success'] = 'Le rapport des activités des clients a été modifié avec succès&#160;!';
 $_['text_filter'] = 'Filtre';
 $_['text_activity_register'] = '<a href="customer_id=%d">%s</a> a créé un nouveau compte.';
 $_['text_activity_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour les informations de son compte.';
@@ -48,4 +48,4 @@ $_['entry_date_end'] = 'Date de fin';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des activités des clients !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des activités des clients&#160;!';

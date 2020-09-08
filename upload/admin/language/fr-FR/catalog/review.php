@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Évaluations';
 // Text
-$_['text_success'] = 'Les évaluations ont été modifiées avec succès !';
+$_['text_success'] = 'Les évaluations ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des évaluations';
 $_['text_add'] = 'Ajouter une évaluation';
 $_['text_edit'] = 'Modifier une évaluation';
@@ -36,8 +36,8 @@ $_['entry_date_added'] = 'Date d’ajout';
 // Help
 $_['help_product'] = 'Autocomplétion';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les évaluations !';
-$_['error_product'] = 'Attention : le produit est requis !';
-$_['error_author'] = 'Attention : le nom de l’auteur doit contenir entre 3 et 64 caractères !';
-$_['error_text'] = 'Attention : l’évaluation doit contenir au moins un caractère !';
-$_['error_rating'] = 'Attention : la note est requise !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les évaluations&#160;!';
+$_['error_product'] = 'Attention : le produit est requis&#160;!';
+$_['error_author'] = 'Attention : le nom de l’auteur doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_text'] = 'Attention : l’évaluation doit contenir au moins un caractère&#160;!';
+$_['error_rating'] = 'Attention : la note est requise&#160;!';

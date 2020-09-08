@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Bannières';
 // Text
-$_['text_success'] = 'Les bannières ont été modifiées avec succès !';
+$_['text_success'] = 'Les bannières ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des bannières';
 $_['text_add'] = 'Ajouter une bannière';
 $_['text_edit'] = 'Modifier une bannière';
@@ -32,6 +32,6 @@ $_['entry_image'] = 'Image';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bannières !';
-$_['error_name'] = 'Attention : le nom de la bannière doit contenir entre 3 et 64 caractères !';
-$_['error_title'] = 'Attention : le titre de la bannière doit contenir entre 2 et 64 caractères !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bannières&#160;!';
+$_['error_name'] = 'Attention : le nom de la bannière doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_title'] = 'Attention : le titre de la bannière doit contenir entre 2 et 64 caractères&#160;!';

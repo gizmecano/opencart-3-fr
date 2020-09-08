@@ -15,9 +15,9 @@
 // Text
 $_['text_success'] = 'Le profil a été modifié avec succès';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
-$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_custom_field'] = 'Attention : %s requis !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
+$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide&#160;!';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_custom_field'] = 'Attention : %s requis&#160;!';

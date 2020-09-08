@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Éditeur linguistique';
 // Text
-$_['text_success'] = 'L’éditeur linguistique a été modifié avec succès !';
+$_['text_success'] = 'L’éditeur linguistique a été modifié avec succès&#160;!';
 $_['text_list'] = 'Liste de traduction';
 $_['text_edit'] = 'Modifier la traduction';
 $_['text_add'] = 'Ajouter une traduction';
@@ -37,5 +37,5 @@ $_['entry_key'] = 'Clef';
 $_['entry_value'] = 'Valeur';
 $_['entry_default'] = 'Par défaut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’éditeur linguistique !';
-$_['error_key'] = 'Attention : une clef doit contenir entre 3 et 64 caractères !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’éditeur linguistique&#160;!';
+$_['error_key'] = 'Attention : une clef doit contenir entre 3 et 64 caractères&#160;!';

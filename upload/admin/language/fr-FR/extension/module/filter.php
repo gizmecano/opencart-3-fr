@@ -16,9 +16,9 @@
 $_['heading_title'] = 'Filtres';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module des filtres a été modifié avec succès !';
+$_['text_success'] = 'Le module des filtres a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le module des filtres';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des filtres !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des filtres&#160;!';

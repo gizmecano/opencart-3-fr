@@ -17,6 +17,6 @@ $_['heading_title'] = 'Inscription à la lettre d’informations';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_newsletter'] = 'Lettre d’informations';
-$_['text_success'] = 'Votre inscription à la lettre d’informations a été modifiée avec succès !';
+$_['text_success'] = 'Votre inscription à la lettre d’informations a été modifiée avec succès&#160;!';
 // Entry
 $_['entry_newsletter'] = 'S’abonner';

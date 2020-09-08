@@ -16,10 +16,10 @@
 $_['heading_title'] = 'Bons de réduction';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le total des bons de réduction a été modifié avec succès !';
+$_['text_success'] = 'Le total des bons de réduction a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier un bon de réduction';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des bons de réduction !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des bons de réduction&#160;!';

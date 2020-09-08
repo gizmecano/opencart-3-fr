@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Transferts de fichiers';
 // Text
-$_['text_success'] = 'Les transferts de fichiers ont été modifiés avec succès !';
+$_['text_success'] = 'Les transferts de fichiers ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des transferts';
 // Column
 $_['column_name'] = 'Nom du transfert';
@@ -27,4 +27,4 @@ $_['entry_name'] = 'Nom du transfert';
 $_['entry_filename'] = 'Nom du fichier';
 $_['entry_date_added'] = 'Date d’ajout';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les transferts de fichiers !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les transferts de fichiers&#160;!';

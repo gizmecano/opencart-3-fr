@@ -16,10 +16,10 @@
 $_['heading_title'] = 'Taxes';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le total des taxes a été modifié avec succès !';
+$_['text_success'] = 'Le total des taxes a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le total des taxes';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des taxes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des taxes&#160;!';

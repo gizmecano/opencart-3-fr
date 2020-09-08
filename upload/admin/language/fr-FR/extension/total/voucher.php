@@ -16,10 +16,10 @@
 $_['heading_title'] = 'Bon d’achat';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le total des bons d’achat a été modifié avec succès !';
+$_['text_success'] = 'Le total des bons d’achat a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le total des bons d’achat';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des bons d’achat !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des bons d’achat&#160;!';

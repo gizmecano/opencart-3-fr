@@ -13,7 +13,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Échec du paiement !';
+$_['heading_title'] = 'Échec du paiement&#160;!';
 // Text
 $_['text_basket'] = 'Panier d’achat';
 $_['text_checkout'] = 'Valider la commande';

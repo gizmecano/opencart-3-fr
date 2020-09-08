@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Profils récurrents';
 // Text
-$_['text_success'] = 'Les profils récurrents ont été modifiés avec succès !';
+$_['text_success'] = 'Les profils récurrents ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des profils récurrents';
 $_['text_add'] = 'Ajouter un profil récurrent';
 $_['text_edit'] = 'Modifier un profil récurrent';
@@ -45,7 +45,7 @@ $_['column_name'] = 'Nom';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les profils récurrents !';
-$_['error_name'] = 'Attention : le nom du profil récurrent doit contenir entre 3 et 255 caractères !';
-$_['error_product'] = 'Attention : ce profil récurrent ne peut pas être supprimé car il est actuellement appliqué à %s produits !';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les profils récurrents&#160;!';
+$_['error_name'] = 'Attention : le nom du profil récurrent doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_product'] = 'Attention : ce profil récurrent ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';
