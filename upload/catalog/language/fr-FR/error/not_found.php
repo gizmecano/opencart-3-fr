@@ -15,4 +15,4 @@
 // Heading
 $_['heading_title'] = 'La page demandée est introuvable&#160;!';
 // Text
-$_['text_error'] = 'Attention : la page demandée est introuvable.';
+$_['text_error'] = 'Attention&#160;: la page demandée est introuvable.';

@@ -15,4 +15,4 @@
 // Heading
 $_['heading_title'] = 'Tableau de bord';
 // Error
-$_['error_install'] = 'Attention : le répertoire <install> existe encore et doit être supprimé pour des raisons de sécurité&#160;!';
+$_['error_install'] = 'Attention&#160;: le répertoire <install> existe encore et doit être supprimé pour des raisons de sécurité&#160;!';

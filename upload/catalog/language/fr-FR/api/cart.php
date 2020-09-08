@@ -15,8 +15,8 @@
 // Text
 $_['text_success'] = 'Votre panier d’achat a été modifié avec succès&#160;!';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
-$_['error_stock'] = 'Attention : les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock&#160;!';
-$_['error_minimum'] = 'Attention : le montant minimum d’une commande pour %s est %s&#160;!';
-$_['error_store'] = 'Attention : le produit ne peut pas être acheté dans la boutique que vous avez choisi&#160;!';
-$_['error_required'] = 'Attention : %s est requis&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
+$_['error_stock'] = 'Attention&#160;: les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock&#160;!';
+$_['error_minimum'] = 'Attention&#160;: le montant minimum d’une commande pour %s est %s&#160;!';
+$_['error_store'] = 'Attention&#160;: le produit ne peut pas être acheté dans la boutique que vous avez choisi&#160;!';
+$_['error_required'] = 'Attention&#160;: %s est requis&#160;!';

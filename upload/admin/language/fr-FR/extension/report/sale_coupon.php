@@ -31,4 +31,4 @@ $_['entry_date_end'] = 'Date de fin';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des bons de réduction&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des bons de réduction&#160;!';

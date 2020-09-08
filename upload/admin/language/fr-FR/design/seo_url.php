@@ -33,7 +33,7 @@ $_['entry_keyword'] = 'Mot-clef';
 $_['entry_store'] = 'Boutique';
 $_['entry_language'] = 'Langue';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les liens de référencement&#160;!';
-$_['error_query'] = 'Attention : la requête doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_keyword'] = 'Attention : le mot-clef doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_exists'] = 'Attention : le mot-clef est déjà utilisé&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les liens de référencement&#160;!';
+$_['error_query'] = 'Attention&#160;: la requête doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_keyword'] = 'Attention&#160;: le mot-clef doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_exists'] = 'Attention&#160;: le mot-clef est déjà utilisé&#160;!';

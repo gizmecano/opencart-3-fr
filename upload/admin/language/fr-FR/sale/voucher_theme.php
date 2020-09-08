@@ -27,7 +27,7 @@ $_['entry_name'] = 'Nom du thème de bons d’achat';
 $_['entry_description'] = 'Description du thème de bons d’achat';
 $_['entry_image'] = 'Image';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les thèmes des bons d’achat&#160;!';
-$_['error_name'] = 'Attention : le nom du thème de bons d’achat doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_image'] = 'Attention : une image est requise&#160;!';
-$_['error_voucher'] = 'Attention : ce thème de bon d’achat ne peut pas être supprimé car il est actuellement appliqué à %s bons d’achat&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les thèmes des bons d’achat&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du thème de bons d’achat doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_image'] = 'Attention&#160;: une image est requise&#160;!';
+$_['error_voucher'] = 'Attention&#160;: ce thème de bon d’achat ne peut pas être supprimé car il est actuellement appliqué à %s bons d’achat&#160;!';

@@ -29,5 +29,5 @@ $_['column_theme'] = 'Thème';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’éditeur de thème&#160;!';
-$_['error_twig'] = 'Attention : vous pouvez seulement sauvegarder des fichiers au format .twig&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier l’éditeur de thème&#160;!';
+$_['error_twig'] = 'Attention&#160;: vous pouvez seulement sauvegarder des fichiers au format .twig&#160;!';

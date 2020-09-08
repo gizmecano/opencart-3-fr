@@ -34,7 +34,7 @@ $_['entry_key'] = 'Clef de l’interface de programmation (API)';
 $_['entry_status'] = 'Statut';
 $_['entry_ip'] = 'Adresse IP';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les interfaces de programmation (API)&#160;!';
-$_['error_username'] = 'Attention : le nom de l’interface de programmation (API) doit contenir entre 3 et 20 caractères&#160;!';
-$_['error_key'] = 'Attention : la clef de l’interface de programmation (API) doit contenir entre 64 et 256 caractères&#160;!';
-$_['error_ip'] = 'Attention : vous devez avoir ajouté au moins une adresse IP à la liste des adresses IP autorisées&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les interfaces de programmation (API)&#160;!';
+$_['error_username'] = 'Attention&#160;: le nom de l’interface de programmation (API) doit contenir entre 3 et 20 caractères&#160;!';
+$_['error_key'] = 'Attention&#160;: la clef de l’interface de programmation (API) doit contenir entre 64 et 256 caractères&#160;!';
+$_['error_ip'] = 'Attention&#160;: vous devez avoir ajouté au moins une adresse IP à la liste des adresses IP autorisées&#160;!';

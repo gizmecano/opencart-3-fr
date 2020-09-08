@@ -25,6 +25,6 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom de l’action de retour';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les actions de retour&#160;!';
-$_['error_name'] = 'Attention : le nom de l’action de retour doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_return'] = 'Attention : cette action de retour ne peut pas être supprimée car elle est actuellement appliquée à %s produits retournés&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les actions de retour&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom de l’action de retour doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_return'] = 'Attention&#160;: cette action de retour ne peut pas être supprimée car elle est actuellement appliquée à %s produits retournés&#160;!';

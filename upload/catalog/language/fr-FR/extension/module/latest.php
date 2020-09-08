@@ -15,4 +15,4 @@
 // Heading
 $_['heading_title'] = 'Dernières nouveautés';
 // Text
-$_['text_tax'] = 'Hors taxes : ';
+$_['text_tax'] = 'Hors taxes&#160;: ';

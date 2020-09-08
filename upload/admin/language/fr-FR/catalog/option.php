@@ -43,8 +43,8 @@ $_['entry_option_value'] = 'Nom de la valeur d’option';
 $_['entry_image'] = 'Image';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les options&#160;!';
-$_['error_name'] = 'Attention : le nom de l’option doit contenir entre 1 et 128 caractères&#160;!';
-$_['error_type'] = 'Attention : les valeurs de l’option sont requises&#160;!';
-$_['error_option_value'] = 'Attention : la valeur de l’option doit contenir entre 1 et 128 caractères&#160;!';
-$_['error_product'] = 'Attention : cette option ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les options&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom de l’option doit contenir entre 1 et 128 caractères&#160;!';
+$_['error_type'] = 'Attention&#160;: les valeurs de l’option sont requises&#160;!';
+$_['error_option_value'] = 'Attention&#160;: la valeur de l’option doit contenir entre 1 et 128 caractères&#160;!';
+$_['error_product'] = 'Attention&#160;: cette option ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';

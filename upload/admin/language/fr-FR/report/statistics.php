@@ -31,4 +31,4 @@ $_['column_name'] = 'Nom de la statistique';
 $_['column_value'] = 'Valeur';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statistiques&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les statistiques&#160;!';

@@ -22,4 +22,4 @@ $_['text_edit'] = 'Modifier le total du crédit de la boutique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total du crédit de la boutique&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le total du crédit de la boutique&#160;!';

@@ -23,8 +23,8 @@ $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
 $_['entry_postcode'] = 'Code postal';
 // Error
-$_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 et 10 caractères&#160;!';
-$_['error_country'] = 'Attention : vous devez sélectionner un pays&#160;!';
-$_['error_zone'] = 'Attention : vous devez sélectionner une subdivision administrative&#160;!';
-$_['error_shipping'] = 'Attention : un mode de livraison est requis&#160;!';
-$_['error_no_shipping'] = 'Attention : aucune option d’expédition n’est disponible. Veuillez <a href="%s">nous contacter</a>&#160;!';
+$_['error_postcode'] = 'Attention&#160;: le code postal doit contenir entre 2 et 10 caractères&#160;!';
+$_['error_country'] = 'Attention&#160;: vous devez sélectionner un pays&#160;!';
+$_['error_zone'] = 'Attention&#160;: vous devez sélectionner une subdivision administrative&#160;!';
+$_['error_shipping'] = 'Attention&#160;: un mode de livraison est requis&#160;!';
+$_['error_no_shipping'] = 'Attention&#160;: aucune option d’expédition n’est disponible. Veuillez <a href="%s">nous contacter</a>&#160;!';

@@ -27,7 +27,7 @@ $_['column_action'] = 'Action';
 $_['entry_name'] = 'Nom du groupe d’attributs';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les groupes d’attributs&#160;!';
-$_['error_name'] = 'Attention : le nom du groupe d’attributs doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_attribute'] = 'Attention : ce groupe d’attributs ne peut pas être supprimé car il est actuellement appliqué à %s attributs&#160;!';
-$_['error_product'] = 'Attention : ce groupe d’attributs ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les groupes d’attributs&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du groupe d’attributs doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_attribute'] = 'Attention&#160;: ce groupe d’attributs ne peut pas être supprimé car il est actuellement appliqué à %s attributs&#160;!';
+$_['error_product'] = 'Attention&#160;: ce groupe d’attributs ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';

@@ -21,5 +21,5 @@ $_['text_success'] = 'Votre mot de passe a été mis à jour avec succès&#160;!
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer';
 // Error
-$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
-$_['error_confirm'] = 'Attention : le mot de passe de confirmation ne correspond pas au premier mot de passe&#160;!';
+$_['error_password'] = 'Attention&#160;: le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
+$_['error_confirm'] = 'Attention&#160;: le mot de passe de confirmation ne correspond pas au premier mot de passe&#160;!';

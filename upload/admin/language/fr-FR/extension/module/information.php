@@ -21,4 +21,4 @@ $_['text_edit'] = 'Modifier le module des informations';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des informations&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le module des informations&#160;!';

@@ -22,4 +22,4 @@ $_['column_name'] = 'Nom de la table analytique';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les tables analytiques&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les tables analytiques&#160;!';

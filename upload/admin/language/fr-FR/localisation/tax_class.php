@@ -35,7 +35,7 @@ $_['entry_based'] = 'Basé sur';
 $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_priority'] = 'Priorité';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les classes de taxes&#160;!';
-$_['error_title'] = 'Attention : le nom de la classe de taxes doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_description'] = 'Attention : la description de la classe de taxes doit contenir entre 3 et 255 caractères&#160;!';
-$_['error_product'] = 'Attention : cette classe de taxes ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les classes de taxes&#160;!';
+$_['error_title'] = 'Attention&#160;: le nom de la classe de taxes doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_description'] = 'Attention&#160;: la description de la classe de taxes doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_product'] = 'Attention&#160;: cette classe de taxes ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';

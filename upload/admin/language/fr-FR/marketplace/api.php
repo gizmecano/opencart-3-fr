@@ -21,6 +21,6 @@ $_['text_signup'] = 'Veuillez saisir vos informations de l’interface de progra
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_secret'] = 'Secret';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les informations de l’interface de programmation (API) du Cybermarché OpenCart&#160;!';
-$_['error_username'] = 'Attention : le nom d’utilisateur est requis&#160;!';
-$_['error_secret'] = 'Attention : le mot secret est requis&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les informations de l’interface de programmation (API) du Cybermarché OpenCart&#160;!';
+$_['error_username'] = 'Attention&#160;: le nom d’utilisateur est requis&#160;!';
+$_['error_secret'] = 'Attention&#160;: le mot secret est requis&#160;!';

@@ -26,4 +26,4 @@ $_['column_status'] = 'Statut';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modifications&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les modifications&#160;!';

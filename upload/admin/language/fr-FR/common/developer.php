@@ -30,4 +30,4 @@ $_['entry_cache'] = 'Cache';
 $_['button_on'] = 'Activé';
 $_['button_off'] = 'Désactivé';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres pour développeur&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les paramètres pour développeur&#160;!';

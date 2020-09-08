@@ -25,7 +25,7 @@ $_['entry_width'] = 'Largeur';
 $_['entry_height'] = 'Hauteur';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des dernières nouveautés&#160;!';
-$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_width'] = 'Attention : la largeur est requise&#160;!';
-$_['error_height'] = 'Attention : la hauteur est requise&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le module des dernières nouveautés&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du module doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_width'] = 'Attention&#160;: la largeur est requise&#160;!';
+$_['error_height'] = 'Attention&#160;: la hauteur est requise&#160;!';

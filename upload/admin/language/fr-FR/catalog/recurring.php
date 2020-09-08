@@ -45,7 +45,7 @@ $_['column_name'] = 'Nom';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les profils récurrents&#160;!';
-$_['error_name'] = 'Attention : le nom du profil récurrent doit contenir entre 3 et 255 caractères&#160;!';
-$_['error_product'] = 'Attention : ce profil récurrent ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';
+$_['error_warning'] = 'Attention&#160;: veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les profils récurrents&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du profil récurrent doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_product'] = 'Attention&#160;: ce profil récurrent ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';

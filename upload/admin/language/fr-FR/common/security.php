@@ -17,7 +17,7 @@ $_['heading_title'] = 'Notification de sécurité importante&#160;!';
 // Text
 $_['text_success'] = 'Le répertoire de stockage a été modifié avec succès&#160;!';
 $_['text_admin'] = 'Modifier <admin/config.php> et appliquer les changements';
-$_['text_security'] = 'Il est très important de déplacer le répertoire de stockage hors du répertoire principal du site (par exemple : <public_html>, <www> ou <htdocs>).';
+$_['text_security'] = 'Il est très important de déplacer le répertoire de stockage hors du répertoire principal du site (par exemple&#160;: <public_html>, <www> ou <htdocs>).';
 $_['text_choose'] = 'Choisir comment déplacer le répertoire de stockage';
 $_['text_automatic'] = 'Déplacer automatiquement';
 $_['text_manual'] = 'Déplacer manuellement';
@@ -29,8 +29,8 @@ $_['text_admin'] = 'Modifier <admin/config.php> et appliquer les changements';
 $_['button_move'] = 'Déplacer';
 $_['button_manual'] = 'Manuel';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le répertoire de stockage&#160;!';
-$_['error_path'] = 'Attention : ce chemin de répertoire n’est pas valide&#160;!';
-$_['error_directory'] = 'Attention : ce répertoire n’est pas valide&#160;!';
-$_['error_exists'] = 'Attention : ce répertoire existe déjà&#160;!';
-$_['error_writable'] = 'Attention : <config.php> et <admin/config.php> doivent être autorisés en écriture&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le répertoire de stockage&#160;!';
+$_['error_path'] = 'Attention&#160;: ce chemin de répertoire n’est pas valide&#160;!';
+$_['error_directory'] = 'Attention&#160;: ce répertoire n’est pas valide&#160;!';
+$_['error_exists'] = 'Attention&#160;: ce répertoire existe déjà&#160;!';
+$_['error_writable'] = 'Attention&#160;: <config.php> et <admin/config.php> doivent être autorisés en écriture&#160;!';

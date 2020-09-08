@@ -20,5 +20,5 @@ $_['text_success'] = 'La déduction de votre bon a été appliquée';
 // Entry
 $_['entry_coupon'] = 'Saisissez le code du bon de réduction ici';
 // Error
-$_['error_coupon'] = 'Attention : le bon n’est pas valide, a expiré ou a déjà été utilisé&#160;!';
-$_['error_empty'] = 'Attention : veuillez saisir le code du bon de réduction&#160;!';
+$_['error_coupon'] = 'Attention&#160;: le bon n’est pas valide, a expiré ou a déjà été utilisé&#160;!';
+$_['error_empty'] = 'Attention&#160;: veuillez saisir le code du bon de réduction&#160;!';

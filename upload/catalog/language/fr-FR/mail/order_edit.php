@@ -15,8 +15,8 @@
 // Text
 $_['text_subject'] = '%s - Commande %s';
 $_['text_order_id'] = 'Commande n° :';
-$_['text_date_added'] = 'Date d’ajout : ';
-$_['text_order_status'] = 'Votre commande a été modifiée selon le statut suivant : ';
-$_['text_comment'] = 'Les commentaires pour votre commande sont : ';
-$_['text_link'] = 'Pour consulter votre commande, cliquez sur le lien ci-dessous : ';
+$_['text_date_added'] = 'Date d’ajout&#160;: ';
+$_['text_order_status'] = 'Votre commande a été modifiée selon le statut suivant&#160;: ';
+$_['text_comment'] = 'Les commentaires pour votre commande sont&#160;: ';
+$_['text_link'] = 'Pour consulter votre commande, cliquez sur le lien ci-dessous&#160;: ';
 $_['text_footer'] = 'Vous pouvez répondre à ce courrier dans le cas où vous auriez une question.';

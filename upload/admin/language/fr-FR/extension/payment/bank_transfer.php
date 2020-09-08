@@ -28,5 +28,5 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement puisse devenir actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de virement bancaire&#160;!';
-$_['error_bank'] = 'Attention : les instructions de virement bancaire sont requises&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le module de virement bancaire&#160;!';
+$_['error_bank'] = 'Attention&#160;: les instructions de virement bancaire sont requises&#160;!';

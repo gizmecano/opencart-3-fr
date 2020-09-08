@@ -27,6 +27,6 @@ $_['column_action'] = 'Action';
 $_['entry_code'] = 'Module';
 $_['entry_name'] = 'Nom du module';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modules&#160;!';
-$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_code'] = 'Attention : une extension est requise&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les modules&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du module doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_code'] = 'Attention&#160;: une extension est requise&#160;!';

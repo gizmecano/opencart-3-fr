@@ -14,8 +14,8 @@
  *****************************************************************************/
 // Text
 $_['text_subject'] = '%s - Mise à jour du retour %s';
-$_['text_return_id'] = 'Numéro de retour : ';
-$_['text_date_added'] = 'Date de retour : ';
-$_['text_return_status'] = 'Votre retour a été mis au statut suivant : ';
-$_['text_comment'] = 'Les commentaires pour ce retour sont : ';
+$_['text_return_id'] = 'Numéro de retour&#160;: ';
+$_['text_date_added'] = 'Date de retour&#160;: ';
+$_['text_return_status'] = 'Votre retour a été mis au statut suivant&#160;: ';
+$_['text_comment'] = 'Les commentaires pour ce retour sont&#160;: ';
 $_['text_footer'] = 'Vous pouvez répondre à ce courrier dans le cas où vous auriez une question.';

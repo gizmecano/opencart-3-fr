@@ -31,8 +31,8 @@ $_['entry_value'] = 'Valeur';
 // Help
 $_['help_value'] = 'Ajustez à 1.00000 s’il s’agit de votre longueur par défaut.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les unités de longueur&#160;!';
-$_['error_title'] = 'Attention : le nom de l’unité de longueur doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_unit'] = 'Attention : l’unité de longueur doit contenir entre 1 et 4 caractères&#160;!';
-$_['error_default'] = 'Attention : cette unité de longueur ne peut pas être supprimée car elle est actuellement assignée comme unité de longueur par défaut&#160;!';
-$_['error_product'] = 'Attention : cette unité de longueur ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les unités de longueur&#160;!';
+$_['error_title'] = 'Attention&#160;: le nom de l’unité de longueur doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_unit'] = 'Attention&#160;: l’unité de longueur doit contenir entre 1 et 4 caractères&#160;!';
+$_['error_default'] = 'Attention&#160;: cette unité de longueur ne peut pas être supprimée car elle est actuellement assignée comme unité de longueur par défaut&#160;!';
+$_['error_product'] = 'Attention&#160;: cette unité de longueur ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';

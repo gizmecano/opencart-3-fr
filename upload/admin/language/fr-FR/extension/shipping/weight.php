@@ -25,6 +25,6 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Help
-$_['help_rate'] = 'Par exemple : 5:10.00,7:12.00 Poids:Coût,Poids:Coût, etc.';
+$_['help_rate'] = 'Par exemple&#160;: 5:10.00,7:12.00 Poids:Coût,Poids:Coût, etc.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison basée sur le poids&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier la livraison basée sur le poids&#160;!';

@@ -23,6 +23,6 @@ $_['entry_export'] = 'Exportation';
 $_['tab_backup']= 'Sauvegarde';
 $_['tab_restore']= 'Restauration';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations&#160;!';
-$_['error_export'] = 'Attention : vous devez sélectionner au moins une table à exporter&#160;!';
-$_['error_file']= 'Attention : le fichier est introuvable&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations&#160;!';
+$_['error_export'] = 'Attention&#160;: vous devez sélectionner au moins une table à exporter&#160;!';
+$_['error_file']= 'Attention&#160;: le fichier est introuvable&#160;!';

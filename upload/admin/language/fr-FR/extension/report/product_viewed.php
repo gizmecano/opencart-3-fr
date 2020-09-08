@@ -24,4 +24,4 @@ $_['column_model'] = 'Référence';
 $_['column_viewed'] = 'Consulté';
 $_['column_percent'] = 'Pourcentage';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des produits consultés&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des produits consultés&#160;!';

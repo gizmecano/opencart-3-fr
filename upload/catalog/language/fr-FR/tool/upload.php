@@ -15,6 +15,6 @@
 // Text
 $_['text_upload'] = 'Transfert du fichier réussi&#160;!';
 // Error
-$_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_filetype'] = 'Attention : le type de fichier est incorrect&#160;!';
-$_['error_upload'] = 'Attention : le transfert de fichier est nécessaire&#160;!';
+$_['error_filename'] = 'Attention&#160;: le nom du fichier doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_filetype'] = 'Attention&#160;: le type de fichier est incorrect&#160;!';
+$_['error_upload'] = 'Attention&#160;: le transfert de fichier est nécessaire&#160;!';

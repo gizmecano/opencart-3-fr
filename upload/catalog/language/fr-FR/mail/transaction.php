@@ -15,5 +15,5 @@
 // Text
 $_['text_subject'] = '%s - Commission d’affilié';
 $_['text_received'] = 'Vous avez reçu un paiement de commision du programme d’affiliation %s';
-$_['text_amount'] = 'Vous avez reçu : ';
-$_['text_total'] = 'Votre montant total de commision est maintenant : ';
+$_['text_amount'] = 'Vous avez reçu&#160;: ';
+$_['text_total'] = 'Votre montant total de commision est maintenant&#160;: ';

@@ -34,4 +34,4 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_type'] = 'Type';
 $_['entry_date_added'] = 'Date d’ajout';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les approbations de clients&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les approbations de clients&#160;!';

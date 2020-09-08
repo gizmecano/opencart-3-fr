@@ -36,10 +36,10 @@ $_['entry_store'] = 'Boutique';
 $_['entry_route'] = 'Chemin';
 $_['entry_module'] = 'Module';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les gabarits&#160;!';
-$_['error_name'] = 'Attention : le nom du gabarit doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_default'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement défini comme le gabarit par défaut pour cette boutique&#160;!';
-$_['error_store'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s boutiques&#160;!';
-$_['error_product'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';
-$_['error_category'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s catégories&#160;!';
-$_['error_information'] = 'Attention : ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s pages d’informations&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les gabarits&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du gabarit doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_default'] = 'Attention&#160;: ce gabarit ne peut pas être supprimé car il est actuellement défini comme le gabarit par défaut pour cette boutique&#160;!';
+$_['error_store'] = 'Attention&#160;: ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s boutiques&#160;!';
+$_['error_product'] = 'Attention&#160;: ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';
+$_['error_category'] = 'Attention&#160;: ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s catégories&#160;!';
+$_['error_information'] = 'Attention&#160;: ce gabarit ne peut pas être supprimé car il est actuellement appliqué à %s pages d’informations&#160;!';

@@ -45,12 +45,12 @@ $_['entry_status'] = 'Statut';
 // Help
 $_['help_code'] = 'Le code que le client doit saisir pour activer le bon d’achat.';
 // Error
-$_['error_selection'] = 'Attention : aucun bon d’achat n’a été sélectionné&#160;!';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bons d’achat&#160;!';
-$_['error_exists'] = 'Attention : ce code de bon d’achat est déjà utilisé&#160;!';
-$_['error_code'] = 'Attention : le code doit contenir entre 3 et 10 caractères&#160;!';
-$_['error_to_name'] = 'Attention : le nom du destinataire doit contenir entre 1 et 64 caractères';
-$_['error_from_name'] = 'Attention : le nom de l’expéditeur doit contenir entre 1 et 64 caractères';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide&#160;!';
-$_['error_amount'] = 'Attention : le montant doit être égal ou supérieur à 1&#160;!';
-$_['error_order'] = 'Attention : ce bon d’achat ne peut pas être supprimé car il fait partie d’une <a href="%s">commande</a>&#160;!';
+$_['error_selection'] = 'Attention&#160;: aucun bon d’achat n’a été sélectionné&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les bons d’achat&#160;!';
+$_['error_exists'] = 'Attention&#160;: ce code de bon d’achat est déjà utilisé&#160;!';
+$_['error_code'] = 'Attention&#160;: le code doit contenir entre 3 et 10 caractères&#160;!';
+$_['error_to_name'] = 'Attention&#160;: le nom du destinataire doit contenir entre 1 et 64 caractères';
+$_['error_from_name'] = 'Attention&#160;: le nom de l’expéditeur doit contenir entre 1 et 64 caractères';
+$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
+$_['error_amount'] = 'Attention&#160;: le montant doit être égal ou supérieur à 1&#160;!';
+$_['error_order'] = 'Attention&#160;: ce bon d’achat ne peut pas être supprimé car il fait partie d’une <a href="%s">commande</a>&#160;!';

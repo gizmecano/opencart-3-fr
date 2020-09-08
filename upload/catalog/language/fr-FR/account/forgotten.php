@@ -25,7 +25,7 @@ $_['entry_email'] = 'Adresse électronique';
 $_['entry_password'] = 'Nouveau mot de passe';
 $_['entry_confirm'] = 'Confirmer';
 // Error
-$_['error_email'] = 'Attention : cette adresse électronique est introuvable dans nos fichiers, veuillez essayer à nouveau&#160;!';
-$_['error_approved'] = 'Attention : votre compte nécessite d’avoir été approuvé avant que vous puissiez vous connecter.';
-$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
-$_['error_confirm'] = 'Attention : le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas&#160;!';
+$_['error_email'] = 'Attention&#160;: cette adresse électronique est introuvable dans nos fichiers, veuillez essayer à nouveau&#160;!';
+$_['error_approved'] = 'Attention&#160;: votre compte nécessite d’avoir été approuvé avant que vous puissiez vous connecter.';
+$_['error_password'] = 'Attention&#160;: le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
+$_['error_confirm'] = 'Attention&#160;: le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas&#160;!';

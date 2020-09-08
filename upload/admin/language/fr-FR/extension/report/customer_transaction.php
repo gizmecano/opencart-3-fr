@@ -33,4 +33,4 @@ $_['entry_customer'] = 'Client';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des transactions des clients&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des transactions des clients&#160;!';

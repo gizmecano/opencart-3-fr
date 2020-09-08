@@ -21,7 +21,7 @@ $_['text_add'] = 'Ajouter un emplacement de boutique';
 $_['text_edit'] = 'Modifier un emplacement de boutique';
 $_['text_default'] = 'Par défaut';
 $_['text_time'] = 'Horaires d’ouverture';
-$_['text_geocode'] = 'Géocode n’a pas réussi pour la raison suivante : ';
+$_['text_geocode'] = 'Géocode n’a pas réussi pour la raison suivante&#160;: ';
 // Column
 $_['column_name'] = 'Nom de la boutique';
 $_['column_address'] = 'Adresse';
@@ -40,7 +40,7 @@ $_['help_geocode'] = 'Veuillez saisir votre emplacement de boutique manuellement
 $_['help_open'] = 'Renseignez les horaires d’ouverture de votre boutique.';
 $_['help_comment'] = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n’accepte pas les chèques.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les emplacements de boutiques&#160;!';
-$_['error_name'] = 'Attention : le nom de la boutique doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_address'] = 'Attention : l’adresse doit contenir entre 3 et 128 caractères&#160;!';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les emplacements de boutiques&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom de la boutique doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_address'] = 'Attention&#160;: l’adresse doit contenir entre 3 et 128 caractères&#160;!';
+$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';

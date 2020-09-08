@@ -37,7 +37,7 @@ $_['entry_date_added'] = 'Date d’ajout';
 $_['help_code'] = 'Le code qui sera utilisé pour le suivi marketing.';
 $_['help_example'] = 'Afin que le système puisse pister les références, vous devez ajouter ce code de suivi à la fin du lien de votre site.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les campagnes de suivi marketing&#160;!';
-$_['error_name'] = 'Attention : le nom de la campagne de suivi marketing doit contenir entre 1 et 32 caractères&#160;!';
-$_['error_code'] = 'Attention : le code de suivi marketing est requis&#160;!';
-$_['error_exists'] = 'Attention : le code de suivi marketing est utilisé par une autre campagne&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les campagnes de suivi marketing&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom de la campagne de suivi marketing doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_code'] = 'Attention&#160;: le code de suivi marketing est requis&#160;!';
+$_['error_exists'] = 'Attention&#160;: le code de suivi marketing est utilisé par une autre campagne&#160;!';

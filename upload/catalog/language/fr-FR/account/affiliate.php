@@ -37,9 +37,9 @@ $_['entry_bank_swift_code'] = 'Code SWIFT';
 $_['entry_bank_account_name'] = 'Nom du compte';
 $_['entry_bank_account_number'] = 'Numéro du compte';
 // Error
-$_['error_agree'] = 'Attention : vous devez accepter les %s&#160;!';
-$_['error_cheque'] = 'Attention : le nom du bénéficiaire du chèque est requis&#160;!';
+$_['error_agree'] = 'Attention&#160;: vous devez accepter les %s&#160;!';
+$_['error_cheque'] = 'Attention&#160;: le nom du bénéficiaire du chèque est requis&#160;!';
 $_['error_paypal'] = 'Attention: l’adresse électronique PayPal semble être invalide&#160;!';
-$_['error_bank_account_name'] = 'Attention : le nom de compte est requis&#160;!';
-$_['error_bank_account_number'] = 'Attention : le numéro de compte est requis&#160;!';
-$_['error_custom_field'] = 'Attention : %s requis&#160;!';
+$_['error_bank_account_name'] = 'Attention&#160;: le nom de compte est requis&#160;!';
+$_['error_bank_account_number'] = 'Attention&#160;: le numéro de compte est requis&#160;!';
+$_['error_custom_field'] = 'Attention&#160;: %s requis&#160;!';

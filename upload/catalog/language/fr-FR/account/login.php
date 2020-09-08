@@ -27,6 +27,6 @@ $_['text_forgotten'] = 'Mot de passe oublié';
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_password'] = 'Mot de passe';
 // Error
-$_['error_login'] = 'Attention : correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
-$_['error_attempts'] = 'Attention : votre compte a dépassé le nombre autorisé de tentatives de connexion. Veuillez essayer à nouveau dans 1 heure.';
-$_['error_approved'] = 'Attention : votre compte nécessite d’être approuvé avant que vous puissiez vous connecter.';
+$_['error_login'] = 'Attention&#160;: correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
+$_['error_attempts'] = 'Attention&#160;: votre compte a dépassé le nombre autorisé de tentatives de connexion. Veuillez essayer à nouveau dans 1 heure.';
+$_['error_approved'] = 'Attention&#160;: votre compte nécessite d’être approuvé avant que vous puissiez vous connecter.';

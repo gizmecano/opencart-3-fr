@@ -54,10 +54,10 @@ $_['entry_required'] = 'Champ obligatoire';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Help
-$_['help_regex'] = 'Utiliser les expressions régulières (Regex), par exemple : [a-zA-Z0-9_-]';
+$_['help_regex'] = 'Utiliser les expressions régulières (Regex), par exemple&#160;: [a-zA-Z0-9_-]';
 $_['help_sort_order'] = 'Utiliser le signe moins pour revenir au champ précédent.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les champs personnalisés&#160;!';
-$_['error_name'] = 'Attention : le nom du champ personnalisé doit contenir entre 1 et 128 caractères&#160;!';
-$_['error_type'] = 'Attention : les valeurs du champ personnalisé sont requises&#160;!';
-$_['error_custom_value'] = 'Attention : le nom du champ personnalisé doit contenir entre 1 et 128 caractères&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les champs personnalisés&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du champ personnalisé doit contenir entre 1 et 128 caractères&#160;!';
+$_['error_type'] = 'Attention&#160;: les valeurs du champ personnalisé sont requises&#160;!';
+$_['error_custom_value'] = 'Attention&#160;: le nom du champ personnalisé doit contenir entre 1 et 128 caractères&#160;!';
