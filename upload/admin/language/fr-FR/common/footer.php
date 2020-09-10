@@ -13,5 +13,5 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *****************************************************************************/
 // Text
-$_['text_footer'] = '<a href="https://www.opencart.com/" target="_blank">OpenCart</a> © 2009-2017 Tous droits réservés<br/><a href="https://github.com/gizmecano/opencart-3-fr/" target="_blank">opencart-3-fr</a> © 2019 P. Mergey';
+$_['text_footer'] = '<a href="https://www.opencart.com/" target="_blank">OpenCart</a> © 2009-2017 Tous droits réservés<br /><a href="https://github.com/gizmecano/opencart-3-fr/" target="_blank">opencart-3-fr</a> © 2019 P. Mergey';
 $_['text_version'] = 'Version %s';

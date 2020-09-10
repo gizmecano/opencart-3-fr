@@ -16,4 +16,4 @@
 $_['heading_title'] = 'Maintenance';
 // Text
 $_['text_maintenance'] = 'Maintenance';
-$_['text_message'] = '<h1 style="text-align:center;">Nous effectuons actuellement des opérations de maintenance.<br/>Le site sera prochainement à nouveau en ligne.</h1>';
+$_['text_message'] = '<h1 style="text-align:center;">Nous effectuons actuellement des opérations de maintenance.<br />Le site sera prochainement à nouveau en ligne.</h1>';

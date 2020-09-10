@@ -32,7 +32,7 @@ $_['entry_address_format'] = 'Format de l’adresse';
 $_['entry_postcode_required'] = 'Le code postal est requis.';
 $_['entry_status'] = 'Statut';
 // Help
-$_['help_address_format'] = 'Prénom = {firstname} <br/> Nom = {lastname} <br/> Société = {company} <br/> Adresse 1 = {address_1} <br/> Adresse 2 = {address_2} <br/> Ville = {city} <br/> Code postal = {postcode} <br/> Zone = {zone} <br/> Code zone = {zone_code} <br/> Pays = {country}';
+$_['help_address_format'] = 'Prénom = {firstname} <br /> Nom = {lastname} <br /> Société = {company} <br /> Adresse 1 = {address_1} <br /> Adresse 2 = {address_2} <br /> Ville = {city} <br /> Code postal = {postcode} <br /> Zone = {zone} <br /> Code zone = {zone_code} <br /> Pays = {country}';
 // Error
 $_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les pays&#160;!';
 $_['error_name'] = 'Attention&#160;: le nom du pays doit contenir entre 3 et 128 caractères&#160;!';
