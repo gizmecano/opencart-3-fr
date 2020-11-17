@@ -2,6 +2,12 @@
 
 [English](README.md) | Français
 
+## Introduction
+
+**opencart-3-fr** est un pack de langue française pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (à partir de la version 3.0.2.0).
+
+Ce pack comprend des traductions de fichiers pour une localisation française de l'interface d'administration (_backend_) ainsi que de la boutique en ligne (_frontend_).
+
 ## Licence
 
 opencart-3-fr : un pack de localisation française _opensource_ pour la plateforme de commerce en ligne OpenCart (à partir de la version 3.0.2.0)
