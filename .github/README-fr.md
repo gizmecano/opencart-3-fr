@@ -8,6 +8,10 @@
 
 Ce pack comprend des traductions de fichiers pour une localisation française de l'interface d'administration (_backend_) ainsi que de la boutique en ligne (_frontend_).
 
+### Contexte
+
+Ce projet succède à [**opencart-2-fr**](https://github.com/gizmecano/opencart-2-fr/), développé et maintenu de 2015 à 2018, mais la plupart des traductions ont été entièrement retravaillées à partir des sources originales.
+
 ## Licence
 
 opencart-3-fr : un pack de localisation française _opensource_ pour la plateforme de commerce en ligne OpenCart (à partir de la version 3.0.2.0)

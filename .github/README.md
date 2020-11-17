@@ -8,6 +8,10 @@ English | [Français](README-fr.md)
 
 This pack brings together translated files for a French localization of the administration interface (_backend_) as well as the online store (_frontend_).
 
+### Background
+
+This project succeeds to [**opencart-2-fr**](https://github.com/gizmecano/opencart-2-fr/), developed and maintained from 2015 to 2018, but most of the translations have been completely reworked from scratch.
+
 ## License
 
 opencart-3-fr: a French opensource localization pack for ecommerce platform OpenCart (from version 3.0.2.0)
