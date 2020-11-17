@@ -22,6 +22,28 @@ Ce pack linguistique a été développé avec certains principes de base à l'es
 - **jargon technique discret**: les références techniques sont traduites de la manière la plus compréhensible possible
 - **formulations non sexistes**: afin d'être aussi inclusives que possible, les traductions utilisent de préférence des tournures ne faisant pas référence au genre des utilisateurs ou des visiteurs
 
+## Installation
+
+Chaque fois que vous envisagez d'installer un nouvel élément sur un site Opencart existant (module ou pack linguistique), il est fortement recommandé de le tester au préalable sur un environnement de développement local avant de l'installer sur le site de production.
+
+Pour installer ce pack linguistique, extraire le fichier compressé localement puis transférer les fichiers sur le serveur (en conservant la même structure) sur la base d'un site OpenCart précédemment installé.
+
+Une fois cela fait, afficher l'interface d'administration d'OpenCart et suivre les étapes ci-dessous (à partir d'une installation par défaut en anglais):
+
+1. Aller dans la rubrique `System -> Localisation -> Languages`
+2. Cliquer sur le bouton `Add New`
+3. Renseigner les valeurs suivantes :
+  - _Language Name_ : `French`
+  - _Code_ : `fr`
+  - _Locale_ : `fr,fr-FR,fr_FR.UTF-8,french`
+  - _Status_ : `Enabled`
+  - _Sort Order_: `1`
+4. Enregistrer ces modifications
+5. Aller dans la rubrique `System -> Settings`
+6. Cliquer sur l'onglet `Local` et définir les langues standards pour la boutique (_Language_) et le panneau d'administration (_Administration language_) : la langue de l'administration ne changera pas **avant** cette étape)
+7. Enregistrer ces modifications
+8. Installation terminée
+
 ## Licence
 
 opencart-3-fr : un pack de localisation française _opensource_ pour la plateforme de commerce en ligne OpenCart (à partir de la version 3.0.2.0)

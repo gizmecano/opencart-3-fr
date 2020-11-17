@@ -22,6 +22,28 @@ This language pack has been developed with some basic principles in mind:
 - **understated technical jargon**: technical references are translated in the most understandable manner possible
 - **gender-neutral formulations**: in order to be as inclusive as possible, translations preferably use language that does not use the gender of users or visitors
 
+## Installation
+
+Whenever you plan to install a new item on an existing Opencart website (module or language pack), it is strongly recommended that you test it first on a local development environment before installing it on the production site.
+
+To install this language pack, extract the zipped package locally and transfer the files to the server (keeping the same structure) on the roots of a previously installed OpenCart website.
+
+After that, open your OpenCart backend and follow the steps below:
+
+1. Navigate to `System -> Localisation -> Languages`
+2. Click the `Add New` button
+3. Fill in the following values :
+  - _Language Name_ : `French`
+  - _Code_ : `fr`
+  - _Locale_ : `fr,fr-FR,fr_FR.UTF-8,french`
+  - _Status_ : `Enabled`
+  - _Sort Order_: `1`
+4. Save these changes
+5. Navigate to `System -> Settings`
+6. Click on the tab `Local` and define the standard languages for frontend (_Language_) and backend (_Administration language_): backend language will not change **before** this step
+7. Save these changes
+8. Installation is complete
+
 ## License
 
 opencart-3-fr: a French opensource localization pack for ecommerce platform OpenCart (from version 3.0.2.0)
