@@ -44,7 +44,9 @@ Une fois cela fait, afficher l'interface d'administration d'OpenCart et suivre l
 7. Enregistrer ces modifications
 8. Installation terminée
 
-## Licence
+## Impressum
+
+### Licence
 
 opencart-3-fr : un pack de localisation française _opensource_ pour la plateforme de commerce en ligne OpenCart (à partir de la version 3.0.2.0)
 
@@ -57,3 +59,9 @@ Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifi
 Ce programme est distribué dans l'espoir qu'il sera utile, mais **SANS AUCUNE GARANTIE**, sans même une garantie implicite de **COMMERCIABILITE** ou **DE CONFORMITE A UNE UTILISATION PARTICULIERE**. Voir la [Licence publique générale GNU](LICENSE.md) pour plus de détails.
 
 Vous devriez avoir reçu un exemplaire de la [Licence publique générale GNU](LICENSE.md) avec ce programme. Si ce n'est pas le cas, vous pouvez consulter [cette page](https://www.gnu.org/licenses/gpl-3.0.fr.html).
+
+### Crédits
+
+Les illustrations ont été réalisées en utilisant:
+  - la photographie _Wild Rooster_ de [榮達 陳](https://unsplash.com/@dareen0987), publiée sur [Unsplash](https://unsplash.com/photos/iHzpnUYS3Zc) sous [licence Unsplash](https://unsplash.com/license)
+  - la police de caractères [Inter](https://rsms.me/inter/) par Rasmus Andersson, disponible sur [GitHub](https://github.com/rsms/inter) sous [licence SIL](http://scripts.sil.org/OFL)

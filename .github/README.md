@@ -44,7 +44,9 @@ After that, open your OpenCart backend and follow the steps below:
 7. Save these changes
 8. Installation is complete
 
-## License
+## Imprint
+
+### License
 
 opencart-3-fr: a French opensource localization pack for ecommerce platform OpenCart (from version 3.0.2.0)
 
@@ -57,3 +59,9 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**; without even the implied warranty of **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**. See the [GNU General Public License](LICENSE.md) for more details.
 
 You should have received a copy of the [GNU General Public License](LICENSE.md) along with this program. If not, see [this page](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+### Credits
+
+Illustrations were composed using:
+  - _Wild Rooster_ photo by [榮達 陳](https://unsplash.com/@dareen0987), published on [Unsplash](https://unsplash.com/photos/iHzpnUYS3Zc) under [Unsplash license](https://unsplash.com/license)
+  - [Inter](https://rsms.me/inter/) font by Rasmus Andersson, available on [GitHub](https://github.com/rsms/inter) under [SIL license](http://scripts.sil.org/OFL)
