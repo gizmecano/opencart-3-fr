@@ -22,6 +22,20 @@ Ce pack linguistique a été développé avec certains principes de base à l'es
 - **jargon technique discret**: les références techniques sont traduites de la manière la plus compréhensible possible
 - **formulations non sexistes**: afin d'être aussi inclusives que possible, les traductions utilisent de préférence des tournures ne faisant pas référence au genre des utilisateurs ou des visiteurs
 
+### Variantes
+
+Contrairement au projet qui l'a précédé, ce pack de langue est disponible en deux variantes différentes, toutes deux développées à partir d'une même unique plateforme commune.
+
+  1. la variante libre contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
+  2. la version complète contient des fichiers supplémentaires requis pour une traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
+
+Cette distinction est due à plusieurs facteurs:
+
+  - conserver une version de base aussi légère que possible pour la plupart des utilisateurs n'utilisant pas les extensions supplémentaires
+  - essayer de compenser le temps souvent important passer à traduire des fichiers parfois volumineux mais non nécessaires à une majorité d'utilisateurs
+
+Les fichiers uniquement présents dans la version complète sont listés dans un [document spécifique](cleavage.csv).
+
 ## Installation
 
 Chaque fois que vous envisagez d'installer un nouvel élément sur un site Opencart existant (module ou pack linguistique), il est fortement recommandé de le tester au préalable sur un environnement de développement local avant de l'installer sur le site de production.

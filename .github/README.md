@@ -22,6 +22,20 @@ This language pack has been developed with some basic principles in mind:
 - **understated technical jargon**: technical references are translated in the most understandable manner possible
 - **gender-neutral formulations**: in order to be as inclusive as possible, translations preferably use language that does not use the gender of users or visitors
 
+### Variants
+
+Unlike the project that preceded it, this language pack is available in two different variants, both developed from a single common platform.
+
+  1. the free variant contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
+  2. the full version contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
+
+This distinction is due to several factors:
+
+  - keeping a basic version as lighter as possible for most users which are not using the additional extensions
+  - attempting to balance for often significant time spent translating files which are sometimes large but not necessary for a majority of users
+
+The files only included in the full version are listed in an [specific document](cleavage.csv).
+
 ## Installation
 
 Whenever you plan to install a new item on an existing Opencart website (module or language pack), it is strongly recommended that you test it first on a local development environment before installing it on the production site.
