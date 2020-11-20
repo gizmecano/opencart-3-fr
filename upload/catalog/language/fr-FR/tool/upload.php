@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,11 +10,11 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_upload'] = 'Transfert du fichier réussi !';
+$_['text_upload'] = 'Transfert du fichier réussi&#160;!';
 // Error
-$_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 64 caractères !';
-$_['error_filetype'] = 'Attention : le type de fichier est incorrect !';
-$_['error_upload'] = 'Attention : le transfert de fichier est nécessaire !';
+$_['error_filename'] = 'Attention&#160;: le nom du fichier doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_filetype'] = 'Attention&#160;: le type de fichier est incorrect&#160;!';
+$_['error_upload'] = 'Attention&#160;: le transfert de fichier est nécessaire&#160;!';

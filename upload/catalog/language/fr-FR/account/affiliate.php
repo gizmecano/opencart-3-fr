@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Vos informations d’affilié';
@@ -22,7 +22,7 @@ $_['text_payment'] = 'Informations de paiement';
 $_['text_cheque'] = 'Chèque';
 $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Transfert bancaire';
-$_['text_success'] = 'Votre compte a été modifié avec succès !';
+$_['text_success'] = 'Votre compte a été modifié avec succès&#160;!';
 $_['text_agree'] = 'J’ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
 // Entry
 $_['entry_company'] = 'Compagnie';
@@ -37,9 +37,9 @@ $_['entry_bank_swift_code'] = 'Code SWIFT';
 $_['entry_bank_account_name'] = 'Nom du compte';
 $_['entry_bank_account_number'] = 'Numéro du compte';
 // Error
-$_['error_agree'] = 'Attention : vous devez accepter les %s !';
-$_['error_cheque'] = 'Attention : le nom du bénéficiaire du chèque est requis !';
-$_['error_paypal'] = 'Attention: l’adresse électronique PayPal semble être invalide !';
-$_['error_bank_account_name'] = 'Attention : le nom de compte est requis !';
-$_['error_bank_account_number'] = 'Attention : le numéro de compte est requis !';
-$_['error_custom_field'] = 'Attention : %s requis !';
+$_['error_agree'] = 'Attention&#160;: vous devez accepter les %s&#160;!';
+$_['error_cheque'] = 'Attention&#160;: le nom du bénéficiaire du chèque est requis&#160;!';
+$_['error_paypal'] = 'Attention: l’adresse électronique PayPal semble être invalide&#160;!';
+$_['error_bank_account_name'] = 'Attention&#160;: le nom de compte est requis&#160;!';
+$_['error_bank_account_number'] = 'Attention&#160;: le numéro de compte est requis&#160;!';
+$_['error_custom_field'] = 'Attention&#160;: %s requis&#160;!';

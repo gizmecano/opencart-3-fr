@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Retours de produits';
@@ -23,11 +23,11 @@ $_['text_order'] = 'Informations sur la commande';
 $_['text_product'] = 'Informations sur le produit';
 $_['text_reason'] = 'Motif de retour';
 $_['text_message'] = '<p>Merci d’avoir soumis votre requête de retour. Elle a été envoyée aux personnes concernées pour être traitée.</p><p>Un courrier électronique vous informera du statut de votre requête.</p>';
-$_['text_return_id'] = 'Numéro de retour : ';
-$_['text_order_id'] = 'Identifiant de la commande : ';
-$_['text_date_ordered'] = 'Date de commande : ';
-$_['text_status'] = 'État : ';
-$_['text_date_added'] = 'Date d’ajout : ';
+$_['text_return_id'] = 'Numéro de retour&#160;: ';
+$_['text_order_id'] = 'Identifiant de la commande&#160;: ';
+$_['text_date_ordered'] = 'Date de commande&#160;: ';
+$_['text_status'] = 'État&#160;: ';
+$_['text_date_added'] = 'Date d’ajout&#160;: ';
 $_['text_comment'] = 'Commentaires sur le retour';
 $_['text_history'] = 'Historique du retour';
 $_['text_empty'] = 'Vous n’avez pas fait de retour précédemment';
@@ -60,13 +60,13 @@ $_['entry_reason'] = 'Motif de retour';
 $_['entry_opened'] = 'Produit ouvert';
 $_['entry_fault_detail'] = 'Défectueux';
 // Error
-$_['text_error'] = 'Attention : le retour que vous recherchez est introuvable !';
-$_['error_order_id'] = 'Attention : l’identifiant de la commande est requis !';
-$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_product'] = 'Attention : le nom du produit doit contenir entre 3 et 255 caractères !';
-$_['error_model'] = 'Attention : la référence du produit doit contenir entre 3 et 64 caractères !';
-$_['error_reason'] = 'Attention : vous devez sélectionner un motif de retour !';
-$_['error_agree'] = 'Attention : vous devez accepter les %s';
+$_['text_error'] = 'Attention&#160;: le retour que vous recherchez est introuvable&#160;!';
+$_['error_order_id'] = 'Attention&#160;: l’identifiant de la commande est requis&#160;!';
+$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
+$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_product'] = 'Attention&#160;: le nom du produit doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_model'] = 'Attention&#160;: la référence du produit doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_reason'] = 'Attention&#160;: vous devez sélectionner un motif de retour&#160;!';
+$_['error_agree'] = 'Attention&#160;: vous devez accepter les %s';

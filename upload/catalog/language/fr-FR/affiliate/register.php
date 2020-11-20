@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Programme d’affiliation';
@@ -18,7 +18,7 @@ $_['heading_title'] = 'Programme d’affiliation';
 $_['text_account'] = 'Compte';
 $_['text_register'] = 'Inscription d’un affilié';
 $_['text_account_already'] = 'Si vous avez déjà un compte, merci de <a href="%s">vous connecter</a>.';
-$_['text_signup'] = 'Pour créer un compte d’affilié, remplissez le formulaire ci-dessous et assurez-vous d’avoir bien complété tous les champs requis : ';
+$_['text_signup'] = 'Pour créer un compte d’affilié, remplissez le formulaire ci-dessous et assurez-vous d’avoir bien complété tous les champs requis&#160;: ';
 $_['text_your_details'] = 'Vos données personnelles';
 $_['text_your_address'] = 'Détails de votre adresse';
 $_['text_your_affiliate'] = 'Vos informations d’affilié';
@@ -47,16 +47,16 @@ $_['entry_bank_account_number'] = 'Numéro du compte';
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer le mot de passe';
 // Error
-$_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
-$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_custom_field'] = 'Attention : %s requis !';
-$_['error_cheque'] = 'Attention : le nom du bénéficiaire du chèque est requis !';
-$_['error_paypal'] = 'Attention: l’adresse électronique PayPal semble être invalide !';
-$_['error_bank_account_name'] = 'Attention : le nom de compte est requis !';
-$_['error_bank_account_number'] = 'Attention : le numéro de compte est requis !';
-$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères !';
-$_['error_confirm'] = 'Attention : le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas !';
-$_['error_agree'] = 'Attention : vous devez accepter les %s';
+$_['error_exists'] = 'Attention&#160;: cette adresse électronique est déjà enregistrée&#160;!';
+$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
+$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_custom_field'] = 'Attention&#160;: %s requis&#160;!';
+$_['error_cheque'] = 'Attention&#160;: le nom du bénéficiaire du chèque est requis&#160;!';
+$_['error_paypal'] = 'Attention: l’adresse électronique PayPal semble être invalide&#160;!';
+$_['error_bank_account_name'] = 'Attention&#160;: le nom de compte est requis&#160;!';
+$_['error_bank_account_number'] = 'Attention&#160;: le numéro de compte est requis&#160;!';
+$_['error_password'] = 'Attention&#160;: le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
+$_['error_confirm'] = 'Attention&#160;: le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas&#160;!';
+$_['error_agree'] = 'Attention&#160;: vous devez accepter les %s';

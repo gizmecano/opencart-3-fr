@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,15 +10,15 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Utiliser un bon d’achat';
 // Text
 $_['text_voucher'] = 'Bon d’achat (%s)';
-$_['text_success'] = 'La déduction de votre bon d’achat a été appliquée avec succès !';
+$_['text_success'] = 'La déduction de votre bon d’achat a été appliquée avec succès&#160;!';
 // Entry
 $_['entry_voucher'] = 'Saisissez le code du bon d’achat ici';
 // Error
-$_['error_voucher'] = 'Attention : le bon d’achat n’est pas valide ou son solde a déjà été compensé !';
-$_['error_empty'] = 'Attention : veuillez saisir un code de bon d’achat !';
+$_['error_voucher'] = 'Attention&#160;: le bon d’achat n’est pas valide ou son solde a déjà été compensé&#160;!';
+$_['error_empty'] = 'Attention&#160;: veuillez saisir un code de bon d’achat&#160;!';

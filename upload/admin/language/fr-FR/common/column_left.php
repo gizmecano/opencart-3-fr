@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
 $_['text_api'] = 'Interface de programmation (API)';
@@ -64,7 +64,7 @@ $_['text_return_reason'] = 'Motifs des retours';
 $_['text_return_status'] = 'Statuts des retours';
 $_['text_sale'] = 'Ventes';
 $_['text_setting'] = 'Paramètres';
-$_['text_seo_url'] = 'Adresse universelle de référencement (URL) optimisée pour les moteurs de recherche (SEO)';
+$_['text_seo_url'] = 'Liens de référencement';
 $_['text_statistics'] = 'Statistiques';
 $_['text_stock_status'] = 'Statuts des stocks';
 $_['text_system'] = 'Système';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,12 +10,12 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Profil';
 // Text
-$_['text_success'] = 'Votre profil a été modifié avec succès !';
+$_['text_success'] = 'Votre profil a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier votre profil';
 // Column
 $_['column_username'] = 'Nom d’utilisateur';
@@ -31,12 +31,12 @@ $_['entry_lastname'] = 'Nom de famille';
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_image'] = 'Image';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier votre profil !';
-$_['error_exists_username'] = 'Attention : ce nom d’utilisateur est déjà utilisé !';
-$_['error_username'] = 'Attention : le nom d’utilisateur doit contenir entre 3 et 20 caractères !';
-$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères !';
-$_['error_confirm'] = 'Attention : le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas !';
-$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
-$_['error_exists_email'] = 'Attention : cette adresse électronique est déjà enregistrée !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier votre profil&#160;!';
+$_['error_exists_username'] = 'Attention&#160;: ce nom d’utilisateur est déjà utilisé&#160;!';
+$_['error_username'] = 'Attention&#160;: le nom d’utilisateur doit contenir entre 3 et 20 caractères&#160;!';
+$_['error_password'] = 'Attention&#160;: le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
+$_['error_confirm'] = 'Attention&#160;: le mot de passe de confirmation et le premier mot de passe saisi ne correspondent pas&#160;!';
+$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
+$_['error_exists_email'] = 'Attention&#160;: cette adresse électronique est déjà enregistrée&#160;!';

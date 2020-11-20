@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,13 +10,13 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Journal des erreurs';
 // Text
-$_['text_success'] = 'Le journal des erreurs a été nettoyé avec succès !';
+$_['text_success'] = 'Le journal des erreurs a été nettoyé avec succès&#160;!';
 $_['text_list'] = 'Liste des erreurs';
 // Error
-$_['error_warning'] = 'Attention : le journal des erreurs %s est %s !';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de supprimer les messages d’erreurs !';
+$_['error_warning'] = 'Attention&#160;: le journal des erreurs %s est %s&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de supprimer les messages d’erreurs&#160;!';

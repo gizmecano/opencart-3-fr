@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Carnet d’adresses';
@@ -35,13 +35,13 @@ $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
 $_['entry_default'] = 'Adresse par défaut';
 // Error
-$_['error_delete'] = 'Attention : vous devez avoir au moins une adresse valide !';
-$_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre adresse par défaut !';
-$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_address_1'] = 'Attention : l’adresse doit contenir entre 3 et 128 caractères !';
-$_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 et 10 caractères !';
-$_['error_city'] = 'Attention : le nom de la localité doit contenir entre 2 et 128 caractères !';
-$_['error_country'] = 'Attention : vous devez sélectionner un pays !';
-$_['error_zone'] = 'Attention : vous devez sélectionner une subdivision administrative !';
-$_['error_custom_field'] = 'Attention : %s est requis !';
+$_['error_delete'] = 'Attention&#160;: vous devez avoir au moins une adresse valide&#160;!';
+$_['error_default'] = 'Attention&#160;: vous ne pouvez pas supprimer votre adresse par défaut&#160;!';
+$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_address_1'] = 'Attention&#160;: l’adresse doit contenir entre 3 et 128 caractères&#160;!';
+$_['error_postcode'] = 'Attention&#160;: le code postal doit contenir entre 2 et 10 caractères&#160;!';
+$_['error_city'] = 'Attention&#160;: le nom de la localité doit contenir entre 2 et 128 caractères&#160;!';
+$_['error_country'] = 'Attention&#160;: vous devez sélectionner un pays&#160;!';
+$_['error_zone'] = 'Attention&#160;: vous devez sélectionner une subdivision administrative&#160;!';
+$_['error_custom_field'] = 'Attention&#160;: %s est requis&#160;!';

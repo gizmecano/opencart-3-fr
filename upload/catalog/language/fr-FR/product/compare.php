@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Comparaison de produits';
@@ -29,6 +29,6 @@ $_['text_summary'] = 'Résumé';
 $_['text_weight'] = 'Poids';
 $_['text_dimension'] = 'Taille (L × l × H)';
 $_['text_compare'] = 'Produits comparés (%s)';
-$_['text_success'] = 'Vous avez ajouté avec succès <a href="%s">%s</a> à votre <a href="%s">comparaison de produits</a> !';
-$_['text_remove'] = 'Votre comparaison de produit a été modifiée avec succès !';
+$_['text_success'] = 'Vous avez ajouté avec succès <a href="%s">%s</a> à votre <a href="%s">comparaison de produits</a>&#160;!';
+$_['text_remove'] = 'Votre comparaison de produit a été modifiée avec succès&#160;!';
 $_['text_empty'] = 'Vous n’avez pas sélectionné de produits à comparer.';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,13 +10,13 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'Votre panier d’achat a été modifié avec succès !';
+$_['text_success'] = 'Votre panier d’achat a été modifié avec succès&#160;!';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
-$_['error_stock'] = 'Attention : les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock !';
-$_['error_minimum'] = 'Attention : le montant minimum d’une commande pour %s est %s !';
-$_['error_store'] = 'Attention : le produit ne peut pas être acheté dans la boutique que vous avez choisi !';
-$_['error_required'] = 'Attention : %s est requis !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
+$_['error_stock'] = 'Attention&#160;: les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock&#160;!';
+$_['error_minimum'] = 'Attention&#160;: le montant minimum d’une commande pour %s est %s&#160;!';
+$_['error_store'] = 'Attention&#160;: le produit ne peut pas être acheté dans la boutique que vous avez choisi&#160;!';
+$_['error_required'] = 'Attention&#160;: %s est requis&#160;!';

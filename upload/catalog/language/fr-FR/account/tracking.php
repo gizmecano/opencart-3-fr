@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,13 +10,13 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Suivi d’affilié';
 // Text
 $_['text_account'] = 'Compte';
-$_['text_description'] = 'Afin d’avoir l’assurance de recevoir le paiement pour les références que vous nous envoyez, il est nécessaire de plaçer un code de suivi dans l’adresse universelle (URL) vous liant à notre boutique. Vous pouvez utiliser les outils ci-dessous pour créer des liens nécessaires vers le site internet de %s.';
+$_['text_description'] = 'Afin d’avoir l’assurance de recevoir le paiement pour les références que vous nous envoyez, il est nécessaire de plaçer un code de suivi dans le lien vous liant à notre boutique. Vous pouvez utiliser les outils ci-dessous pour créer des liens nécessaires vers le site internet de %s.';
 // Entry
 $_['entry_code'] = 'Votre code de suivi';
 $_['entry_generator'] = 'Générateur de lien de suivi';

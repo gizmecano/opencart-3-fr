@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,12 +10,12 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Évaluations';
 // Text
-$_['text_success'] = 'Les évaluations ont été modifiées avec succès !';
+$_['text_success'] = 'Les évaluations ont été modifiées avec succès&#160;!';
 $_['text_list'] = 'Liste des évaluations';
 $_['text_add'] = 'Ajouter une évaluation';
 $_['text_edit'] = 'Modifier une évaluation';
@@ -36,8 +36,8 @@ $_['entry_date_added'] = 'Date d’ajout';
 // Help
 $_['help_product'] = 'Autocomplétion';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les évaluations !';
-$_['error_product'] = 'Attention : le produit est requis !';
-$_['error_author'] = 'Attention : le nom de l’auteur doit contenir entre 3 et 64 caractères !';
-$_['error_text'] = 'Attention : l’évaluation doit contenir au moins un caractère !';
-$_['error_rating'] = 'Attention : la note est requise !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les évaluations&#160;!';
+$_['error_product'] = 'Attention&#160;: le produit est requis&#160;!';
+$_['error_author'] = 'Attention&#160;: le nom de l’auteur doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_text'] = 'Attention&#160;: l’évaluation doit contenir au moins un caractère&#160;!';
+$_['error_rating'] = 'Attention&#160;: la note est requise&#160;!';

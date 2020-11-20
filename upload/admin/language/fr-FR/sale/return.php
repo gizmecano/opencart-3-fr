@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,12 +10,12 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Retours de produits';
 // Text
-$_['text_success'] = 'Les retours de produits ont été modifiés avec succès !';
+$_['text_success'] = 'Les retours de produits ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des retours de produits';
 $_['text_add'] = 'Ajouter un retour de produits';
 $_['text_edit'] = 'Modifier un retour de produits';
@@ -60,12 +60,12 @@ $_['entry_date_modified'] = 'Date de modification';
 // Help
 $_['help_product'] = 'Autocomplétion';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les retours de produits !';
-$_['error_order_id'] = 'Attention : l’identifiant de la commande est requis !';
-$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
-$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_product'] = 'Attention : le nom du produit doit contenir entre 3 et 255 caractères !';
-$_['error_model'] = 'Attention : la référence du produit doit contenir entre 3 et 64 caractères !';
+$_['error_warning'] = 'Attention&#160;: veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les retours de produits&#160;!';
+$_['error_order_id'] = 'Attention&#160;: l’identifiant de la commande est requis&#160;!';
+$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
+$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
+$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_product'] = 'Attention&#160;: le nom du produit doit contenir entre 3 et 255 caractères&#160;!';
+$_['error_model'] = 'Attention&#160;: la référence du produit doit contenir entre 3 et 64 caractères&#160;!';

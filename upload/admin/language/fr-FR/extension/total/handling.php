@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,13 +10,13 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Frais de manutention';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le total des frais de manutention a été modifié avec succès !';
+$_['text_success'] = 'Le total des frais de manutention a été modifié avec succès&#160;!';
 $_['text_edit'] = 'Modifier le total des frais de manutention';
 // Entry
 $_['entry_total'] = 'Total de commande';
@@ -27,4 +27,4 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le total que la commande doit atteindre avant que ce total de commande puisse devenir actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des frais de manutention !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le total des frais de manutention&#160;!';

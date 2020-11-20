@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,12 +10,12 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Pays';
 // Text
-$_['text_success'] = 'Le pays a été modifié avec succès !';
+$_['text_success'] = 'Le pays a été modifié avec succès&#160;!';
 $_['text_list'] = 'Liste des pays';
 $_['text_add'] = 'Ajouter un pays';
 $_['text_edit'] = 'Modifier un pays';
@@ -32,13 +32,13 @@ $_['entry_address_format'] = 'Format de l’adresse';
 $_['entry_postcode_required'] = 'Le code postal est requis.';
 $_['entry_status'] = 'Statut';
 // Help
-$_['help_address_format'] = 'Prénom = {firstname} <br/> Nom = {lastname} <br/> Société = {company} <br/> Adresse 1 = {address_1} <br/> Adresse 2 = {address_2} <br/> Ville = {city} <br/> Code postal = {postcode} <br/> Zone = {zone} <br/> Code zone = {zone_code} <br/> Pays = {country}';
+$_['help_address_format'] = 'Prénom = {firstname} <br /> Nom = {lastname} <br /> Société = {company} <br /> Adresse 1 = {address_1} <br /> Adresse 2 = {address_2} <br /> Ville = {city} <br /> Code postal = {postcode} <br /> Zone = {zone} <br /> Code zone = {zone_code} <br /> Pays = {country}';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les pays !';
-$_['error_name'] = 'Attention : le nom du pays doit contenir entre 3 et 128 caractères !';
-$_['error_default'] = 'Attention : ce pays ne peut pas être supprimé car il est actuellement défini en tant que pays par défaut !';
-$_['error_store'] = 'Attention : ce pays ne peut pas être supprimé car il est actuellement appliqué à %s boutiques !';
-$_['error_address'] = 'Attention : ce pays ne peut pas être supprimé car il est actuellement appliqué à %s entrées du carnet d’adresses !';
-$_['error_affiliate'] = 'Attention : ce pays ne peut pas être supprimé car il est actuellement appliqué à %s affiliés !';
-$_['error_zone'] = 'Attention : ce pays ne peut pas être supprimé car il est actuellement appliqué à %s zones !';
-$_['error_zone_to_geo_zone'] = 'Attention : ce pays ne peut pas être supprimé car il est actuellement appliqué à %s zones géographiques !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les pays&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du pays doit contenir entre 3 et 128 caractères&#160;!';
+$_['error_default'] = 'Attention&#160;: ce pays ne peut pas être supprimé car il est actuellement défini en tant que pays par défaut&#160;!';
+$_['error_store'] = 'Attention&#160;: ce pays ne peut pas être supprimé car il est actuellement appliqué à %s boutiques&#160;!';
+$_['error_address'] = 'Attention&#160;: ce pays ne peut pas être supprimé car il est actuellement appliqué à %s entrées du carnet d’adresses&#160;!';
+$_['error_affiliate'] = 'Attention&#160;: ce pays ne peut pas être supprimé car il est actuellement appliqué à %s affiliés&#160;!';
+$_['error_zone'] = 'Attention&#160;: ce pays ne peut pas être supprimé car il est actuellement appliqué à %s zones&#160;!';
+$_['error_zone_to_geo_zone'] = 'Attention&#160;: ce pays ne peut pas être supprimé car il est actuellement appliqué à %s zones géographiques&#160;!';

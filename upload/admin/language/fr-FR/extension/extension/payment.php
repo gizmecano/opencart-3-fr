@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,12 +10,12 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Moyens de paiement';
 // Text
-$_['text_success'] = 'Les moyens de paiements ont été modifiés avec succès !';
+$_['text_success'] = 'Les moyens de paiements ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des moyens de paiements';
 $_['text_recommended'] = 'Solutions de paiement recommandées';
 // Column
@@ -24,4 +24,4 @@ $_['column_status'] = 'Statut';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les moyens de paiements !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les moyens de paiements&#160;!';

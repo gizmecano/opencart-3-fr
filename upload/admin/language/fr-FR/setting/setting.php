@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,13 +10,13 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Paramètres';
 // Text
 $_['text_stores'] = 'Boutiques';
-$_['text_success'] = 'Les paramètres ont été modifiés avec succès !';
+$_['text_success'] = 'Les paramètres ont été modifiés avec succès&#160;!';
 $_['text_edit'] = 'Modifier les paramètres';
 $_['text_product'] = 'Produits';
 $_['text_review'] = 'Évaluations';
@@ -121,7 +121,7 @@ $_['entry_mail_alert_email'] = 'Adresses électroniques additionnelles';
 $_['entry_secure'] = 'Utiliser SSL';
 $_['entry_shared'] = 'Utiliser les sessions partagés';
 $_['entry_robots'] = 'Robots';
-$_['entry_seo_url'] = 'Utiliser des adresses universelles (URL) optimisées pour les moteurs de recherche (SEO) pour le référencement';
+$_['entry_seo_url'] = 'Utiliser des liens de référencement optimisés pour les moteurs de recherche';
 $_['entry_file_max_size'] = 'Taille maximum de fichier';
 $_['entry_file_ext_allowed'] = 'Extensions de fichier autorisées';
 $_['entry_file_mime_allowed'] = 'Types MIME autorisés';
@@ -141,7 +141,7 @@ $_['help_location'] = 'Les différents emplacements de vos boutiques que vous vo
 $_['help_currency'] = 'Changer la devise par défaut. Veuillez vider le cache de votre navigateur et réinitialiser les cookies existants.';
 $_['help_currency_auto'] = 'Paramétrer votre boutique pour mettre à jour automatiquement le cour des devises tous les jours.';
 $_['help_limit_admin'] = 'Détermine combien d’éléments de l’administration sont affichés par page (commandes, clients, etc.).';
-$_['help_product_count'] = 'Affiche le nombre de produits à l’intérieur d’une sous-catégorie dans l’en-tête du menu des catégories. Soyez conscient que cet affichage peut causer des problèmes de performance dans le cas de boutiques avec un grand nombre de sous-catégories !';
+$_['help_product_count'] = 'Affiche le nombre de produits à l’intérieur d’une sous-catégorie dans l’en-tête du menu des catégories. Soyez conscient que cet affichage peut causer des problèmes de performance dans le cas de boutiques avec un grand nombre de sous-catégories&#160;!';
 $_['help_review'] = 'Activer et ou désactiver la saisie de nouvelle évaluation et l’affichage des évaluations existantes.';
 $_['help_review_guest'] = 'Autoriser les invités à poster des évaluations.';
 $_['help_voucher_min'] = 'Montant minimum pour lequel un client peut acheter un bon d’achat.';
@@ -177,14 +177,14 @@ $_['help_captcha'] = 'CAPTCHA à utiliser pour l’enregistrement, la connexion,
 $_['help_icon'] = 'L’icône doit être un fichier PNG ayant pour dimension 16px × 16px.';
 $_['help_mail_engine'] = 'Choisir seulement Mail sauf si votre hébergeur a désactivé les fonctions de courrier électronique PHP.';
 $_['help_mail_parameter'] = 'En cas d’utilisation de Mail, des paramètres additionnels peuvent être ajoutés ici (par exemple, -f email@storeaddress.com).';
-$_['help_mail_smtp_hostname'] = 'Ajouter le préfixe <tls://> ou <ssl://> si une connexion de sécurité est requise. (par exemple : <tls://smtp.gmail.com>).';
-$_['help_mail_smtp_password'] = 'Pour Gmail, vous devrez peut-être configurer un mot de passe spécifique à l’application ici : https://security.google.com/settings/security/apppasswords.';
+$_['help_mail_smtp_hostname'] = 'Ajouter le préfixe <tls://> ou <ssl://> si une connexion de sécurité est requise. (par exemple&#160;: <tls://smtp.gmail.com>).';
+$_['help_mail_smtp_password'] = 'Pour Gmail, vous devrez peut-être configurer un mot de passe spécifique à l’application ici&#160;: https://security.google.com/settings/security/apppasswords.';
 $_['help_mail_alert'] = 'Sélectionnez pour quelles fonctionnalités vous souhaitez recevoir une alerte par courrier électronique lorsqu’un client les utilise.';
 $_['help_mail_alert_email'] = 'Toutes les adresses électroniques additionnelles (séparées par des virgules) pour lesquelles vous souhaitez recevoir une alerte par courrier électronique, en plus de l’adresse principale de la boutique.';
-$_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé et ajouter l’adresse universelle (URL) SSL aux fichiers du catalogue et de la configuration d’administration.';
+$_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé et ajouter le lien SSL aux fichiers du catalogue et de la configuration d’administration.';
 $_['help_shared'] = 'Essayer de partager le cookie de session entre les boutiques , ainsi le panier pourra être transféré entre différents domaines.';
 $_['help_robots'] = 'Une liste de robots d’indexation (User-Agent), pour lesquels les sessions partagées ne seront pas utilisées. Utilisez des lignes séparées pour chaque agent utilisateur.';
-$_['help_seo_url'] = 'Pour utiliser les adresses universelles de référencement (URL) optimisées pour les moteurs de recherche (SEO), le module de réécriture (rewrite) Apache soit être installé et vous devez renommer le fichier <htaccess.txt> en <.htaccess>.';
+$_['help_seo_url'] = 'Pour utiliser les liens de référencement optimisés pour les moteurs de recherche, le module de réécriture (rewrite) Apache soit être installé et vous devez renommer le fichier <htaccess.txt> en <.htaccess>.';
 $_['help_file_max_size'] = 'Taille maximum des images que vous pouvez transférer par le biais du gestionnaire. À saisir en byte.';
 $_['help_file_ext_allowed'] = 'Ajouter quelles extensions de fichiers sont autorisées à être transférées. Utilisez une nouvelle ligne pour chaque valeur.';
 $_['help_file_mime_allowed'] = 'Ajouter quels types MIME sont autorisés à être transférés. Utilisez une nouvelle ligne pour chaque valeur.';
@@ -193,22 +193,22 @@ $_['help_password'] = 'Autorise les mots de passe oublié à être utiliser pour
 $_['help_encryption'] = 'Veuillez fournir une clef secrète qui sera utilisée pour chiffrer les informations privées lors de la saisie de commande.';
 $_['help_compression'] = 'GZIP pour un meilleur taux de transfert lors des requêtes des clients. Le niveau de compression doit être compris entre 0 et 9.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres !';
-$_['error_meta_title'] = 'Attention : le titre doit contenir entre 3 et 32 caractères !';
-$_['error_name'] = 'Attention : le nom de la boutique doit contenir entre 3 et 32 caractères !';
-$_['error_owner'] = 'Attention : le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';
-$_['error_address'] = 'Attention : l’adresse de la boutique doit contenir entre 10 et 256 caractères !';
-$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_limit'] = 'Attention : une limite est requise !';
-$_['error_login_attempts'] = 'Attention : le nombre de tentative de connexion doit être supérieur à 0 !';
-$_['error_customer_group_display'] = 'Attention : vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité !';
-$_['error_voucher_min'] = 'Attention : le montant minimum d’un bon d’achat est requis !';
-$_['error_voucher_max'] = 'Attention : le montant maximum d’un bon d’achat est requis !';
-$_['error_processing_status'] = 'Attention : vous devez choisir au moins 1 statut de commande en cours';
-$_['error_complete_status'] = 'Attention : vous devez choisir au moins 1 statut de commande complète';
-$_['error_log_required'] = 'Attention : le nom du fichier du journal des erreurs est requis !';
-$_['error_log_invalid'] = 'Attention : le nom du fichier du journal des erreurs est invalide !';
-$_['error_log_extension'] = 'Attention : l’extension du fichier du journal des erreurs doit être <.log> !';
-$_['error_encryption'] = 'Attention : la clef de chiffrement doit contenir entre 32 et 1024 caractères !';
+$_['error_warning'] = 'Attention&#160;: veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les paramètres&#160;!';
+$_['error_meta_title'] = 'Attention&#160;: le titre doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom de la boutique doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_owner'] = 'Attention&#160;: le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_address'] = 'Attention&#160;: l’adresse de la boutique doit contenir entre 10 et 256 caractères&#160;!';
+$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
+$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_limit'] = 'Attention&#160;: une limite est requise&#160;!';
+$_['error_login_attempts'] = 'Attention&#160;: le nombre de tentative de connexion doit être supérieur à 0&#160;!';
+$_['error_customer_group_display'] = 'Attention&#160;: vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité&#160;!';
+$_['error_voucher_min'] = 'Attention&#160;: le montant minimum d’un bon d’achat est requis&#160;!';
+$_['error_voucher_max'] = 'Attention&#160;: le montant maximum d’un bon d’achat est requis&#160;!';
+$_['error_processing_status'] = 'Attention&#160;: vous devez choisir au moins 1 statut de commande en cours';
+$_['error_complete_status'] = 'Attention&#160;: vous devez choisir au moins 1 statut de commande complète';
+$_['error_log_required'] = 'Attention&#160;: le nom du fichier du journal des erreurs est requis&#160;!';
+$_['error_log_invalid'] = 'Attention&#160;: le nom du fichier du journal des erreurs est invalide&#160;!';
+$_['error_log_extension'] = 'Attention&#160;: l’extension du fichier du journal des erreurs doit être <.log>&#160;!';
+$_['error_encryption'] = 'Attention&#160;: la clef de chiffrement doit contenir entre 32 et 1024 caractères&#160;!';

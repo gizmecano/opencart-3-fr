@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,14 +10,14 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Rapport des activités des clients';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des activités des clients';
-$_['text_success'] = 'Le rapport des activités des clients a été modifié avec succès !';
+$_['text_success'] = 'Le rapport des activités des clients a été modifié avec succès&#160;!';
 $_['text_filter'] = 'Filtre';
 $_['text_activity_register'] = '<a href="customer_id=%d">%s</a> a créé un nouveau compte.';
 $_['text_activity_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour les informations de son compte.';
@@ -48,4 +48,4 @@ $_['entry_date_end'] = 'Date de fin';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des activités des clients !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des activités des clients&#160;!';

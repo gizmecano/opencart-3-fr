@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,23 +10,23 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Trouvez votre fabricant préféré';
 // Text
 $_['text_brand'] = 'Marque du fabricant';
-$_['text_index'] = 'Index du fabricant : ';
-$_['text_error'] = 'Attention : le fabricant est introuvable !';
+$_['text_index'] = 'Index du fabricant&#160;: ';
+$_['text_error'] = 'Attention&#160;: le fabricant est introuvable&#160;!';
 $_['text_empty'] = 'Il n’y a aucun produit à lister pour ce fabricant.';
-$_['text_quantity'] = 'Quantité : ';
-$_['text_manufacturer'] = 'Fabricant : ';
-$_['text_model'] = 'Référence du produit : ';
-$_['text_points'] = 'Points de fidélité : ';
-$_['text_price'] = 'Prix : ';
-$_['text_tax'] = 'Prix hors taxes : ';
+$_['text_quantity'] = 'Quantité&#160;: ';
+$_['text_manufacturer'] = 'Fabricant&#160;: ';
+$_['text_model'] = 'Référence du produit&#160;: ';
+$_['text_points'] = 'Points de fidélité&#160;: ';
+$_['text_price'] = 'Prix&#160;: ';
+$_['text_tax'] = 'Prix hors taxes&#160;: ';
 $_['text_compare'] = 'Produits comparés (%s)';
-$_['text_sort'] = 'Trier par : ';
+$_['text_sort'] = 'Trier par&#160;: ';
 $_['text_default'] = 'Par défaut';
 $_['text_name_asc'] = 'Nom (A → Z)';
 $_['text_name_desc'] = 'Nom (Z → A)';
@@ -36,4 +36,4 @@ $_['text_rating_asc'] = 'Note (1 → 2)';
 $_['text_rating_desc'] = 'Note (2 → 1)';
 $_['text_model_asc'] = 'Référence (A → Z)';
 $_['text_model_desc'] = 'Référence (Z → A)';
-$_['text_limit'] = 'Voir : ';
+$_['text_limit'] = 'Voir&#160;: ';

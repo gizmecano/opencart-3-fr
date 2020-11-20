@@ -1,3 +1,6 @@
 # OS settings
 *.lnk
 [Dd]esktop.ini
+
+# IDE settings
+/.vscode/*.code-workspace

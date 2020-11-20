@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,18 +10,18 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Emplacements de boutiques';
 // Text
-$_['text_success'] = 'Les emplacements de boutiques ont été modifiés avec succès !';
+$_['text_success'] = 'Les emplacements de boutiques ont été modifiés avec succès&#160;!';
 $_['text_list'] = 'Liste des emplacements de boutiques';
 $_['text_add'] = 'Ajouter un emplacement de boutique';
 $_['text_edit'] = 'Modifier un emplacement de boutique';
 $_['text_default'] = 'Par défaut';
 $_['text_time'] = 'Horaires d’ouverture';
-$_['text_geocode'] = 'Géocode n’a pas réussi pour la raison suivante : ';
+$_['text_geocode'] = 'Géocode n’a pas réussi pour la raison suivante&#160;: ';
 // Column
 $_['column_name'] = 'Nom de la boutique';
 $_['column_address'] = 'Adresse';
@@ -40,7 +40,7 @@ $_['help_geocode'] = 'Veuillez saisir votre emplacement de boutique manuellement
 $_['help_open'] = 'Renseignez les horaires d’ouverture de votre boutique.';
 $_['help_comment'] = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n’accepte pas les chèques.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les emplacements de boutiques !';
-$_['error_name'] = 'Attention : le nom de la boutique doit contenir entre 3 et 32 caractères !';
-$_['error_address'] = 'Attention : l’adresse doit contenir entre 3 et 128 caractères !';
-$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les emplacements de boutiques&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom de la boutique doit contenir entre 3 et 32 caractères&#160;!';
+$_['error_address'] = 'Attention&#160;: l’adresse doit contenir entre 3 et 128 caractères&#160;!';
+$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';

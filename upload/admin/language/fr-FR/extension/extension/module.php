@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019 P. Mergey
+ * Copyright (C) 2019-2020 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -10,13 +10,13 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
 $_['heading_title'] = 'Modules';
 // Text
-$_['text_success'] = 'Les modules ont été modifiés avec succès !';
-$_['text_layout'] = 'Après avoir installé et configuré un module, vous pouvez l’ajouter à un gabarit <a href="%s" class="alert-link">ici</a> !';
+$_['text_success'] = 'Les modules ont été modifiés avec succès&#160;!';
+$_['text_layout'] = 'Après avoir installé et configuré un module, vous pouvez l’ajouter à un gabarit <a href="%s" class="alert-link">ici</a>&#160;!';
 $_['text_add'] = 'Ajouter un module';
 $_['text_list'] = 'Liste des modules';
 // Column
@@ -27,6 +27,6 @@ $_['column_action'] = 'Action';
 $_['entry_code'] = 'Module';
 $_['entry_name'] = 'Nom du module';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modules !';
-$_['error_name'] = 'Attention : le nom du module doit contenir entre 3 et 64 caractères !';
-$_['error_code'] = 'Attention : une extension est requise !';
+$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les modules&#160;!';
+$_['error_name'] = 'Attention&#160;: le nom du module doit contenir entre 3 et 64 caractères&#160;!';
+$_['error_code'] = 'Attention&#160;: une extension est requise&#160;!';
