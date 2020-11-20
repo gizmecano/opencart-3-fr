@@ -58,6 +58,25 @@ Une fois cela fait, afficher l'interface d'administration d'OpenCart et suivre l
 7. Enregistrer ces modifications
 8. Installation terminée
 
+## Flux des travaux
+
+### Versionnage
+
+Le processus de travail sur ce pack de langue se propose de suivre la spécification de la [gestion sémantique de version](https://semver.org/lang/fr/) selon les étapes ci-dessous:
+
+1. `majeure` (niveau chemin)
+  - ajouter un nouveau répertoire
+  - déplacer un répertoire existant à un autre emplacement
+  - supprimer un répertoire obsolète
+2. `mineur` (niveau fichier)
+  - ajouter un nouveau fichier dans un répertoire existant
+  - déplacer un fichier existant depuis un répertoire existant à un autre emplacement
+  - supprimer un fichier obsolète dans un répertoire existant
+3. `correctif` (niveau objet)
+  - ajouter une nouvelle chaîne dans un fichier existant
+  - réviser ou corriger une chaîne existante dans un fichier existant
+  - supprimer une chaîne existante dans un fichier existant
+
 ## Impressum
 
 ### Licence

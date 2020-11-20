@@ -58,6 +58,25 @@ After that, open your OpenCart backend and follow the steps below:
 7. Save these changes
 8. Installation is complete
 
+## Workflow
+
+### Versioning
+
+The working process on this language pack aims to follow [semantic versioning specification](https://semver.org/) according to the steps bellow:
+
+1. `major` (path level)
+  - add new folder
+  - move existing folder to other path
+  - delete obsolete folder
+2. `minor` (file level)
+  - add new file in existing folder
+  - move existing file from existing folder to other one
+  - delete obsolete file in existing folder
+3. `patch` (item level)
+  - add new string in existing file
+  - revise or fix existing string in existing file
+  - delete obsolete string in existing file
+
 ## Imprint
 
 ### License
