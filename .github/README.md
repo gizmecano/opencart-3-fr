@@ -77,6 +77,10 @@ The working process on this language pack aims to follow [semantic versioning sp
   - revise or fix existing string in existing file
   - delete obsolete string in existing file
 
+## Contribution
+
+Any suggestions or submissions (translation, optimisation, etc.) might be considered by [opening an issue](https://github.com/gizmecano/opencart-3-fr/issues) into the free variant repository.
+
 ## Imprint
 
 ### License

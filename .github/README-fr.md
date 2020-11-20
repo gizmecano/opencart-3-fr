@@ -77,6 +77,10 @@ Le processus de travail sur ce pack de langue se propose de suivre la spécifica
   - réviser ou corriger une chaîne existante dans un fichier existant
   - supprimer une chaîne existante dans un fichier existant
 
+### Contribution
+
+Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent être prises en compte en [ouvrant une question](https://github.com/gizmecano/opencart-3-fr/issues) dans le dépôt de la variante libre.
+
 ## Impressum
 
 ### Licence
