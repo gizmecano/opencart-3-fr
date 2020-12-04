@@ -26,8 +26,8 @@ Ce pack linguistique a été développé avec certains principes de base à l'es
 
 Contrairement au projet qui l'a précédé, ce pack de langue est disponible en deux variantes différentes, toutes deux développées à partir d'une même unique plateforme commune.
 
-  1. la variante libre contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
-  2. la version complète contient des fichiers supplémentaires requis pour une traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
+  1. la [**variante libre**](https://github.com/gizmecano/opencart-3-fr) contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
+  2. la **version complète** (actuellement non publiée) contient des fichiers supplémentaires requis pour une traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
 
 Cette distinction est due à plusieurs facteurs:
 
@@ -35,6 +35,10 @@ Cette distinction est due à plusieurs facteurs:
   - essayer de compenser le temps souvent important passer à traduire des fichiers parfois volumineux mais non nécessaires à une majorité d'utilisateurs
 
 Les fichiers uniquement présents dans la version complète sont listés dans un [document spécifique](cleavage.csv).
+
+Pour vérifier quelle version de chaque variante est compatible avec les versions principales d'Opencart, un [tableau de compatibilité](compatibility.csv) est disponible.
+
+> ⚠ En attendant l'activation finale d'un compte approprié, la version complète ne peut actuellement pas être publiée sur le [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension).
 
 ## Installation
 
@@ -79,7 +83,7 @@ Le processus de travail sur ce pack de langue se propose de suivre la spécifica
 
 ### Contribution
 
-Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent être prises en compte en [ouvrant une question](https://github.com/gizmecano/opencart-3-fr/issues) dans le dépôt de la variante libre.
+Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent être prises en compte en [ouvrant une question](https://github.com/gizmecano/opencart-3-fr/issues/new/choose) dans le dépôt de la variante libre.
 
 ## Impressum
 

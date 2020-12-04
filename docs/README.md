@@ -26,8 +26,8 @@ This language pack has been developed with some basic principles in mind:
 
 Unlike the project that preceded it, this language pack is available in two different variants, both developed from a single common platform.
 
-  1. the free variant contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
-  2. the full version contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
+  1. the [**free variant**](https://github.com/gizmecano/opencart-3-fr) contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
+  2. the **full version** (unreleased at this time) contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
 
 This distinction is due to several factors:
 
@@ -35,6 +35,10 @@ This distinction is due to several factors:
   - attempting to balance for often significant time spent translating files which are sometimes large but not necessary for a majority of users
 
 The files only included in the full version are listed in an [specific document](cleavage.csv).
+
+To check which version of each variant is compatible with core versions of Opencart, a [compatibility table](compatibility.csv) is available.
+
+> ⚠ Pending the final activation of an appropriate account, the full version cannot currently be released on the [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension).
 
 ## Installation
 
@@ -79,7 +83,7 @@ The working process on this language pack aims to follow [semantic versioning sp
 
 ## Contribution
 
-Any suggestions or submissions (translation, optimisation, etc.) might be considered by [opening an issue](https://github.com/gizmecano/opencart-3-fr/issues) into the free variant repository.
+Any suggestions or submissions (translation, optimisation, etc.) might be considered by [opening an issue](https://github.com/gizmecano/opencart-3-fr/issues/new/choose) into the free variant repository.
 
 ## Imprint
 
