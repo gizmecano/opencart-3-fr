@@ -13,7 +13,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Avez-vous oublié votre mot de passe&#160?';
+$_['heading_title'] = 'Avez-vous oublié votre mot de passe ?';
 // Text
 $_['text_forgotten'] = 'Mot de passe oublié';
 $_['text_your_email'] = 'Votre adresse électronique';
