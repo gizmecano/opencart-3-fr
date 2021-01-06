@@ -18,7 +18,7 @@ $_['heading_title'] = 'Installateur d’extensions';
 $_['text_progress'] = 'Progression de l’installation';
 $_['text_upload'] = 'Transférer vos extensions';
 $_['text_history'] = 'Historique de l’installation';
-$_['text_success'] = 'L’extension a été installée avec succès&#160;!';
+$_['text_success'] = 'L’extension a été installée avec succès !';
 $_['text_install'] = 'Installation en cours';
 // Column
 $_['column_filename'] = 'Nom du fichier';
@@ -30,8 +30,8 @@ $_['entry_progress'] = 'Progression';
 // Help
 $_['help_upload'] = 'Nécessite un fichier de modification avec l’extension .ocmod.zip.';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les extensions&#160;!';
-$_['error_install'] = 'Attention&#160;: l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer&#160;!';
-$_['error_upload'] = 'Attention&#160;: le fichier n’a pas pu être téléchargé&#160;!';
-$_['error_filetype'] = 'Attention&#160;: le type de fichier est incorrect&#160;!';
-$_['error_file'] = 'Attention&#160;: le fichier est introuvable&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
+$_['error_install'] = 'Attention : l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer !';
+$_['error_upload'] = 'Attention : le fichier n’a pas pu être téléchargé !';
+$_['error_filetype'] = 'Attention : le type de fichier est incorrect !';
+$_['error_file'] = 'Attention : le fichier est introuvable !';

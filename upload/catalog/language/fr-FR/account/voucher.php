@@ -19,7 +19,7 @@ $_['text_account'] = 'Compte';
 $_['text_voucher'] = 'Bon d’achat';
 $_['text_description'] = 'Ce bon d’achat sera envoyé par courrier électronique au destinataire après réception de votre paiement.';
 $_['text_agree'] = 'Je comprends que les bons d’achat ne sont pas remboursables.';
-$_['text_message'] = '<p>Merci pour votre commande d’un bon d’achat&#160;! Une fois que vous aurez complété votre commande, un courrier électronique sera envoyé au destinataire du bon avec les détails de son utilisation.</p>';
+$_['text_message'] = '<p>Merci pour votre commande d’un bon d’achat ! Une fois que vous aurez complété votre commande, un courrier électronique sera envoyé au destinataire du bon avec les détails de son utilisation.</p>';
 $_['text_for'] = '%s bon d’achat pour %s';
 // Entry
 $_['entry_to_name'] = 'Nom du destinataire';
@@ -33,9 +33,9 @@ $_['entry_amount'] = 'Montant';
 $_['help_message'] = 'Optionnel';
 $_['help_amount'] = 'La valeur doit être comprise entre %s et %s';
 // Error
-$_['error_to_name'] = 'Attention&#160;: le nom du destinataire doit contenir entre 1 et 64 caractères';
-$_['error_from_name'] = 'Attention&#160;: votre nom doit contenir entre 1 et 64 caractères';
-$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
-$_['error_theme'] = 'Attention&#160;: vous devez sélectionner un thème&#160;!';
-$_['error_amount'] = 'Attention&#160;: le montant doit être compris entre %s et %s&#160;!';
-$_['error_agree'] = 'Attention&#160;: vous devez accepter que les bons d’achat ne sont pas remboursables&#160;!';
+$_['error_to_name'] = 'Attention : le nom du destinataire doit contenir entre 1 et 64 caractères';
+$_['error_from_name'] = 'Attention : votre nom doit contenir entre 1 et 64 caractères';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_theme'] = 'Attention : vous devez sélectionner un thème !';
+$_['error_amount'] = 'Attention : le montant doit être compris entre %s et %s !';
+$_['error_agree'] = 'Attention : vous devez accepter que les bons d’achat ne sont pas remboursables !';

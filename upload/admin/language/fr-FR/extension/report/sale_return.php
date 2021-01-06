@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des retours de produits';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des retours de produits';
-$_['text_success'] = 'Le rapport des retours de produits a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le rapport des retours de produits a été modifié avec succès !';
 $_['text_filter'] = 'Filtre';
 $_['text_year'] = 'Années';
 $_['text_month'] = 'Mois';
@@ -36,4 +36,4 @@ $_['entry_status'] = 'Statut des retours';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des retours de produits&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des retours de produits !';

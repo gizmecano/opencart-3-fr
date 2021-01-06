@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Rapports';
 // Text
-$_['text_success'] = 'Les rapports ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les rapports ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des rapports';
 // Column
 $_['column_name'] = 'Nom du rapport';
@@ -23,4 +23,4 @@ $_['column_status'] = 'Statut';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les rapports&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les rapports !';

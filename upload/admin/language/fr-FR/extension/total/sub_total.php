@@ -16,10 +16,10 @@
 $_['heading_title'] = 'Sous-totaux';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le total des sous-totaux a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le total des sous-totaux a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le total des sous-totaux';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le total des sous-totaux&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des sous-totaux !';

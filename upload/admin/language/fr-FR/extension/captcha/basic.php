@@ -16,9 +16,9 @@
 $_['heading_title'] = 'Tests CAPTCHA basiques';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Les tests CAPTCHA basiques ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les tests CAPTCHA basiques ont été modifiés avec succès !';
 $_['text_edit'] = 'Modifier les tests CAPTCHA basiques';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les tests CAPTCHA basiques&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les tests CAPTCHA basiques !';

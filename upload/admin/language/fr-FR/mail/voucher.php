@@ -13,7 +13,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'Les bons d’achat ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les bons d’achat ont été modifiés avec succès !';
 $_['text_subject'] = 'Vous venez de recevoir un bon d’achat provenant de %s';
 $_['text_greeting'] = 'Vous venez de recevoir avec succès un bon d’achat d’une valeur de %s';
 $_['text_from'] = 'Ce bon d’achat a été envoyé de la part de %s';

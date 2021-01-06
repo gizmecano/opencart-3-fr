@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Campagnes de suivi marketing';
 // Text
-$_['text_success'] = 'Les campagnes de suivi marketing ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les campagnes de suivi marketing ont été modifiées avec succès !';
 $_['text_list'] = 'Liste d’analytique';
 // Column
 $_['column_name'] = 'Nom de la campagne';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les campagnes de suivi marketing&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les campagnes de suivi marketing !';

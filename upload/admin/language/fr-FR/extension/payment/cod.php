@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Paiement à la livraison';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module de paiement à la livraison a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le module de paiement à la livraison a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le module de paiement à la livraison';
 // Entry
 $_['entry_total'] = 'Total';
@@ -27,4 +27,4 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement puisse devenir actif.';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le module de paiement à la livraison&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement à la livraison !';

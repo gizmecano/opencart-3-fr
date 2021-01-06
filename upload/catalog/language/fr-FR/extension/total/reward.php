@@ -16,11 +16,11 @@
 $_['heading_title'] = 'Utiliser des points de fidélité (%s disponibles)';
 // Text
 $_['text_reward'] = 'Points de fidélité (%s)';
-$_['text_order_id'] = 'Numéro de commande&#160;: #%s';
-$_['text_success'] = 'La déduction de vos points de fidélité a été appliquée avec succès&#160;!';
+$_['text_order_id'] = 'Numéro de commande : #%s';
+$_['text_success'] = 'La déduction de vos points de fidélité a été appliquée avec succès !';
 // Entry
 $_['entry_reward'] = 'Points à utiliser (%s maximum)';
 // Error
-$_['error_reward'] = 'Attention&#160;: veuillez saisir le montant des points de fidélité à utiliser&#160;!';
-$_['error_points'] = 'Attention&#160;: vous n’avez pas %s points de fidélité&#160;!';
-$_['error_maximum'] = 'Attention&#160;: le nombre maximum de points de fidélité pouvant être utilisés est de %s&#160;!';
+$_['error_reward'] = 'Attention : veuillez saisir le montant des points de fidélité à utiliser !';
+$_['error_points'] = 'Attention : vous n’avez pas %s points de fidélité !';
+$_['error_maximum'] = 'Attention : le nombre maximum de points de fidélité pouvant être utilisés est de %s !';

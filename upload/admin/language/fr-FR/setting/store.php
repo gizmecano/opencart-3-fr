@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Boutiques';
 // Text
 $_['text_settings'] = 'Paramètres';
-$_['text_success'] = 'Les boutiques ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les boutiques ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des boutiques';
 $_['text_add'] = 'Ajouter une boutique';
 $_['text_edit'] = 'Modifier une boutique';
@@ -71,8 +71,8 @@ $_['entry_logo'] = 'Enseigne de la boutique';
 $_['entry_icon'] = 'Icône';
 $_['entry_secure'] = 'Utiliser SSL';
 // Help
-$_['help_url'] = 'Inclure le lien complet de votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple&#160;: <http://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
-$_['help_ssl'] = 'Lien sécurisé (SSL) pour votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple&#160;: <https://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
+$_['help_url'] = 'Inclure le lien complet de votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : <http://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
+$_['help_ssl'] = 'Lien sécurisé (SSL) pour votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : <https://www.yourdomain.com/path/><br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
 $_['help_geocode'] = 'Veuillez saisir l’emplacement géocode de votre boutique manuellement.';
 $_['help_open'] = 'Renseignez les horaires d’ouverture de votre boutique.';
 $_['help_comment'] = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n’accepte pas les chèques.';
@@ -92,15 +92,15 @@ $_['help_stock_checkout'] = 'Autoriser les clients à passer commande même si l
 $_['help_icon'] = 'L’icône doit être un fichier PNG ayant pour dimension 16px × 16px.';
 $_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé.';
 // Error
-$_['error_warning'] = 'Attention&#160;: veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les boutiques&#160;!';
-$_['error_url'] = 'Attention&#160;: le lien de la boutique est requis&#160;!';
-$_['error_meta_title'] = 'Attention&#160;: le titre doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom de la boutique doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_owner'] = 'Attention&#160;: le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_address'] = 'Attention&#160;: l’adresse de la boutique doit contenir entre 10 et 256 caractères&#160;!';
-$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
-$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_customer_group_display'] = 'Attention&#160;: vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité&#160;!';
-$_['error_default'] = 'Attention&#160;: vous ne pouvez pas supprimer votre boutique par défaut&#160;!';
-$_['error_store'] = 'Attention&#160;: cette boutique ne peut pas être supprimée car elle est actuellement appliquée à %s commandes&#160;!';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les boutiques !';
+$_['error_url'] = 'Attention : le lien de la boutique est requis !';
+$_['error_meta_title'] = 'Attention : le titre doit contenir entre 3 et 32 caractères !';
+$_['error_name'] = 'Attention : le nom de la boutique doit contenir entre 3 et 32 caractères !';
+$_['error_owner'] = 'Attention : le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';
+$_['error_address'] = 'Attention : l’adresse de la boutique doit contenir entre 10 et 256 caractères !';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_customer_group_display'] = 'Attention : vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité !';
+$_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut !';
+$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement appliquée à %s commandes !';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Modes de livraison';
 // Text
-$_['text_success'] = 'Les modes de livraison ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les modes de livraison ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des modes de livraison';
 // Column
 $_['column_name'] = 'Mode de livraison';
@@ -23,4 +23,4 @@ $_['column_status'] = 'Statut';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les modes de livraison&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modes de livraison !';

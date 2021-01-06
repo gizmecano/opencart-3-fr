@@ -16,10 +16,10 @@
 $_['heading_title'] = 'Réinitialiser le mot de passe';
 // Text
 $_['text_password'] = 'Veuillez saisir le nouveau mot de passe que vous souhaitez utiliser.';
-$_['text_success'] = 'Votre mot de passe a été mis à jour avec succès&#160;!';
+$_['text_success'] = 'Votre mot de passe a été mis à jour avec succès !';
 // Entry
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer';
 // Error
-$_['error_password'] = 'Attention&#160;: le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
-$_['error_confirm'] = 'Attention&#160;: le mot de passe de confirmation ne correspond pas au premier mot de passe&#160;!';
+$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères !';
+$_['error_confirm'] = 'Attention : le mot de passe de confirmation ne correspond pas au premier mot de passe !';

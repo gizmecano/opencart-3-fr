@@ -15,12 +15,12 @@
 // Heading
 $_['heading_title'] = 'Interface de programmation (API) du Cybermarché OpenCart';
 // Text
-$_['text_success'] = 'Les informations de l’interface de programmation (API) du Cybermarché OpenCart ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les informations de l’interface de programmation (API) du Cybermarché OpenCart ont été modifiées avec succès !';
 $_['text_signup'] = 'Veuillez saisir vos informations de l’interface de programmation (API) du Cybermarché OpenCart que vous pouvez obtenir <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">ici</a>.';
 // Entry
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_secret'] = 'Secret';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les informations de l’interface de programmation (API) du Cybermarché OpenCart&#160;!';
-$_['error_username'] = 'Attention&#160;: le nom d’utilisateur est requis&#160;!';
-$_['error_secret'] = 'Attention&#160;: le mot secret est requis&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les informations de l’interface de programmation (API) du Cybermarché OpenCart !';
+$_['error_username'] = 'Attention : le nom d’utilisateur est requis !';
+$_['error_secret'] = 'Attention : le mot secret est requis !';

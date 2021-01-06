@@ -18,9 +18,9 @@ $_['heading_title'] = 'Liste de souhaits';
 $_['text_account'] = 'Compte';
 $_['text_instock'] = 'Disponible';
 $_['text_wishlist'] = 'Liste de souhaits (%s)';
-$_['text_login'] = 'Vous devez vous <a href="%s">connecter</a> ou <a href="%s">créer un compte</a> pour sauvegarder <a href="%s">%s</a> dans votre <a href="%s">liste de souhaits</a>&#160;!';
-$_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">liste de souhaits</a> avec succès&#160;!';
-$_['text_remove'] = 'Votre liste de souhaits a été modifiée avec succès&#160;!';
+$_['text_login'] = 'Vous devez vous <a href="%s">connecter</a> ou <a href="%s">créer un compte</a> pour sauvegarder <a href="%s">%s</a> dans votre <a href="%s">liste de souhaits</a> !';
+$_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">liste de souhaits</a> avec succès !';
+$_['text_remove'] = 'Votre liste de souhaits a été modifiée avec succès !';
 $_['text_empty'] = 'Votre liste de souhaits est vide.';
 // Column
 $_['column_image'] = 'Image';

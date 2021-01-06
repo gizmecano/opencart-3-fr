@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Commandes';
 // Text
-$_['text_success'] = 'Les commandes ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les commandes ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des commandes';
 $_['text_add'] = 'Ajouter une commande';
 $_['text_edit'] = 'Modifier une commande';
@@ -49,28 +49,28 @@ $_['text_ip'] = 'Adresse IP';
 $_['text_forwarded_ip'] = 'Adresse IP suivie';
 $_['text_user_agent'] = 'Agent utilisateur';
 $_['text_accept_language'] = 'Langue acceptée';
-$_['text_order_id'] = 'Commande n°&#160;: ';
-$_['text_website'] = 'Site internet&#160;: ';
-$_['text_invoice_no'] = 'Facture n°&#160;: ';
-$_['text_invoice_date'] = 'Date de facturation&#160;: ';
-$_['text_sku'] = 'SKU&#160;: ';
-$_['text_upc'] = 'UPC&#160;: ';
-$_['text_ean'] = 'EAN&#160;: ';
-$_['text_jan'] = 'JAN&#160;: ';
-$_['text_isbn'] = 'ISBN&#160;: ';
-$_['text_mpn'] = 'MPN&#160;: ';
+$_['text_order_id'] = 'Commande n° : ';
+$_['text_website'] = 'Site internet : ';
+$_['text_invoice_no'] = 'Facture n° : ';
+$_['text_invoice_date'] = 'Date de facturation : ';
+$_['text_sku'] = 'SKU : ';
+$_['text_upc'] = 'UPC : ';
+$_['text_ean'] = 'EAN : ';
+$_['text_jan'] = 'JAN : ';
+$_['text_isbn'] = 'ISBN : ';
+$_['text_mpn'] = 'MPN : ';
 $_['text_missing'] = 'Commandes manquantes';
 $_['text_default'] = 'Par défaut';
 $_['text_product'] = 'Ajouter produit(s)';
 $_['text_voucher'] = 'Ajouter bon(s) d’achat';
 $_['text_shipping'] = 'Livraison';
 $_['text_contact'] = 'Contact';
-$_['text_reward_added'] = 'Les points de fidélité ont été ajoutés avec succès&#160;!';
-$_['text_reward_removed'] = 'Les points de fidélité ont été retirés avec succès&#160;!';
-$_['text_commission_added'] = 'La commission a été ajoutée avec succès&#160;!';
-$_['text_commission_removed'] = 'La commission a été retirée avec succès&#160;!';
-$_['text_restock'] = 'Les produits ont été réapprovisionnés avec succès&#160;!';
-$_['text_upload'] = 'Le transfert du fichier a réussi&#160;!';
+$_['text_reward_added'] = 'Les points de fidélité ont été ajoutés avec succès !';
+$_['text_reward_removed'] = 'Les points de fidélité ont été retirés avec succès !';
+$_['text_commission_added'] = 'La commission a été ajoutée avec succès !';
+$_['text_commission_removed'] = 'La commission a été retirée avec succès !';
+$_['text_restock'] = 'Les produits ont été réapprovisionnés avec succès !';
+$_['text_upload'] = 'Le transfert du fichier a réussi !';
 $_['text_picklist'] = 'Bordereau d’expédition';
 // Column
 $_['column_order_id'] = 'Commande n°';
@@ -134,7 +134,7 @@ $_['entry_date_modified'] = 'Date de modification';
 // Help
 $_['help_override'] = 'Si la commande d’un client est bloquée pour une modification du statut de commande en raison d’une extension anti-fraude, vous pouvez activer l’outrepassement.';
 // Error
-$_['error_warning'] = 'Attention&#160;: veuillez vérifier attentivement les erreurs dans le formulaire&#160;!';
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les commandes&#160;!';
-$_['error_action'] = 'Attention&#160;: cette action ne peut pas être terminée&#160;!';
-$_['error_filetype'] = 'Attention&#160;: le type de fichier est incorrect&#160;!';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les commandes !';
+$_['error_action'] = 'Attention : cette action ne peut pas être terminée !';
+$_['error_filetype'] = 'Attention : le type de fichier est incorrect !';

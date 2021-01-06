@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Total des ventes';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le tableau de bord des ventes a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le tableau de bord des ventes a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le tableau de bord des ventes';
 $_['text_view'] = 'Voir plus…';
 // Entry
@@ -24,4 +24,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_width'] = 'Largeur';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le tableau de bord des ventes&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord des ventes !';

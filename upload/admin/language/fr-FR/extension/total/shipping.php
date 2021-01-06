@@ -16,11 +16,11 @@
 $_['heading_title'] = 'Livraison';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le total des livraisons a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le total des livraisons a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le total des livraisons';
 // Entry
 $_['entry_estimator'] = 'Estimation des frais de livraison';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le total des livraisons&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des livraisons !';

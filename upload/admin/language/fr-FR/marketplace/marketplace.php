@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Cybermarché des extensions';
 // Text
-$_['text_success'] = 'Les extensions ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les extensions ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des extensions';
 $_['text_filter'] = 'Filtre';
 $_['text_search'] = 'Rechercher des extensions et des thèmes';
@@ -40,7 +40,7 @@ $_['text_rating'] = 'Notes';
 $_['text_reviews'] = 'Évaluations';
 $_['text_compatibility'] = 'Compatibilité';
 $_['text_downloaded'] = 'Téléchargé';
-$_['text_member_since'] = 'Membre depuis&#160;: :';
+$_['text_member_since'] = 'Membre depuis : :';
 $_['text_price'] = 'Prix';
 $_['text_partner'] = 'Développé par un partenaire d’OpenCart';
 $_['text_support'] = '12 mois de support gratuit';
@@ -51,7 +51,7 @@ $_['text_download'] = 'Téléchargement en cours';
 $_['text_install'] = 'Installation en cours';
 $_['text_comment_add'] = 'Laisser votre commentaire';
 $_['text_write'] = 'Rédiger votre commentaire ici :';
-$_['text_purchase'] = 'Veuillez confirmer votre identité&#160;!';
+$_['text_purchase'] = 'Veuillez confirmer votre identité !';
 $_['text_pin'] = 'Veuillez saisir votre numéro PIN à 4 chiffres. Ce code PIN est conçu pour protéger votre compte.';
 $_['text_secure'] = 'Ne transmettez pas votre numéro PIN à qui que ce soit, y compris les développeurs. Si vous avez besoin qu’un vendeur d’extensions en installe une pour vous, vous devriez envoyer par courrier électronique l’extension requise.';
 $_['text_name'] = 'Nom du téléchargement';
@@ -73,8 +73,8 @@ $_['button_get_support'] = 'Obtenir l’aide du support';
 $_['button_comment'] = 'Commentaire';
 $_['button_reply'] = 'Répondre';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les extensions&#160;!';
-$_['error_opencart'] = 'Attention&#160;: vous devez saisir vos informations de l’interface de programmation (API) du Cybermarché OpenCart avant de pouvoir faire tout achat&#160;!';
-$_['error_install'] = 'Attention&#160;: l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer&#160;!';
-$_['error_purchase'] = 'Attention&#160;: l’extension ne peut pas être achetée&#160;!';
-$_['error_download'] = 'Attention&#160;: l’extension ne peut pas être téléchargée&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
+$_['error_opencart'] = 'Attention : vous devez saisir vos informations de l’interface de programmation (API) du Cybermarché OpenCart avant de pouvoir faire tout achat !';
+$_['error_install'] = 'Attention : l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer !';
+$_['error_purchase'] = 'Attention : l’extension ne peut pas être achetée !';
+$_['error_download'] = 'Attention : l’extension ne peut pas être téléchargée !';

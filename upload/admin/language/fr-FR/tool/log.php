@@ -15,8 +15,8 @@
 // Heading
 $_['heading_title'] = 'Journal des erreurs';
 // Text
-$_['text_success'] = 'Le journal des erreurs a été nettoyé avec succès&#160;!';
+$_['text_success'] = 'Le journal des erreurs a été nettoyé avec succès !';
 $_['text_list'] = 'Liste des erreurs';
 // Error
-$_['error_warning'] = 'Attention&#160;: le journal des erreurs %s est %s&#160;!';
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de supprimer les messages d’erreurs&#160;!';
+$_['error_warning'] = 'Attention : le journal des erreurs %s est %s !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de supprimer les messages d’erreurs !';

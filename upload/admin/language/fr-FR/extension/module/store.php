@@ -16,10 +16,10 @@
 $_['heading_title'] = 'Boutiques';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le module des boutiques a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le module des boutiques a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le module des boutiques';
 // Entry
 $_['entry_admin'] = 'Administrateurs seulement';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le module des boutiques&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des boutiques !';

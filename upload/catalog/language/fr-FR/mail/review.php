@@ -15,7 +15,7 @@
 // Text
 $_['text_subject'] = '%s - Évaluation de produit';
 $_['text_waiting'] = 'Vous avez une nouvelle évaluation de produit en attente.';
-$_['text_product'] = 'Produit&#160;: %s';
-$_['text_reviewer'] = 'Commentateur&#160;: %s';
-$_['text_rating'] = 'Estimation&#160;: %s';
-$_['text_review'] = 'Texte de l’évaluation&#160;: ';
+$_['text_product'] = 'Produit : %s';
+$_['text_reviewer'] = 'Commentateur : %s';
+$_['text_rating'] = 'Estimation : %s';
+$_['text_review'] = 'Texte de l’évaluation : ';

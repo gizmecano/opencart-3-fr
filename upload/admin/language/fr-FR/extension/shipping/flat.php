@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Livraison forfaitaire';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'La livraison forfaitaire a été modifiée avec succès&#160;!';
+$_['text_success'] = 'La livraison forfaitaire a été modifiée avec succès !';
 $_['text_edit'] = 'Modifier la livraison forfaitaire';
 // Entry
 $_['entry_cost'] = 'Coût';
@@ -25,4 +25,4 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier la livraison forfaitaire&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison forfaitaire !';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Commandes récurrentes';
 // Text
-$_['text_success'] = 'Les commandes récurrentes ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les commandes récurrentes ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des commandes récurrentes';
 $_['text_filter'] = 'Filtre';
 $_['text_recurring_detail'] = 'Détails de commande récurrente';
@@ -46,7 +46,7 @@ $_['text_status_4'] = 'Suspendu';
 $_['text_status_5'] = 'Expiré';
 $_['text_status_6'] = 'En attente';
 $_['text_transactions'] = 'Transactions';
-$_['text_cancel_confirm'] = 'L’annulation de commande récurrente ne peut pas être annulée&#160;! Veuillez confirmer que vous souhaitez le faire&#160?';
+$_['text_cancel_confirm'] = 'L’annulation de commande récurrente ne peut pas être annulée ! Veuillez confirmer que vous souhaitez le faire&#160?';
 $_['text_transaction_date_added'] = 'Date d’ajout';
 $_['text_transaction_payment'] = 'Paiement';
 $_['text_transaction_outstanding_payment'] = 'Paiement en suspens';
@@ -86,5 +86,5 @@ $_['entry_recurring'] = 'Profil récurrent';
 $_['entry_payment_method'] = 'Moyen de paiement';
 $_['entry_cancel_payment'] = 'Annuler le paiement';
 // Error
-$_['error_not_cancelled'] = 'Attention&#160;: erreur&#160;: %s';
-$_['error_not_found'] = 'Attention&#160;: le profil récurrent ne peut pas être annulé';
+$_['error_not_cancelled'] = 'Attention : erreur : %s';
+$_['error_not_found'] = 'Attention : le profil récurrent ne peut pas être annulé';

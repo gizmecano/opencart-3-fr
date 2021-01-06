@@ -24,5 +24,5 @@ $_['entry_password'] = 'Mot de passe';
 // Button
 $_['button_login'] = 'Se connecter';
 // Error
-$_['error_login'] = 'Attention&#160;: correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
-$_['error_token'] = 'Attention&#160;: session invalide. Veuillez ouvrir une nouvelle session.';
+$_['error_login'] = 'Attention : correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
+$_['error_token'] = 'Attention : session invalide. Veuillez ouvrir une nouvelle session.';

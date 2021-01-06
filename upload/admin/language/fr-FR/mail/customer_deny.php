@@ -13,7 +13,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_subject'] = '%s - La création de votre compte a été refusée&#160;!';
-$_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s&#160;!';
+$_['text_subject'] = '%s - La création de votre compte a été refusée !';
+$_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s !';
 $_['text_denied'] = 'Malheureusement, votre requête a été refusée. Pour plus d’information, vous pouvez contacter le propriétaire de la boutique ici :';
 $_['text_thanks'] = 'Merci, ';

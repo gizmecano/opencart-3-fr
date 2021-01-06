@@ -13,18 +13,18 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'Les extensions ont été modifiées avec succès&#160;!';
-$_['text_unzip'] = 'Extraction des fichiers&#160;!';
-$_['text_move'] = 'Copie des fichiers&#160;!';
-$_['text_xml'] = 'Application des changements&#160;!';
-$_['text_remove'] = 'Suppression des fichiers temporaires&#160;!';
+$_['text_success'] = 'Les extensions ont été modifiées avec succès !';
+$_['text_unzip'] = 'Extraction des fichiers !';
+$_['text_move'] = 'Copie des fichiers !';
+$_['text_xml'] = 'Application des changements !';
+$_['text_remove'] = 'Suppression des fichiers temporaires !';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les extensions&#160;!';
-$_['error_install'] = 'Attention&#160;: l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer&#160;!';
-$_['error_unzip'] = 'Attention&#160;: le fichier ZIP n’a pas pu être ouvert&#160;!';
-$_['error_file'] = 'Attention&#160;: le fichier d’installation est introuvable&#160;!';
-$_['error_directory'] = 'Attention&#160;: le répertoire d’installation est introuvable&#160;!';
-$_['error_code'] = 'Attention&#160;: la modification XML nécessite un code d’identification unique&#160;!';
-$_['error_xml'] = 'Attention&#160;: la modification %s est déjà utilisée&#160;!';
-$_['error_exists'] = 'Attention&#160;: le fichier %s existe déjà&#160;!';
-$_['error_allowed'] = 'Attention&#160;: le répertoire % s n’est pas autorisé en écriture&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
+$_['error_install'] = 'Attention : l’installation d’extension est en cours, veuillez patienter quelques secondes avant d’essayer de l’installer !';
+$_['error_unzip'] = 'Attention : le fichier ZIP n’a pas pu être ouvert !';
+$_['error_file'] = 'Attention : le fichier d’installation est introuvable !';
+$_['error_directory'] = 'Attention : le répertoire d’installation est introuvable !';
+$_['error_code'] = 'Attention : la modification XML nécessite un code d’identification unique !';
+$_['error_xml'] = 'Attention : la modification %s est déjà utilisée !';
+$_['error_exists'] = 'Attention : le fichier %s existe déjà !';
+$_['error_allowed'] = 'Attention : le répertoire % s n’est pas autorisé en écriture !';

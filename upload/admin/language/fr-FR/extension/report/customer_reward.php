@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des points de fidélité des clients';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des points de fidélité des clients';
-$_['text_success'] = 'Le rapport des points de fidélité des clients a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le rapport des points de fidélité des clients a été modifié avec succès !';
 $_['text_filter'] = 'Filtre';
 // Column
 $_['column_customer'] = 'Nom du client';
@@ -35,4 +35,4 @@ $_['entry_customer'] = 'Client';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des points de fidélité des clients&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des points de fidélité des clients !';

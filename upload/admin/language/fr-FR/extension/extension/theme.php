@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Thèmes';
 // Text
-$_['text_success'] = 'Les thèmes ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les thèmes ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des thèmes';
 // Column
 $_['column_name'] = 'Nom du thème';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les thèmes&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les thèmes !';

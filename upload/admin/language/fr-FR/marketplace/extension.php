@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Extensions';
 // Text
-$_['text_success'] = 'Les extensions ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les extensions ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des extensions';
 $_['text_type'] = 'Choisir le type d’extension';
 $_['text_filter'] = 'Filtre';

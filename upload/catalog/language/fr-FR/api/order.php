@@ -15,14 +15,14 @@
 // Text
 $_['text_success'] = 'Votre commande a été modifiée avec succès';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
-$_['error_customer'] = 'Attention&#160;: les détails de l’utilisateur doivent avoir été configurés';
-$_['error_payment_address'] = 'Attention&#160;: une adresse de paiement est requise';
-$_['error_payment_method'] = 'Attention&#160;: un moyen de paiement est requis&#160;!';
-$_['error_no_payment'] = 'Attention&#160;: aucune option de paiement n’est disponible&#160;!';
-$_['error_shipping_address'] = 'Attention&#160;: une adresse de livraison est requise&#160;!';
-$_['error_shipping_method'] = 'Attention&#160;: un mode de livraison est requis&#160;!';
-$_['error_no_shipping'] = 'Attention&#160;: aucune option d’expédition n’est disponible&#160;!';
-$_['error_stock'] = 'Attention&#160;: les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock&#160;!';
-$_['error_minimum'] = 'Attention&#160;: le montant minimum d’une commande pour %s est %s&#160;!';
-$_['error_not_found'] = 'Attention&#160;: la commande est introuvable&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
+$_['error_customer'] = 'Attention : les détails de l’utilisateur doivent avoir été configurés';
+$_['error_payment_address'] = 'Attention : une adresse de paiement est requise';
+$_['error_payment_method'] = 'Attention : un moyen de paiement est requis !';
+$_['error_no_payment'] = 'Attention : aucune option de paiement n’est disponible !';
+$_['error_shipping_address'] = 'Attention : une adresse de livraison est requise !';
+$_['error_shipping_method'] = 'Attention : un mode de livraison est requis !';
+$_['error_no_shipping'] = 'Attention : aucune option d’expédition n’est disponible !';
+$_['error_stock'] = 'Attention : les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock !';
+$_['error_minimum'] = 'Attention : le montant minimum d’une commande pour %s est %s !';
+$_['error_not_found'] = 'Attention : la commande est introuvable !';

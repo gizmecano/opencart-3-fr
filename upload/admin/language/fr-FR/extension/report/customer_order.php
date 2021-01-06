@@ -17,7 +17,7 @@ $_['heading_title'] = 'Rapport des commandes des clients';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des commandes des clients';
-$_['text_success'] = 'Le rapport des commandes des clients a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le rapport des commandes des clients a été modifié avec succès !';
 $_['text_filter'] = 'Filtre';
 $_['text_all_status'] = 'Tous les statuts';
 // Column
@@ -37,4 +37,4 @@ $_['entry_status'] = 'Statut de la commande';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des commandes des clients&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des commandes des clients !';

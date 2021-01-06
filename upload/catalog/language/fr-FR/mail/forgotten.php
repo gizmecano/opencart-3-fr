@@ -15,5 +15,5 @@
 // Text
 $_['text_subject'] = '%s - Requête de réinitialisation de mot de passe';
 $_['text_greeting'] = 'Un nouveau mot de passe a été demandé pour le compte client %s.';
-$_['text_change'] = 'Pour réinitialiser votre mot de passe, cliquez sur le lien ci-dessous&#160;: ';
-$_['text_ip'] = 'L’adresse IP utilisée pour réaliser cette requête était&#160;: %s';
+$_['text_change'] = 'Pour réinitialiser votre mot de passe, cliquez sur le lien ci-dessous : ';
+$_['text_ip'] = 'L’adresse IP utilisée pour réaliser cette requête était : %s';

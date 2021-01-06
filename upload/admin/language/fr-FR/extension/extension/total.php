@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Totaux de commande';
 // Text
-$_['text_success'] = 'Les totaux de commande ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les totaux de commande ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des totaux de commande';
 // Column
 $_['column_name'] = 'Totaux de commande';
@@ -23,4 +23,4 @@ $_['column_status'] = 'Statut';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les totaux de commande&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les totaux de commande !';

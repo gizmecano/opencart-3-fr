@@ -18,16 +18,16 @@ $_['heading_title'] = 'Informations de mon compte';
 $_['text_account'] = 'Compte';
 $_['text_edit'] = 'Modifier les informations';
 $_['text_your_details'] = 'Détails personnels';
-$_['text_success'] = 'Votre compte a été modifié avec succès&#160;!';
+$_['text_success'] = 'Votre compte a été modifié avec succès !';
 // Entry
 $_['entry_firstname'] = 'Prénom';
 $_['entry_lastname'] = 'Nom de famille';
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_telephone'] = 'Numéro de téléphone';
 // Error
-$_['error_exists'] = 'Attention&#160;: cette adresse électronique est déjà utilisée&#160;!';
-$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
-$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
-$_['error_email'] = 'Attention&#160;: l’adresse électronique semble être invalide&#160;!';
-$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_custom_field'] = 'Attention&#160;: %s est requis&#160;!';
+$_['error_exists'] = 'Attention : cette adresse électronique est déjà utilisée !';
+$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
+$_['error_email'] = 'Attention : l’adresse électronique semble être invalide !';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_custom_field'] = 'Attention : %s est requis !';

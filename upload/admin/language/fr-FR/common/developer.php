@@ -15,10 +15,10 @@
 // Heading
 $_['heading_title'] = 'Paramètres pour développeur';
 // Text
-$_['text_success'] = 'Les paramètres pour développeur ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les paramètres pour développeur ont été modifiés avec succès !';
 $_['text_theme'] = 'Thème';
 $_['text_sass'] = 'SASS';
-$_['text_cache'] = 'Le cache %s a été vidé avec succès&#160;!';
+$_['text_cache'] = 'Le cache %s a été vidé avec succès !';
 // Column
 $_['column_component'] = 'Composante';
 $_['column_action'] = 'Action';
@@ -30,4 +30,4 @@ $_['entry_cache'] = 'Cache';
 $_['button_on'] = 'Activé';
 $_['button_off'] = 'Désactivé';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les paramètres pour développeur&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres pour développeur !';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Statuts des retours';
 // Text
-$_['text_success'] = 'Les statuts de retour ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les statuts de retour ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des statuts de retour';
 $_['text_add'] = 'Ajouter un statut de retour';
 $_['text_edit'] = 'Modifier un statut de retour';
@@ -25,7 +25,7 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du statut de retour';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les statuts de retour&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom du statut de retour doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_default'] = 'Attention&#160;: ce statut de retour ne peut pas être supprimé car il est actuellement assigné comme statut de retour par défaut&#160;!';
-$_['error_return'] = 'Attention&#160;: ce statut de retour ne peut pas être supprimé car il est actuellement appliqué à %s retours&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statuts de retour !';
+$_['error_name'] = 'Attention : le nom du statut de retour doit contenir entre 3 et 32 caractères !';
+$_['error_default'] = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement assigné comme statut de retour par défaut !';
+$_['error_return'] = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement appliqué à %s retours !';

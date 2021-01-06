@@ -13,7 +13,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_success'] = 'La déduction de votre bon de réduction a été appliquée avec succès&#160;!';
+$_['text_success'] = 'La déduction de votre bon de réduction a été appliquée avec succès !';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API)&#160;!';
-$_['error_coupon'] = 'Attention&#160;: le bon de réduction n’est pas valide, a expiré ou a déjà été utilisé&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’accéder à l’interface de programmation (API) !';
+$_['error_coupon'] = 'Attention : le bon de réduction n’est pas valide, a expiré ou a déjà été utilisé !';

@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Statuts de stock';
 // Text
-$_['text_success'] = 'Les statuts de stock ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les statuts de stock ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des statuts de stock';
 $_['text_add'] = 'Ajouter un statut de stock';
 $_['text_edit'] = 'Modifier un statut de stock';
@@ -25,6 +25,6 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du statut de stock';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les statuts de stock&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom du statut de stock doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_product'] = 'Attention&#160;: ce statut de stock ne peut pas être supprimé car il est actuellement appliqué à %s produits&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statuts de stock !';
+$_['error_name'] = 'Attention : le nom du statut de stock doit contenir entre 3 et 32 caractères !';
+$_['error_product'] = 'Attention : ce statut de stock ne peut pas être supprimé car il est actuellement appliqué à %s produits !';

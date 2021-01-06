@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Autres extensions';
 // Text
-$_['text_success'] = 'Les autres extensions ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les autres extensions ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des autres extensions';
 // Column
 $_['column_name'] = 'Autres extensions';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les autres extensions&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les autres extensions !';

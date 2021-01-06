@@ -17,11 +17,11 @@ $_['heading_title'] = 'Rapport des produits consultés';
 // Text
 $_['text_extension'] = 'Extensions';
 $_['text_edit'] = 'Modifier le rapport des produits consultés';
-$_['text_success'] = 'Le rapport des produits consultés a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le rapport des produits consultés a été modifié avec succès !';
 // Column
 $_['column_name'] = 'Nom du produit';
 $_['column_model'] = 'Référence';
 $_['column_viewed'] = 'Consulté';
 $_['column_percent'] = 'Pourcentage';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le rapport des produits consultés&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le rapport des produits consultés !';

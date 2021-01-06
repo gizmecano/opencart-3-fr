@@ -15,4 +15,4 @@
 // Heading
 $_['heading_title'] = 'Produits phares';
 // Text
-$_['text_tax'] = 'Hors taxes&#160;: ';
+$_['text_tax'] = 'Hors taxes : ';
