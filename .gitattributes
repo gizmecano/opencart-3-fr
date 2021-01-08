@@ -2,10 +2,10 @@
 * text=auto
 
 # Ignored files for export
-.editorconfig           export-ignore
-.git*                   export-ignore
-[Dd]esktop.ini          export-ignore
-/.github/ISSUE_TEMPLATE export-ignore
+.editorconfig   export-ignore
+.git*           export-ignore
+[Dd]esktop.ini  export-ignore
+/.github/       export-ignore
 
 # Files always having CRLF line endings
 *.php text  eol=crlf
