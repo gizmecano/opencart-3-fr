@@ -17,8 +17,8 @@ This project succeeds to [**opencart-2-fr**](https://github.com/gizmecano/openca
 This language pack has been developed with some basic principles in mind:
 
 - **idiomatic translations**: translation strings did not have been automatically generated, but by understanding the context in order to draft an appropriate formulation
-- **native `utf-8` support**: accented characters and most common typographic signs use standard `utf-8` encoding
-- **proper typographics usages**: typographic rules and practices used in the French language redaction (spaces and punctuation marks in particular) are respected
+- **native `utf-8` support**: accented characters and typographic signs use standard `utf-8` encoding
+- **proper typographics usages**: typographic rules and practices used in the French language redaction (thin spaces and punctuation marks in particular) are respected
 - **understated technical jargon**: technical references are translated in the most understandable manner possible
 - **gender-neutral formulations**: in order to be as inclusive as possible, translations preferably use language that does not use the gender of users or visitors
 
