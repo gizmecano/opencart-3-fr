@@ -24,8 +24,8 @@ $_['column_name'] = 'Nom du groupe d’utilisateurs';
 $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du groupe d’utilisateurs';
-$_['entry_access'] = 'Permission d’accès';
-$_['entry_modify'] = 'Modifier la permission d’accès';
+$_['entry_access'] = 'Accès autorisés pour ce groupe d’utilisateurs';
+$_['entry_modify'] = 'Modifications autorisées pour ce groupe d’utilisateurs';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les groupes d’utilisateurs !';
 $_['error_name'] = 'Attention : le nom du groupe d’utilisateurs doit contenir entre 3 et 64 caractères !';
