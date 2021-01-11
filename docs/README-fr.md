@@ -26,8 +26,8 @@ Ce pack linguistique a été développé avec certains principes de base à l'es
 
 Contrairement au projet qui l'a précédé, ce pack de langue est disponible en deux variantes différentes, toutes deux développées à partir d'une même unique plateforme commune.
 
-  1. la [**variante libre**](https://github.com/gizmecano/opencart-3-fr) contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
-  2. la **version complète** (actuellement non publiée) contient des fichiers supplémentaires requis pour une traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
+  1. la **variante libre** (hébergée sur GitHub) contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
+  2. la **version complète** (disponible on OpenCart Marketplace) contient des fichiers supplémentaires requis pour la traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
 
 Cette distinction est due à plusieurs facteurs:
 
@@ -38,7 +38,12 @@ Les fichiers uniquement présents dans la version complète sont listés dans un
 
 Pour vérifier quelle version de chaque variante est compatible avec les versions principales d'Opencart, un [tableau de compatibilité](compatibility.csv) est disponible.
 
-> ⚠ En attendant l'activation finale d'un compte approprié, la version complète ne peut actuellement pas être publiée sur le [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension).
+### Démonstration
+
+Pour visualiser ce pack linguistique en action, vous pouvez consulter [le site de démonstration](http://ocf.gizmecano.net/). L'accès à la boutique en ligne (_frontend_) n'est pas restreint, mais pour observer le rendu dans l'interface d'administration (_backend_), vous devrez vous connecter avec l'accès _invité_ **limité** suivant :
+
+  - _Nom d’utilisateur_: `guest`
+  - _Mot de passe_: `public.guest`
 
 ## Installation
 
@@ -55,7 +60,7 @@ Une fois cela fait, afficher l'interface d'administration d'OpenCart et suivre l
   - _Code_ : `fr`
   - _Locale_ : `fr,fr-FR,fr_FR.UTF-8,french`
   - _Status_ : `Enabled`
-  - _Sort Order_: `1`
+  - _Sort Order_: `1` (ou tout autre valeur numérique qui correspond à l'ordre des packs linguistiques choisi dans le cas où d'autres packs sont activés)
 4. Enregistrer ces modifications
 5. Aller dans la rubrique `System -> Settings`
 6. Cliquer sur l'onglet `Local` et définir les langues standards pour la boutique (_Language_) et le panneau d'administration (_Administration language_) : la langue de l'administration ne changera pas **avant** cette étape)
@@ -93,7 +98,7 @@ opencart-3-fr : un pack de localisation française _opensource_ pour la platefor
 
 --------------------------------------------------------------------------------
 
-Copyright © 2019-2020 P. Mergey
+Copyright © 2019-2021 P. Mergey
 
 Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier au titre des clauses de la [Licence publique générale GNU](LICENSE.md), telle que publiée par la Free Software Foundation, soit la version 3 de la licence ou, à votre discrétion, une version ultérieure quelconque.
 
