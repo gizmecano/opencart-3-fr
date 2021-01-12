@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Bons de réduction';
 // Text
-$_['text_success'] = 'Les bons de réduction ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les bons de réduction ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des bons de réduction';
 $_['text_add'] = 'Ajouter un bon de réduction';
 $_['text_edit'] = 'Modifier un bon de réduction';
@@ -58,7 +58,7 @@ $_['help_product'] = 'Choisissez les produits spécifiques auxquels s’applique
 $_['help_uses_total'] = 'Le nombre maximal de fois que le bon de réduction pourra être utilisé par n’importe quel client. Laissez le champ vide pour une utilisation illimitée.';
 $_['help_uses_customer'] = 'Le nombre maximal de fois que le bon de réduction pourra être utilisé par un client unique. Laissez le champ vide pour une utilisation illimitée';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les bons de réduction&#160;!';
-$_['error_exists'] = 'Attention&#160;: ce bon de réduction est déjà utilisé&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom du bon de réduction doit contenir entre 3 et 128 caractères&#160;!';
-$_['error_code'] = 'Attention&#160;: le code doit contenir entre 3 et 10 caractères&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bons de réduction !';
+$_['error_exists'] = 'Attention : ce bon de réduction est déjà utilisé !';
+$_['error_name'] = 'Attention : le nom du bon de réduction doit contenir entre 3 et 128 caractères !';
+$_['error_code'] = 'Attention : le code doit contenir entre 3 et 10 caractères !';

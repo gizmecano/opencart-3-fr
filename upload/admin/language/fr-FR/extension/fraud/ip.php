@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Antifraude IP';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'L’antifraude IP a été modifiée avec succès&#160;!';
+$_['text_success'] = 'L’antifraude IP a été modifiée avec succès !';
 $_['text_edit'] = 'Modifier l’antifraude IP';
 $_['text_ip_add'] = 'Ajouter une adresse IP';
 $_['text_ip_list'] = 'Liste des adresses IP frauduleuses';
@@ -32,4 +32,4 @@ $_['entry_order_status'] = 'Statut de commande';
 // Help
 $_['help_order_status'] = 'Les clients qui ont une adresse IP bannie sur leurs comptes se verront attribuer ce statut de commande et ne seront pas autorisés à atteindre automatiquement le statut terminé.';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier l’antifraude IP&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’antifraude IP !';

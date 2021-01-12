@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,6 +15,6 @@
 // Text
 $_['text_title'] = 'Chèque ou mandat';
 $_['text_instruction'] = 'Instructions de paiement';
-$_['text_payable'] = 'Payable à&#160;: ';
-$_['text_address'] = 'À envoyer à&#160;: ';
+$_['text_payable'] = 'Payable à : ';
+$_['text_address'] = 'À envoyer à : ';
 $_['text_payment'] = 'Votre commande sera envoyée après réception de votre paiement.';

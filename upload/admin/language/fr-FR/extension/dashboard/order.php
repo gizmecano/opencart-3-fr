@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Total des commandes';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le tableau de bord des commandes a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le tableau de bord des commandes a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le tableau de bord des commandes';
 $_['text_view'] = 'Voir plus…';
 // Entry
@@ -24,4 +24,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_width'] = 'Largeur';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le tableau de bord des commandes&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord des commandes !';

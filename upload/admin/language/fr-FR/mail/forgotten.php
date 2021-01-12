@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,5 +15,5 @@
 // Text
 $_['text_subject'] = '%s - Réinitialisation du mot de passe requise';
 $_['text_greeting'] = 'Un nouveau mot de passe a été demandé pour l’administration de %s.';
-$_['text_change'] = 'Pour réinitialiser votre mot de passe, cliquez sur le lien ci-dessous&#160;: ';
-$_['text_ip'] = 'L’adresse IP utilisée pour réaliser cette requête était&#160;: ';
+$_['text_change'] = 'Pour réinitialiser votre mot de passe, cliquez sur le lien ci-dessous : ';
+$_['text_ip'] = 'L’adresse IP utilisée pour réaliser cette requête était : ';

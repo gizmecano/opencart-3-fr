@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -17,6 +17,6 @@ $_['heading_title'] = 'Inscription à la lettre d’informations';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_newsletter'] = 'Lettre d’informations';
-$_['text_success'] = 'Votre inscription à la lettre d’informations a été modifiée avec succès&#160;!';
+$_['text_success'] = 'Votre inscription à la lettre d’informations a été modifiée avec succès !';
 // Entry
 $_['entry_newsletter'] = 'S’abonner';

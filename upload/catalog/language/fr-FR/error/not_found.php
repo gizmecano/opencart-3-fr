@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -13,6 +13,6 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'La page demandée est introuvable&#160;!';
+$_['heading_title'] = 'La page demandée est introuvable !';
 // Text
-$_['text_error'] = 'Attention&#160;: la page demandée est introuvable.';
+$_['text_error'] = 'Attention : la page demandée est introuvable.';

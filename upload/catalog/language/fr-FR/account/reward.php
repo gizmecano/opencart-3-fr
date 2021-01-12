@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -21,5 +21,5 @@ $_['column_points'] = 'Points de fidélité';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_reward'] = 'Points de fidélité';
-$_['text_total'] = 'Votre total de points de fidélité est de&#160;: ';
-$_['text_empty'] = 'Vous n’avez aucun point de fidélité&#160;!';
+$_['text_total'] = 'Votre total de points de fidélité est de : ';
+$_['text_empty'] = 'Vous n’avez aucun point de fidélité !';

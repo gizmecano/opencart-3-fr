@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,14 +15,14 @@
 // Heading
 $_['heading_title'] = 'Panier d’achat';
 // Text
-$_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">panier d’achat</a> avec succès&#160;!';
-$_['text_remove'] = 'Votre panier d’achat a été modifié avec succès&#160;!';
-$_['text_login'] = 'Attention&#160;: vous devez <a href="%s">vous connecter</a> ou <a href="%s">créer un compte</a> pour consulter les prix&#160;!';
+$_['text_success'] = 'Vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">panier d’achat</a> avec succès !';
+$_['text_remove'] = 'Votre panier d’achat a été modifié avec succès !';
+$_['text_login'] = 'Attention : vous devez <a href="%s">vous connecter</a> ou <a href="%s">créer un compte</a> pour consulter les prix !';
 $_['text_items'] = '%s articles(s) - %s';
-$_['text_points'] = 'Points de fidélité&#160;: %s';
-$_['text_next'] = 'Que souhaitez-vous faire ensuite&#160?';
+$_['text_points'] = 'Points de fidélité : %s';
+$_['text_next'] = 'Que souhaitez-vous faire ensuite ?';
 $_['text_next_choice'] = 'Choisissez si vous souhaitez utiliser un bon de réduction ou un bon d’achat pour estimer les frais d’expédition.';
-$_['text_empty'] = 'Votre panier d’achat est vide&#160;!';
+$_['text_empty'] = 'Votre panier d’achat est vide !';
 $_['text_day'] = 'jour';
 $_['text_week'] = 'semaine';
 $_['text_semi_month'] = 'demi-mois';
@@ -44,8 +44,8 @@ $_['column_quantity'] = 'Quantité';
 $_['column_price'] = 'Prix unitaire';
 $_['column_total'] = 'Total';
 // Error
-$_['error_stock'] = 'Attention&#160;: les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock&#160;!';
-$_['error_minimum'] = 'Attention&#160;: le montant minimum d’une commande pour %s est %s&#160;!';
-$_['error_required'] = 'Attention&#160;: %s est requis&#160;!';
-$_['error_product'] = 'Attention&#160;: il n’y a aucun produit dans votre panier&#160;!';
-$_['error_recurring_required'] = 'Attention&#160;: veuillez sélectionner un paiement récurrent&#160;!';
+$_['error_stock'] = 'Attention : les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock !';
+$_['error_minimum'] = 'Attention : le montant minimum d’une commande pour %s est %s !';
+$_['error_required'] = 'Attention : %s est requis !';
+$_['error_product'] = 'Attention : il n’y a aucun produit dans votre panier !';
+$_['error_recurring_required'] = 'Attention : veuillez sélectionner un paiement récurrent !';

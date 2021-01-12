@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -14,4 +14,4 @@
  *****************************************************************************/
 // Text
 $_['text_title'] = 'Livraison basée sur le poids';
-$_['text_weight'] = 'Poids&#160;: ';
+$_['text_weight'] = 'Poids : ';

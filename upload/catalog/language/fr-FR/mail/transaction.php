@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,5 +15,5 @@
 // Text
 $_['text_subject'] = '%s - Commission d’affilié';
 $_['text_received'] = 'Vous avez reçu un paiement de commision du programme d’affiliation %s';
-$_['text_amount'] = 'Vous avez reçu&#160;: ';
-$_['text_total'] = 'Votre montant total de commision est maintenant&#160;: ';
+$_['text_amount'] = 'Vous avez reçu : ';
+$_['text_total'] = 'Votre montant total de commision est maintenant : ';

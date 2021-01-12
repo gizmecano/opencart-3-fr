@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -14,7 +14,7 @@
  *****************************************************************************/
 // Text
 $_['text_items'] = '%s article(s) - %s';
-$_['text_empty'] = 'Votre panier est vide&#160;!';
+$_['text_empty'] = 'Votre panier est vide !';
 $_['text_cart'] = 'Voir le panier';
 $_['text_checkout'] = 'Valider la commande';
 $_['text_recurring'] = 'Profil de paiement';

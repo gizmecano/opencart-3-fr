@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -16,17 +16,17 @@
 $_['heading_title'] = 'Validation de commande';
 // Text
 $_['text_cart'] = 'Panier d’achat';
-$_['text_checkout_option'] = 'Étape %s&#160;: options de la commande';
-$_['text_checkout_account'] = 'Étape %s&#160;: compte et détails de facturation';
-$_['text_checkout_payment_address'] = 'Étape %s&#160;: détails de facturation';
-$_['text_checkout_shipping_address'] = 'Étape %s&#160;: détails de livraison';
-$_['text_checkout_shipping_method'] = 'Étape %s&#160;: mode de livraison';
-$_['text_checkout_payment_method'] = 'Étape %s&#160;: moyen de paiement';
-$_['text_checkout_confirm'] = 'Étape %s&#160;: confirmer la commande';
+$_['text_checkout_option'] = 'Étape %s : options de la commande';
+$_['text_checkout_account'] = 'Étape %s : compte et détails de facturation';
+$_['text_checkout_payment_address'] = 'Étape %s : détails de facturation';
+$_['text_checkout_shipping_address'] = 'Étape %s : détails de livraison';
+$_['text_checkout_shipping_method'] = 'Étape %s : mode de livraison';
+$_['text_checkout_payment_method'] = 'Étape %s : moyen de paiement';
+$_['text_checkout_confirm'] = 'Étape %s : confirmer la commande';
 $_['text_modify'] = 'Modifier →';
 $_['text_new_customer'] = 'Nouveau client';
 $_['text_returning_customer'] = 'Compte client existant';
-$_['text_checkout'] = 'Options de validation de commande&#160;: ';
+$_['text_checkout'] = 'Options de validation de commande : ';
 $_['text_i_am_returning_customer'] = 'J’ai déjà procédé à la création d’un compte client';
 $_['text_register'] = 'Inscription';
 $_['text_guest'] = 'Commander sans s’enregistrer';
@@ -77,26 +77,26 @@ $_['entry_zone'] = 'Subdivision administrative';
 $_['entry_newsletter'] = 'Je souhaite m’abonner à la lettre d’informations de %s.';
 $_['entry_shipping'] = 'Mes adresses de livraison et de facturation sont identiques.';
 // Error
-$_['error_warning'] = 'Attention&#160;: une erreur s’est produite lors du traitement de votre commande&#160;! Si le problème persiste, veuillez essayer de sélectionner un autre moyen de paiement ou bien contactez le propriétaire de la boutique en <a href="%s">cliquant ici</a>.';
-$_['error_login'] = 'Attention&#160;: correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
-$_['error_attempts'] = 'Attention&#160;: votre compte a dépassé le nombre autorisé de tentatives de connexion. Veuillez essayer à nouveau dans 1 heure.';
-$_['error_approved'] = 'Attention&#160;: votre compte nécessite d’avoir été approuvé avant que vous puissiez vous connecter.';
-$_['error_exists'] = 'Attention&#160;: cette adresse électronique est déjà enregistrée&#160;!';
-$_['error_firstname'] = 'Attention&#160;: le prénom doit contenir entre 1 et 32 caractères&#160;!';
-$_['error_lastname'] = 'Attention&#160;: le nom de famille doit contenir entre 1 et 32 caractères&#160;!';
-$_['error_email'] = 'Attention&#160;: l’adresse électronique ne semble pas être valide&#160;!';
-$_['error_telephone'] = 'Attention&#160;: le numéro de téléphone doit contenir entre 3 et 32 caractères&#160;!';
-$_['error_password'] = 'Attention&#160;: le mot de passe doit contenir entre 4 et 20 caractères&#160;!';
-$_['error_confirm'] = 'Attention&#160;: le mot de passe de confirmation ne correspond pas au mot de passe saisi&#160;!';
-$_['error_address_1'] = 'Attention&#160;: l’adresse doit contenir entre 3 et 128 caractères&#160;!';
-$_['error_city'] = 'Attention&#160;: le nom de la localité doit contenir entre 2 et 128 caractères&#160;!';
-$_['error_postcode'] = 'Attention&#160;: le code postal doit contenir entre 2 et 10 caractères&#160;!';
-$_['error_country'] = 'Attention&#160;: vous devez sélectionner un pays&#160;!';
-$_['error_zone'] = 'Attention&#160;: vous devez sélectionner une subdivision administrative&#160;!';
-$_['error_agree'] = 'Attention&#160;: vous devez accepter les %s';
-$_['error_address'] = 'Attention&#160;: vous devez sélectionner l’adresse&#160;!';
-$_['error_shipping'] = 'Attention&#160;: un mode de livraison est requis&#160;!';
-$_['error_no_shipping'] = 'Attention&#160;: aucune option d’expédition n’est disponible. Veuillez <a href="%s">contacter l’assistance</a>&#160;!';
-$_['error_payment'] = 'Attention&#160;: un moyen de paiement est requis&#160;!';
-$_['error_no_payment'] = 'Attention&#160;: aucune option de paiement n’est disponible. Veuillez <a href="%s">contacter l’assistance</a>&#160;!';
-$_['error_custom_field'] = 'Attention&#160;: %s est requis&#160;!';
+$_['error_warning'] = 'Attention : une erreur s’est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayer de sélectionner un autre moyen de paiement ou bien contactez le propriétaire de la boutique en <a href="%s">cliquant ici</a>.';
+$_['error_login'] = 'Attention : correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
+$_['error_attempts'] = 'Attention : votre compte a dépassé le nombre autorisé de tentatives de connexion. Veuillez essayer à nouveau dans 1 heure.';
+$_['error_approved'] = 'Attention : votre compte nécessite d’avoir été approuvé avant que vous puissiez vous connecter.';
+$_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
+$_['error_firstname'] = 'Attention : le prénom doit contenir entre 1 et 32 caractères !';
+$_['error_lastname'] = 'Attention : le nom de famille doit contenir entre 1 et 32 caractères !';
+$_['error_email'] = 'Attention : l’adresse électronique ne semble pas être valide !';
+$_['error_telephone'] = 'Attention : le numéro de téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_password'] = 'Attention : le mot de passe doit contenir entre 4 et 20 caractères !';
+$_['error_confirm'] = 'Attention : le mot de passe de confirmation ne correspond pas au mot de passe saisi !';
+$_['error_address_1'] = 'Attention : l’adresse doit contenir entre 3 et 128 caractères !';
+$_['error_city'] = 'Attention : le nom de la localité doit contenir entre 2 et 128 caractères !';
+$_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 et 10 caractères !';
+$_['error_country'] = 'Attention : vous devez sélectionner un pays !';
+$_['error_zone'] = 'Attention : vous devez sélectionner une subdivision administrative !';
+$_['error_agree'] = 'Attention : vous devez accepter les %s';
+$_['error_address'] = 'Attention : vous devez sélectionner l’adresse !';
+$_['error_shipping'] = 'Attention : un mode de livraison est requis !';
+$_['error_no_shipping'] = 'Attention : aucune option d’expédition n’est disponible. Veuillez <a href="%s">contacter l’assistance</a> !';
+$_['error_payment'] = 'Attention : un moyen de paiement est requis !';
+$_['error_no_payment'] = 'Attention : aucune option de paiement n’est disponible. Veuillez <a href="%s">contacter l’assistance</a> !';
+$_['error_custom_field'] = 'Attention : %s est requis !';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Motifs de retour';
 // Text
-$_['text_success'] = 'Les motifs de retour ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les motifs de retour ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des motifs de retour';
 $_['text_add'] = 'Ajouter un motif de retour';
 $_['text_edit'] = 'Modifier un motif de retour';
@@ -25,6 +25,6 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du motif de retour';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les motifs de retour&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom du motif de retour doit contenir entre 3 et 128 caractères&#160;!';
-$_['error_return'] = 'Attention&#160;: ce motif de retour ne peut pas être supprimé car il est actuellement appliqué à %s produits retournés&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les motifs de retour !';
+$_['error_name'] = 'Attention : le nom du motif de retour doit contenir entre 3 et 128 caractères !';
+$_['error_return'] = 'Attention : ce motif de retour ne peut pas être supprimé car il est actuellement appliqué à %s produits retournés !';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -14,10 +14,10 @@
  *****************************************************************************/
 // Text
 $_['text_subject'] = '%s - Merci pour votre enregistrement';
-$_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s&#160;!';
+$_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s !';
 $_['text_login'] = 'Votre compte a été créé et vous pouvez vous connecter en utilisant votre adresse électronique et votre mot de passe sur notre site internet ou à l’adresse suivante :';
 $_['text_approval'] = 'Votre compte doit être approuvé avant que vous puissiez vous connecter. Une fois approuvé, vous pourrez vous connecter en utilisant votre adresse électronique et le mot de passe sur notre site internet ou à l’adresse suivante :';
-$_['text_service'] = 'Une fois votre connexion établie, vous pourrez avoir accès à d’autres fonctionnalités, tels que&#160;: consulter vos commandes passées, imprimer des factures et modifier les informations de votre compte.';
+$_['text_service'] = 'Une fois votre connexion établie, vous pourrez avoir accès à d’autres fonctionnalités, tels que : consulter vos commandes passées, imprimer des factures et modifier les informations de votre compte.';
 $_['text_thanks'] = 'Merci, ';
 $_['text_new_customer'] = 'Nouveau client';
 $_['text_signup'] = 'Un nouveau client s’est enregistré :';

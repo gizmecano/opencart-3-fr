@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Options';
 // Text
-$_['text_success'] = 'Les options ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les options ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des options';
 $_['text_add'] = 'Ajouter une option';
 $_['text_edit'] = 'Modifier une option';
@@ -43,8 +43,8 @@ $_['entry_option_value'] = 'Nom de la valeur d’option';
 $_['entry_image'] = 'Image';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les options&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom de l’option doit contenir entre 1 et 128 caractères&#160;!';
-$_['error_type'] = 'Attention&#160;: les valeurs de l’option sont requises&#160;!';
-$_['error_option_value'] = 'Attention&#160;: la valeur de l’option doit contenir entre 1 et 128 caractères&#160;!';
-$_['error_product'] = 'Attention&#160;: cette option ne peut pas être supprimée car elle est actuellement appliquée à %s produits&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les options !';
+$_['error_name'] = 'Attention : le nom de l’option doit contenir entre 1 et 128 caractères !';
+$_['error_type'] = 'Attention : les valeurs de l’option sont requises !';
+$_['error_option_value'] = 'Attention : la valeur de l’option doit contenir entre 1 et 128 caractères !';
+$_['error_product'] = 'Attention : cette option ne peut pas être supprimée car elle est actuellement appliquée à %s produits !';

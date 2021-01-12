@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -16,7 +16,7 @@
 $_['heading_title'] = 'Carte mondiale';
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Le tableau de bord de la carte mondiale a été modifié avec succès&#160;!';
+$_['text_success'] = 'Le tableau de bord de la carte mondiale a été modifié avec succès !';
 $_['text_edit'] = 'Modifier le tableau de bord de la carte mondiale';
 $_['text_order'] = 'Commandes';
 $_['text_sale'] = 'Chiffre d’affaire';
@@ -25,4 +25,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_width'] = 'Largeur';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier le tableau de bord de la carte mondiale&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord de la carte mondiale !';

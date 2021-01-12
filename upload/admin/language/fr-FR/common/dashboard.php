@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,4 +15,4 @@
 // Heading
 $_['heading_title'] = 'Tableau de bord';
 // Error
-$_['error_install'] = 'Attention&#160;: le répertoire <install> existe encore et doit être supprimé pour des raisons de sécurité&#160;!';
+$_['error_install'] = 'Attention : le répertoire <install> existe encore et doit être supprimé pour des raisons de sécurité !';

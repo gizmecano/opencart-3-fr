@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Filtres';
 // Text
-$_['text_success'] = 'Les filtres ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les filtres ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des filtres';
 $_['text_add'] = 'Ajouter un filtre';
 $_['text_edit'] = 'Modifier un filtre';
@@ -30,6 +30,6 @@ $_['entry_group'] = 'Nom de groupe de filtres';
 $_['entry_name'] = 'Nom de filtre';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les filtres&#160;!';
-$_['error_group'] = 'Attention&#160;: le nom du groupe de filtres doit contenir entre 1 et 64 caractères&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom du filtre doit contenir entre 1 et 64 caractères&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les filtres !';
+$_['error_group'] = 'Attention : le nom du groupe de filtres doit contenir entre 1 et 64 caractères !';
+$_['error_name'] = 'Attention : le nom du filtre doit contenir entre 1 et 64 caractères !';

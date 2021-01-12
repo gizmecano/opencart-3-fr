@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Sauvegarde et restauration';
 // Text
-$_['text_success'] = 'La base de données a été sauvegardée avec succès&#160;!';
+$_['text_success'] = 'La base de données a été sauvegardée avec succès !';
 // Entry
 $_['entry_progress']= 'Progression';
 $_['entry_export'] = 'Exportation';
@@ -23,6 +23,6 @@ $_['entry_export'] = 'Exportation';
 $_['tab_backup']= 'Sauvegarde';
 $_['tab_restore']= 'Restauration';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations&#160;!';
-$_['error_export'] = 'Attention&#160;: vous devez sélectionner au moins une table à exporter&#160;!';
-$_['error_file']= 'Attention&#160;: le fichier est introuvable&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations !';
+$_['error_export'] = 'Attention : vous devez sélectionner au moins une table à exporter !';
+$_['error_file']= 'Attention : le fichier est introuvable !';

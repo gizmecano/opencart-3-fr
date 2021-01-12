@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -13,8 +13,8 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Text
-$_['text_subject'] = '%s - Votre compte d’affilié a été activé&#160;!';
-$_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s&#160;!';
+$_['text_subject'] = '%s - Votre compte d’affilié a été activé !';
+$_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s !';
 $_['text_login'] = 'Votre compte a été approuvé et vous pouvez vous connecter en utilisant votre adresse électronique et votre mot de passe sur notre site internet ou à l’adresse suivante :';
 $_['text_services'] = 'Une fois votre connexion établie, vous serez en mesure de générer des codes de suivi, suivre le paiement des commissions et modifier les informations de votre compte.';
 $_['text_thanks'] = 'Merci, ';

@@ -17,8 +17,8 @@ This project succeeds to [**opencart-2-fr**](https://github.com/gizmecano/openca
 This language pack has been developed with some basic principles in mind:
 
 - **idiomatic translations**: translation strings did not have been automatically generated, but by understanding the context in order to draft an appropriate formulation
-- **native `utf-8` support**: accented characters and most common typographic signs use standard `utf-8` encoding
-- **proper typographics usages**: typographic rules and practices used in the French language redaction (spaces and punctuation marks in particular) are respected
+- **native `utf-8` support**: accented characters and typographic signs use standard `utf-8` encoding
+- **proper typographics usages**: typographic rules and practices used in the French language redaction (thin spaces and punctuation marks in particular) are respected
 - **understated technical jargon**: technical references are translated in the most understandable manner possible
 - **gender-neutral formulations**: in order to be as inclusive as possible, translations preferably use language that does not use the gender of users or visitors
 
@@ -26,8 +26,8 @@ This language pack has been developed with some basic principles in mind:
 
 Unlike the project that preceded it, this language pack is available in two different variants, both developed from a single common platform.
 
-  1. the [**free variant**](https://github.com/gizmecano/opencart-3-fr) contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
-  2. the **full version** (unreleased at this time) contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
+  1. the **free variant** (hosted on [GitHub](https://github.com/gizmecano/opencart-3-fr)) contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
+  2. the **full version** (available on [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40999)) contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
 
 This distinction is due to several factors:
 
@@ -38,7 +38,12 @@ The files only included in the full version are listed in an [specific document]
 
 To check which version of each variant is compatible with core versions of Opencart, a [compatibility table](compatibility.csv) is available.
 
-> ⚠ Pending the final activation of an appropriate account, the full version cannot currently be released on the [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension).
+### Demonstration
+
+To watch this language pack in action, you can visit [the demo site](http://ocf.gizmecano.net/). Access to the online store (_frontend_) is not restricted, but to observe the rendering in the administration interface (_backend_), you will need to log in with the following **limited** _guest_ access: 
+
+  - _User name_: `guest`
+  - _Password_: `public.guest`
 
 ## Installation
 
@@ -55,7 +60,7 @@ After that, open your OpenCart backend and follow the steps below:
   - _Code_ : `fr`
   - _Locale_ : `fr,fr-FR,fr_FR.UTF-8,french`
   - _Status_ : `Enabled`
-  - _Sort Order_: `1`
+  - _Sort Order_: `1` (or any other numeric value corresponding to the chosen order of language packs if others packs are enabled)
 4. Save these changes
 5. Navigate to `System -> Settings`
 6. Click on the tab `Local` and define the standard languages for frontend (_Language_) and backend (_Administration language_): backend language will not change **before** this step
@@ -93,7 +98,7 @@ opencart-3-fr: a French opensource localization pack for ecommerce platform Open
 
 --------------------------------------------------------------------------------
 
-Copyright © 2019-2020 P. Mergey
+Copyright © 2019-2021 P. Mergey
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](LICENSE.md) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 

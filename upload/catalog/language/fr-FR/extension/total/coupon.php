@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -20,5 +20,5 @@ $_['text_success'] = 'La déduction de votre bon a été appliquée';
 // Entry
 $_['entry_coupon'] = 'Saisissez le code du bon de réduction ici';
 // Error
-$_['error_coupon'] = 'Attention&#160;: le bon n’est pas valide, a expiré ou a déjà été utilisé&#160;!';
-$_['error_empty'] = 'Attention&#160;: veuillez saisir le code du bon de réduction&#160;!';
+$_['error_coupon'] = 'Attention : le bon n’est pas valide, a expiré ou a déjà été utilisé !';
+$_['error_empty'] = 'Attention : veuillez saisir le code du bon de réduction !';

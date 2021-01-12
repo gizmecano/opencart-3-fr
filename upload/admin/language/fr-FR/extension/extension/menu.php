@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,11 +15,11 @@
 // Heading
 $_['heading_title'] = 'Menus';
 // Text
-$_['text_success'] = 'Les menus ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les menus ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des menus';
 // Column
 $_['column_name'] = 'Nom du menu';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les menus&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les menus !';

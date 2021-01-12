@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Groupes d’utilisateurs';
 // Text
-$_['text_success'] = 'Les groupes d’utilisateurs ont été modifiés avec succès&#160;!';
+$_['text_success'] = 'Les groupes d’utilisateurs ont été modifiés avec succès !';
 $_['text_list'] = 'Groupe d’utilisateurs';
 $_['text_add'] = 'Ajouter un groupe d’utilisateurs';
 $_['text_edit'] = 'Modifier un groupe d’utilisateurs';
@@ -24,9 +24,9 @@ $_['column_name'] = 'Nom du groupe d’utilisateurs';
 $_['column_action'] = 'Action';
 // Entry
 $_['entry_name'] = 'Nom du groupe d’utilisateurs';
-$_['entry_access'] = 'Permission d’accès';
-$_['entry_modify'] = 'Modifier la permission d’accès';
+$_['entry_access'] = 'Accès autorisés pour ce groupe d’utilisateurs';
+$_['entry_modify'] = 'Modifications autorisées pour ce groupe d’utilisateurs';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les groupes d’utilisateurs&#160;!';
-$_['error_name'] = 'Attention&#160;: le nom du groupe d’utilisateurs doit contenir entre 3 et 64 caractères&#160;!';
-$_['error_user'] = 'Attention&#160;: ce groupe d’utilisateur ne peut pas être supprimé car il est actuellement appliqué à %s utilisateurs&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les groupes d’utilisateurs !';
+$_['error_name'] = 'Attention : le nom du groupe d’utilisateurs doit contenir entre 3 et 64 caractères !';
+$_['error_user'] = 'Attention : ce groupe d’utilisateur ne peut pas être supprimé car il est actuellement appliqué à %s utilisateurs !';

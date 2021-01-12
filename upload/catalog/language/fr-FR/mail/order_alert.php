@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -16,8 +16,8 @@
 $_['text_subject'] = '%s - Commande %s';
 $_['text_received'] = 'Vous avez reçu une commande.';
 $_['text_order_id'] = 'Commande n° :';
-$_['text_date_added'] = 'Date d’ajout&#160;: ';
-$_['text_order_status'] = 'Statut de la commande&#160;: ';
+$_['text_date_added'] = 'Date d’ajout : ';
+$_['text_order_status'] = 'Statut de la commande : ';
 $_['text_product'] = 'Produits';
 $_['text_total'] = 'Totaux';
-$_['text_comment'] = 'Les commentaires pour votre commande sont&#160;: ';
+$_['text_comment'] = 'Les commentaires pour votre commande sont : ';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -44,8 +44,8 @@ $_['text_transaction_suspended'] = 'Suspendu';
 $_['text_transaction_suspended_failed'] = 'Suspendu en raison d’un échec du paiement';
 $_['text_transaction_outstanding_failed'] = 'Échec du paiement en suspens';
 $_['text_transaction_expired'] = 'Expiré';
-$_['text_empty'] = 'Aucun paiement récurrent n’a été trouvé&#160;!';
-$_['text_error'] = 'Attention&#160;: la commande récurrente que vous avez demandée est introuvable&#160;!';
+$_['text_empty'] = 'Aucun paiement récurrent n’a été trouvé !';
+$_['text_error'] = 'Attention : la commande récurrente que vous avez demandée est introuvable !';
 $_['text_cancelled'] = 'Le paiement récurrent a été annulé';
 // Column
 $_['column_date_added'] = 'Date d’ajout';
@@ -55,7 +55,7 @@ $_['column_status'] = 'Statut';
 $_['column_product'] = 'Produit';
 $_['column_order_recurring_id'] = 'Identifiant de paiement récurrent';
 // Error
-$_['error_not_cancelled'] = 'Attention&#160;: erreur&#160;: %s';
-$_['error_not_found'] = 'Attention&#160;: aucun paiement récurrent à annuler';
+$_['error_not_cancelled'] = 'Attention : erreur : %s';
+$_['error_not_found'] = 'Attention : aucun paiement récurrent à annuler';
 // Button
 $_['button_return'] = 'Retour';

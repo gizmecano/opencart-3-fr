@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Heading
 $_['heading_title'] = 'Statistiques';
 // Text
-$_['text_success'] = 'Les statistiques ont été modifiées avec succès&#160;!';
+$_['text_success'] = 'Les statistiques ont été modifiées avec succès !';
 $_['text_list'] = 'Liste des statistiques';
 $_['text_order_sale'] = 'Commandes vendues';
 $_['text_order_processing'] = 'Commandes en cours';
@@ -31,4 +31,4 @@ $_['column_name'] = 'Nom de la statistique';
 $_['column_value'] = 'Valeur';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention&#160;: vous n’avez pas l’autorisation de modifier les statistiques&#160;!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les statistiques !';

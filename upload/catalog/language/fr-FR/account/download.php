@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -17,7 +17,7 @@ $_['heading_title'] = 'Téléchargements';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_downloads'] = 'Téléchargements';
-$_['text_empty'] = 'Vous n’avez pas encore commandé de produits téléchargeables&#160;!';
+$_['text_empty'] = 'Vous n’avez pas encore commandé de produits téléchargeables !';
 // Column
 $_['column_order_id'] = 'Commande n°';
 $_['column_name'] = 'Nom';

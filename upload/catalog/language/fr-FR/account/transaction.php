@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -21,5 +21,5 @@ $_['column_amount'] = 'Montant (%s)';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_transaction'] = 'Vos transactions';
-$_['text_total'] = 'La balance de votre compte est actuellement&#160;: ';
-$_['text_empty'] = 'Vous n’avez aucune transaction&#160;!';
+$_['text_total'] = 'La balance de votre compte est actuellement : ';
+$_['text_empty'] = 'Vous n’avez aucune transaction !';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2020 P. Mergey
+ * Copyright (C) 2019-2021 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
 // Text
 $_['text_subject'] = '%s - Évaluation de produit';
 $_['text_waiting'] = 'Vous avez une nouvelle évaluation de produit en attente.';
-$_['text_product'] = 'Produit&#160;: %s';
-$_['text_reviewer'] = 'Commentateur&#160;: %s';
-$_['text_rating'] = 'Estimation&#160;: %s';
-$_['text_review'] = 'Texte de l’évaluation&#160;: ';
+$_['text_product'] = 'Produit : %s';
+$_['text_reviewer'] = 'Commentateur : %s';
+$_['text_rating'] = 'Estimation : %s';
+$_['text_review'] = 'Texte de l’évaluation : ';
