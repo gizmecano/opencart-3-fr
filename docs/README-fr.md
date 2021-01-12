@@ -26,8 +26,8 @@ Ce pack linguistique a été développé avec certains principes de base à l'es
 
 Contrairement au projet qui l'a précédé, ce pack de langue est disponible en deux variantes différentes, toutes deux développées à partir d'une même unique plateforme commune.
 
-  1. la **variante libre** (hébergée sur GitHub) contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
-  2. la **version complète** (disponible on OpenCart Marketplace) contient des fichiers supplémentaires requis pour la traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
+  1. la **variante libre** (hébergée sur [GitHub](https://github.com/gizmecano/opencart-3-fr)) contient l'ensemble des fichiers nécessaires pour le fonctionnement de base d'une boutique OpenCart : elle devrait s'avérer suffisante dans la plupart des cas
+  2. la **version complète** (disponible sur [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40999)) contient des fichiers supplémentaires requis pour la traduction de diverses extensions liées à des services propriétaires : passerelles de paiements, mode d'expédition, etc.
 
 Cette distinction est due à plusieurs facteurs:
 

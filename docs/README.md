@@ -26,8 +26,8 @@ This language pack has been developed with some basic principles in mind:
 
 Unlike the project that preceded it, this language pack is available in two different variants, both developed from a single common platform.
 
-  1. the **free variant** (hosted on GitHub) contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
-  2. the **full version** (available on OpenCart Marketplace) contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
+  1. the **free variant** (hosted on [GitHub](https://github.com/gizmecano/opencart-3-fr)) contains all the files necessary for the basic running of an OpenCart store: it should be sufficient in most cases
+  2. the **full version** (available on [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=40999)) contains additional files required for translating various extensions related to proprietary services: payment gateways, shipping methods, etc.
 
 This distinction is due to several factors:
 
