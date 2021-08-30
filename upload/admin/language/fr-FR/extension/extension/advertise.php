@@ -13,14 +13,12 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/#GPL>.
  *****************************************************************************/
 // Heading
-$_['heading_title'] = 'Moyens de paiement';
+$_['heading_title'] = "Annonces publicitaires";
+// Columns
+$_['column_name'] = "Nom de l’annonce publicitaire";
+$_['column_status'] = "Statut";
+$_['column_action'] = "Action";
 // Text
-$_['text_success'] = 'Les moyens de paiements ont été modifiés avec succès !';
-$_['text_list'] = 'Liste des moyens de paiements';
-// Column
-$_['column_name'] = 'Moyen de paiement';
-$_['column_status'] = 'Statut';
-$_['column_sort_order'] = 'Classement';
-$_['column_action'] = 'Action';
+$_['text_success'] = "Les annonces publicitaires ont été modifées avec succès !";
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les moyens de paiements !';
+$_['error_adblock'] = "Il semble que vous utilisiez un bloqueur de publicité. Afin d’utiliser cette section dédiée aux annonces publicitaires, veuillez désactiver votre bloqueur de publicité pour votre panneau d’administration.";
