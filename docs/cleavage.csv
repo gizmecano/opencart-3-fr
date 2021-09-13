@@ -18,8 +18,8 @@ upload\admin\language\fr-FR\extension\module,laybuy_layout.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,paypal_smart_button.php,2.1.0,
 upload\admin\language\fr-FR\extension\module,pilibaba_button.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,pp_braintree_button.php,1.0.0,
-upload\admin\language\fr-FR\extension\module,pp_button.php,1.0.0,
-upload\admin\language\fr-FR\extension\module,pp_login.php,1.0.0,
+upload\admin\language\fr-FR\extension\module,pp_button.php,1.0.0,2.1.0
+upload\admin\language\fr-FR\extension\module,pp_login.php,1.0.0,2.1.0
 upload\admin\language\fr-FR\extension\module,sagepay_direct_cards.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,sagepay_server_cards.php,1.0.0,
 upload\admin\language\fr-FR\extension\openbay,amazon.php,1.0.0,
