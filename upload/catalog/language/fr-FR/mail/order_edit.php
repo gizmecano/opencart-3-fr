@@ -14,7 +14,7 @@
  *****************************************************************************/
 // Text
 $_['text_subject'] = '%s - Commande %s';
-$_['text_order_id'] = 'Commande n° :';
+$_['text_order_id'] = 'Commande n° :';
 $_['text_date_added'] = 'Date d’ajout : ';
 $_['text_order_status'] = 'Votre commande a été modifiée selon le statut suivant : ';
 $_['text_comment'] = 'Les commentaires pour votre commande sont : ';

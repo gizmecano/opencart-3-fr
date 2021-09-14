@@ -15,6 +15,6 @@
 // Text
 $_['text_subject'] = '%s - Votre compte a été activé !';
 $_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s !';
-$_['text_login'] = 'Votre compte a été créé et vous pouvez vous connecter en utilisant votre adresse électronique et votre mot de passe sur notre site internet ou à l’adresse suivante :';
+$_['text_login'] = 'Votre compte a été créé et vous pouvez vous connecter en utilisant votre adresse électronique et votre mot de passe sur notre site internet ou à l’adresse suivante :';
 $_['text_service'] = 'Une fois votre connexion établie, vous pourrez avoir accès à d’autres fonctionnalités, tels que : consulter vos commandes passées, imprimer des factures et modifier les informations de votre compte.';
 $_['text_thanks'] = 'Merci, ';
