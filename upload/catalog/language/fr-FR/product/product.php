@@ -29,7 +29,7 @@ $_['text_reviews'] = '%s évaluation(s)';
 $_['text_write'] = 'Donnez votre avis';
 $_['text_login'] = 'Veuillez vous <a href="%s">connecter</a> ou vous <a href="%s">inscrire</a> pour évaluer';
 $_['text_no_reviews'] = 'Il n’y a aucune évaluation sur ce produit.';
-$_['text_note'] = '<span class="text-danger"> Attention :</span> le HTML n’est pas transcrit !';
+$_['text_note'] = '<span class="text-danger">Attention :</span> le HTML n’est pas transcrit !';
 $_['text_success'] = 'Merci pour votre évaluation. Elle a été soumise au webmestre pour approbation.';
 $_['text_related'] = 'Produits liés';
 $_['text_tags'] = 'Mots-clefs : ';
