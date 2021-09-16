@@ -29,7 +29,7 @@ $_['text_activity_address_edit'] = '<a href="customer_id=%d">%s</a> a mis à jou
 $_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> a supprimé une de ses adresses.';
 $_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> a retourné un <a href="return_id=%d">produit</a>.';
 $_['text_activity_return_guest'] = '%s a retourné un <a href="return_id=%d">produit</a>.';
-$_['text_activity_order_account'] = '<a href="customer_id=%d">%s</a> a ajouté une <a href="order_id=%d"> nouvelle commande</a>.';
+$_['text_activity_order_account'] = '<a href="customer_id=%d">%s</a> a ajouté une <a href="order_id=%d">nouvelle commande</a>.';
 $_['text_activity_order_guest'] = '%s a ajouté une <a href="order_id=%d">nouvelle commande</a>.';
 $_['text_activity_affiliate_add'] = '<a href="affiliate_id=%d">%s</a> a ouvert un nouveau compte d’affilié.';
 $_['text_activity_affiliate_edit'] = '<a href="affiliate_id=%d">%s</a> a mis à jour les informations de son compte d’affilié.';

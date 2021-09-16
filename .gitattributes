@@ -4,8 +4,9 @@
 # Ignored files for export
 .editorconfig   export-ignore
 .git*           export-ignore
-[Dd]esktop.ini  export-ignore
 /.github/       export-ignore
+/.vscode/       export-ignore
+[Dd]esktop.ini  export-ignore
 
 # Files always having CRLF line endings
-*.php text  eol=crlf
+*.php text      eol=crlf

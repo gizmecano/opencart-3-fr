@@ -1,15 +1,16 @@
 {
-  "search.useIgnoreFiles": false,
-  "files.exclude": {
-    "**/desktop.ini": true
-  },
   "editor.rulers": [
     80
   ],
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
+  "files.exclude": {
+    "**/desktop.ini": true
+  },
+  "search.useIgnoreFiles": false,
   "[markdown]": {
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80,
-  },
-  "editor.renderWhitespace": "all"
+  }
 }

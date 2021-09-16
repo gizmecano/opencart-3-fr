@@ -15,5 +15,5 @@
 // Text
 $_['text_subject'] = '%s - La création de votre compte d’affilié a été refusée !';
 $_['text_welcome'] = 'Bienvenue et merci pour votre enregistrement à %s !';
-$_['text_denied'] = 'Malheureusement, votre requête a été refusée. Pour plus d’information, vous pouvez contacter le propriétaire de la boutique ici :';
+$_['text_denied'] = 'Malheureusement, votre requête a été refusée. Pour plus d’information, vous pouvez contacter le propriétaire de la boutique ici :';
 $_['text_thanks'] = 'Merci, ';
