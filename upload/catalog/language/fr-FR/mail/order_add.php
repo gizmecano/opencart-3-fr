@@ -14,7 +14,7 @@
  *****************************************************************************/
 // Text
 $_['text_subject'] = '%s - Commande %s';
-$_['text_greeting'] = 'Nous vous remercions pour votre intérêt concernant %s produits. Votre commande a bien été reçue et sera traitée dès que votre paiement aura été confirmé.';
+$_['text_greeting'] = 'Nous vous remercions pour votre intérêt concernant les produits proposés par %s. Votre commande a bien été reçue et sera traitée dès que votre paiement aura été confirmé.';
 $_['text_link'] = 'Pour consulter votre commande, cliquez sur le lien ci-dessous : ';
 $_['text_order_detail'] = 'Détails de la commande';
 $_['text_instruction'] = 'Instructions';
