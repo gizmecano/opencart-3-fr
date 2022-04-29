@@ -98,7 +98,7 @@ opencart-3-fr : un pack de localisation française _opensource_ pour la platefor
 
 --------------------------------------------------------------------------------
 
-Copyright © 2019-2021 P. Mergey
+Copyright © 2019-2022 P. Mergey
 
 Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier au titre des clauses de la [Licence publique générale GNU](LICENSE.md), telle que publiée par la Free Software Foundation, soit la version 3 de la licence ou, à votre discrétion, une version ultérieure quelconque.
 

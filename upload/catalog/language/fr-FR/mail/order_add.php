@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2021 P. Mergey
+ * Copyright (C) 2019-2022 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -14,7 +14,7 @@
  *****************************************************************************/
 // Text
 $_['text_subject'] = '%s - Commande %s';
-$_['text_greeting'] = 'Nous vous remercions pour votre intérêt concernant %s produits. Votre commande a bien été reçue et sera traitée dès que votre paiement aura été confirmé.';
+$_['text_greeting'] = 'Nous vous remercions pour votre intérêt concernant les produits proposés par %s. Votre commande a bien été reçue et sera traitée dès que votre paiement aura été confirmé.';
 $_['text_link'] = 'Pour consulter votre commande, cliquez sur le lien ci-dessous : ';
 $_['text_order_detail'] = 'Détails de la commande';
 $_['text_instruction'] = 'Instructions';
@@ -29,7 +29,7 @@ $_['text_ip'] = 'Adresse IP : ';
 $_['text_payment_address'] = 'Adresse de facturation';
 $_['text_shipping_address'] = 'Adresse de livraison';
 $_['text_products'] = 'Produits';
-$_['text_product'] = 'Product';
+$_['text_product'] = 'Produit';
 $_['text_model'] = 'Référence';
 $_['text_quantity'] = 'Quantité';
 $_['text_price'] = 'Prix';
