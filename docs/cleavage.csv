@@ -4,7 +4,7 @@ upload\admin\language\fr-FR\extension\analytics,google.php,1.0.0,
 upload\admin\language\fr-FR\extension\captcha,google.php,1.0.0,
 upload\admin\language\fr-FR\extension\feed,google_base.php,1.0.0,
 upload\admin\language\fr-FR\extension\feed,google_sitemap.php,1.0.0,
-upload\admin\language\fr-FR\extension\feed,openbaypro.php,1.0.0,
+upload\admin\language\fr-FR\extension\feed,openbaypro.php,1.0.0,3.0.0
 upload\admin\language\fr-FR\extension\fraud,fraudlabspro.php,1.0.0,
 upload\admin\language\fr-FR\extension\fraud,maxmind.php,1.0.0,
 upload\admin\language\fr-FR\extension\menu,default.php,1.0.0,
