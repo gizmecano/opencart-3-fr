@@ -11,7 +11,7 @@ upload\admin\language\fr-FR\extension\menu,default.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,amazon_login.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,amazon_pay.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,divido_calculator.php,1.0.0,
-upload\admin\language\fr-FR\extension\module,ebay_listing.php,1.0.0,
+upload\admin\language\fr-FR\extension\module,ebay_listing.php,1.0.0,3.0.0
 upload\admin\language\fr-FR\extension\module,google_hangouts.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,klarna_checkout_module.php,1.0.0,
 upload\admin\language\fr-FR\extension\module,laybuy_layout.php,1.0.0,
