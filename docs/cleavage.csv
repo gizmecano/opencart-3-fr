@@ -129,7 +129,7 @@ upload\admin\language\fr-FR\extension\shipping,royal_mail.php,1.0.0,
 upload\admin\language\fr-FR\extension\shipping,ups.php,1.0.0,
 upload\admin\language\fr-FR\extension\shipping,usps.php,1.0.0,
 upload\admin\language\fr-FR\extension\total,klarna_fee.php,1.0.0,
-upload\admin\language\fr-FR\marketplace,openbay.php,1.0.0,
+upload\admin\language\fr-FR\marketplace,openbay.php,1.0.0,3.0.0
 upload\catalog\language\fr-FR\extension\advertise,google.php,2.0.0,
 upload\catalog\language\fr-FR\extension\captcha,google.php,1.0.0,
 upload\catalog\language\fr-FR\extension\credit_card,sagepay_direct.php,1.0.0,
