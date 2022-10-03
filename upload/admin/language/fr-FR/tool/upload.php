@@ -28,3 +28,5 @@ $_['entry_filename'] = 'Nom du fichier';
 $_['entry_date_added'] = 'Date d’ajout';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les transferts de fichiers !';
+$_['error_upload'] = 'Attention : le transfert de fichier est invalide !';
+$_['error_file'] = 'Attention : le fichier est introuvable !';
