@@ -26,3 +26,4 @@ $_['button_login'] = 'Se connecter';
 // Error
 $_['error_login'] = 'Attention : correspondance introuvable entre ce nom d’utilisateur et ce mot de passe.';
 $_['error_token'] = 'Attention : session invalide. Veuillez ouvrir une nouvelle session.';
+$_['error_attempts'] = 'Attention : votre compte a dépassé le nombre autorisé de tentatives de connexion. Veuillez essayer à nouveau dans 1 heure ou réinitialiser votre mot de passe.';
