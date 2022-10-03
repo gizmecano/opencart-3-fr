@@ -19,7 +19,6 @@ $_['text_success'] = 'Les bons d’achat ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des bons d’achat';
 $_['text_add'] = 'Ajouter un bon d’achat';
 $_['text_edit'] = 'Modifier un bon d’achat';
-$_['text_sent'] = 'Le bon d’achat a été envoyé avec succès !';
 // Column
 $_['column_name'] = 'Nom du bon d’achat';
 $_['column_code'] = 'Code';
