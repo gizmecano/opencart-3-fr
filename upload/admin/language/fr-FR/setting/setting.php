@@ -63,6 +63,7 @@ $_['entry_comment'] = 'Commentaire';
 $_['entry_location'] = 'Emplacement de la boutique';
 $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
+$_['entry_timezone'] = 'Fuseau horaire';
 $_['entry_language'] = 'Langue';
 $_['entry_admin_language'] = 'Langue d’administration';
 $_['entry_currency'] = 'Devise';
