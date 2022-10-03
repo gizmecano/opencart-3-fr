@@ -110,6 +110,7 @@ $_['button_category_add'] = 'Ajouter une catégorie';
 $_['button_order'] = 'Voir les commandes';
 $_['button_order_recurring'] = 'Voir les commandes récurrentes';
 $_['button_buy'] = 'Acheter';
+$_['button_developer'] = 'Paramètres de développement'; 
 // Tab
 $_['tab_affiliate'] = 'Affilié';
 $_['tab_address'] = 'Adresse';
