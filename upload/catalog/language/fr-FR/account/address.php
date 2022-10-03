@@ -23,6 +23,7 @@ $_['text_add'] = 'Votre adresse a été ajoutée avec succès';
 $_['text_edit'] = 'Votre adresse a été modifiée avec succès';
 $_['text_delete'] = 'Votre adresse a été supprimée avec succès';
 $_['text_empty'] = 'Vous n’avez pas saisi d’adresse.';
+$_['text_confirm'] = 'Veuillez confirmer';
 // Entry
 $_['entry_firstname'] = 'Prénom';
 $_['entry_lastname'] = 'Nom de famille';
