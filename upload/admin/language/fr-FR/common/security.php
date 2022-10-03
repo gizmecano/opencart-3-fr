@@ -25,6 +25,8 @@ $_['text_move'] = 'Déplacer';
 $_['text_to'] = 'vers';
 $_['text_config'] = 'Modifier <config.php> et appliquer les changements';
 $_['text_admin'] = 'Modifier <admin/config.php> et appliquer les changements';
+// Entry
+$_['entry_directory'] = 'Répertoire de stockage';
 // Button
 $_['button_move'] = 'Déplacer';
 $_['button_manual'] = 'Manuel';
