@@ -43,3 +43,4 @@ $_['help_product'] = 'Envoyer uniquement aux clients qui ont commandé des produ
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’envoyer une lettre d’informations !';
 $_['error_subject'] = 'Attention : le sujet de la lettre d’informations est requis !';
 $_['error_message'] = 'Attention : le corps de la lettre d’informations est requis !';
+$_['error_email'] = 'Attention : l’adresse électronique est requise !';
