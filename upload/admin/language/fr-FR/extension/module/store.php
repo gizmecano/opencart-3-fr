@@ -21,5 +21,7 @@ $_['text_edit'] = 'Modifier le module des boutiques';
 // Entry
 $_['entry_admin'] = 'Administrateurs seulement';
 $_['entry_status'] = 'Statut';
+// Help
+$_['help_admin'] = 'Si oui, la liste des différentes boutiques ne sera visible que lorsqu’un compte administrateur sera connecté !';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module des boutiques !';
