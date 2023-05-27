@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -23,6 +23,7 @@ $_['text_add'] = 'Votre adresse a été ajoutée avec succès';
 $_['text_edit'] = 'Votre adresse a été modifiée avec succès';
 $_['text_delete'] = 'Votre adresse a été supprimée avec succès';
 $_['text_empty'] = 'Vous n’avez pas saisi d’adresse.';
+$_['text_confirm'] = 'Veuillez confirmer';
 // Entry
 $_['entry_firstname'] = 'Prénom';
 $_['entry_lastname'] = 'Nom de famille';

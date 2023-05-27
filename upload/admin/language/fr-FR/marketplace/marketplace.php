@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -58,6 +58,7 @@ $_['text_name'] = 'Nom du téléchargement';
 $_['text_progress'] = 'Progression';
 $_['text_available'] = 'Installations disponibles';
 $_['text_action'] = 'Action';
+$_['text_see_more'] = 'Voir plus de réponses';
 // Entry
 $_['entry_pin'] = 'PIN';
 // Tab
@@ -72,6 +73,7 @@ $_['button_view_all'] = 'Voir toutes les extensions';
 $_['button_get_support'] = 'Obtenir l’aide du support';
 $_['button_comment'] = 'Commentaire';
 $_['button_reply'] = 'Répondre';
+$_['button_refresh'] = 'Actualiser';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
 $_['error_opencart'] = 'Attention : vous devez saisir vos informations de l’interface de programmation (API) du Cybermarché OpenCart avant de pouvoir faire tout achat !';

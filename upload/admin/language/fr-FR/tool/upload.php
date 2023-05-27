@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -28,3 +28,5 @@ $_['entry_filename'] = 'Nom du fichier';
 $_['entry_date_added'] = 'Date d’ajout';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les transferts de fichiers !';
+$_['error_upload'] = 'Attention : le transfert de fichier est invalide !';
+$_['error_file'] = 'Attention : le fichier est introuvable !';

@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -20,3 +20,4 @@ $_['text_from'] = 'Ce bon d’achat a été envoyé de la part de %s';
 $_['text_message'] = 'Avec le message suivant';
 $_['text_redeem'] = 'Pour échanger ce bon d’achat, notez bien le code de rachat qui est <b>%s</b>. Cliquer ensuite sur le lien ci-dessous et acheter le produit pour lequel vous souhaitez utiliser ce bon d’achat. Vous pouvez saisir le code du bon d’achat sur la page du panier avant de valider la commande.';
 $_['text_footer'] = 'Vous pouvez répondre à ce courrier dans le cas où vous auriez une question.';
+$_['text_sent'] = 'Le bon d’achat a été envoyé avec succès !';

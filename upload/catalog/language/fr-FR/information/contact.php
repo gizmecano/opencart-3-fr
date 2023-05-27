@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -23,7 +23,7 @@ $_['text_telephone'] = 'Numéro de téléphone';
 $_['text_fax'] = 'Numéro de télécopie';
 $_['text_open'] = 'Horaires d’ouverture';
 $_['text_comment'] = 'Commentaires';
-$_['text_success'] = '<p>Votre demande de renseignements a été envoyée avec succès !</p>';
+$_['text_message'] = '<p>Votre demande de renseignements a été envoyée avec succès au propriétaire de la boutique !</p>';
 // Entry
 $_['entry_name'] = 'Votre nom';
 $_['entry_email'] = 'Adresse électronique';

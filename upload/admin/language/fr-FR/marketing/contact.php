@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -43,3 +43,4 @@ $_['help_product'] = 'Envoyer uniquement aux clients qui ont commandé des produ
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation d’envoyer une lettre d’informations !';
 $_['error_subject'] = 'Attention : le sujet de la lettre d’informations est requis !';
 $_['error_message'] = 'Attention : le corps de la lettre d’informations est requis !';
+$_['error_email'] = 'Attention : l’adresse électronique est requise !';

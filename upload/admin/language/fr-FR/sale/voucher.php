@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -19,7 +19,6 @@ $_['text_success'] = 'Les bons d’achat ont été modifiés avec succès !';
 $_['text_list'] = 'Liste des bons d’achat';
 $_['text_add'] = 'Ajouter un bon d’achat';
 $_['text_edit'] = 'Modifier un bon d’achat';
-$_['text_sent'] = 'Le bon d’achat a été envoyé avec succès !';
 // Column
 $_['column_name'] = 'Nom du bon d’achat';
 $_['column_code'] = 'Code';

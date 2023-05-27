@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -110,6 +110,7 @@ $_['button_category_add'] = 'Ajouter une catégorie';
 $_['button_order'] = 'Voir les commandes';
 $_['button_order_recurring'] = 'Voir les commandes récurrentes';
 $_['button_buy'] = 'Acheter';
+$_['button_developer'] = 'Paramètres de développement'; 
 // Tab
 $_['tab_affiliate'] = 'Affilié';
 $_['tab_address'] = 'Adresse';

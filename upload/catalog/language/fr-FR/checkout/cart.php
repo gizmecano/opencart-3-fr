@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -30,7 +30,6 @@ $_['text_month'] = 'mois';
 $_['text_year'] = 'année';
 $_['text_trial'] = '%s chaque %s %s pour %s paiements soit ';
 $_['text_recurring'] = '%s chaque %s %s';
-$_['text_payment_cancel'] = 'jusqu’à annulation';
 $_['text_recurring_item'] = 'Élément récurrent';
 $_['text_payment_recurring'] = 'Profil de paiement';
 $_['text_trial_description'] = '%s chaque %d %s(s) pour %d paiement(s) soit';

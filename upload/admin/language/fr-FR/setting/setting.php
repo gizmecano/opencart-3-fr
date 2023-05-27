@@ -1,6 +1,6 @@
 <?php
 /******************************************************************************
- * Copyright (C) 2019-2022 P. Mergey
+ * Copyright (C) 2019-2023 P. Mergey
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -63,6 +63,7 @@ $_['entry_comment'] = 'Commentaire';
 $_['entry_location'] = 'Emplacement de la boutique';
 $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
+$_['entry_timezone'] = 'Fuseau horaire';
 $_['entry_language'] = 'Langue';
 $_['entry_admin_language'] = 'Langue d’administration';
 $_['entry_currency'] = 'Devise';
@@ -153,7 +154,7 @@ $_['help_customer_activity'] = 'Suivre l’activité des clients par le biais de
 $_['help_customer_group'] = 'Groupe de clients par défaut.';
 $_['help_customer_group_display'] = 'Afficher les groupes de clients que les nouveaux clients peuvent choisir d’utiliser quand ils s’inscrivent (tels que "revendeurs", "grossistes", etc.).';
 $_['help_customer_price'] = 'Afficher les prix seulement quand le client est connecté.';
-$_['help_login_attempts'] = 'Nombre maximum de tentatives de connexion avant que le compte soit bloqué pour 1 heure. Les comptes de clients et d’affiliés peuvent être débloqués sur les pages d’administration qui leur sont dédiées.';
+$_['help_login_attempts'] = 'Nombre maximum de tentatives de connexion avant que le compte soit bloqué pour 1 heure. Les comptes de clients et d’affiliés peuvent être débloqués sur les pages d’administration qui leur sont dédiées. Un compte d’administrateur peut être débloqué en réinitialisant le mot de passe.';
 $_['help_account'] = 'Contraindre à accepter les termes et conditions avant qu’un compte ne soit créé.';
 $_['help_invoice_prefix'] = 'Paramétrer le préfixe de facturation (par exemple, FA-2015-00). Les identifiants de facture commencent à 1 pour chaque préfixe unique.';
 $_['help_cart_weight'] = 'Afficher le poids du panier sur la page de panier.';
