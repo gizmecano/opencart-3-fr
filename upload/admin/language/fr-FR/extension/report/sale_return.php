@@ -32,7 +32,6 @@ $_['column_returns'] = 'Retour n°';
 $_['entry_date_start'] = 'Date de début';
 $_['entry_date_end'] = 'Date de fin';
 $_['entry_group'] = 'Regroupé par';
-$_['entry_status'] = 'Statut des retours';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
