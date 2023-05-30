@@ -58,3 +58,4 @@ $_['tab_review'] = 'Évaluations (%s)';
 $_['error_name'] = 'Attention : le nom de l’évaluation doit être compris entre 3 et 25 caractères !';
 $_['error_text'] = 'Attention : le texte de l’évaluation doit être compris entre 25 et 1000 caractères !';
 $_['error_rating'] = 'Attention : veuillez sélectionner une note !';
+$_['error_product'] = 'Attention : un produit est requis pour ajouter une évaluation !';
